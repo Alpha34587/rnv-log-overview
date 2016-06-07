@@ -1,0 +1,14 @@
+../res/archeo_OE_116.xml
+../res/archeo_OE_116.xml:312949:21: error: attribute ^dir not allowed
+required:
+	after
+../res/archeo_OE_116.xml:312969:21: error: attribute ^dir not allowed
+required:
+	after
+../res/archeo_OE_116.xml:312979:21: error: attribute ^dir not allowed
+required:
+	after
+../res/archeo_OE_116.xml:312989:21: error: attribute ^dir not allowed
+required:
+	after
+error: some documents are invalid

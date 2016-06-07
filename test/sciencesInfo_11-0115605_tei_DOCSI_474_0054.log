@@ -1,0 +1,5 @@
+../res/sciencesInfo_11-0115605_tei_DOCSI_474_0054.xml
+../res/sciencesInfo_11-0115605_tei_DOCSI_474_0054.xml:5486:317: error: attribute ^target with invalid value "#http://fr.twitter.com/#!/jmlazard"
+required:
+	data http://www.w3.org/2001/XMLSchema-datatypes^anyURI
+error: some documents are invalid

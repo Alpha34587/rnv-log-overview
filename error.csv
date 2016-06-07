@@ -1,0 +1,22 @@
+type; error; files 
+attribute; id with invalid value "Potter'sworkshop"; archeo_OE_348.xml:125:15
+attribute; from with invalid value "75 170"; ling_OE_833.xml:116:21
+attribute; from with invalid value "85 171"; ling_OE_396.xml:116:21
+attribute; from with invalid value "55 170"; ling_OE_657.xml:116:21
+attribute; from with invalid value "133 172"; ling_OE_785.xml:116:21
+attribute; lang with invalid value "franç"; ling_OE_519.xml:72205:18  || ling_OE_475.xml:82933:18
+attribute; level not allowed; ling_OE_37.xml:35527:15  || ling_OE_678.xml:43651:15  || sciencesInfo_11-0059503_tei_DN_123_0023.tei.xml:59410:15  || sciencesInfo_11-0059503_tei_DN_123_0023.tei.xml:59411:15
+element; sub not allowed; chimie_85-0218123_tei_85.v85-008.tei.xml:136:162  || chimie_85-0218123_tei_85.v85-008.tei.xml:136:175  || chimie_85-0218123_tei_85.v85-008.tei.xml:136:195  || chimie_85-0218123_tei_85.v85-008.tei.xml:136:208
+element; formula not allowed; chimie_85-0218123_tei_85.v85-008.tei.xml:61089:7  || chimie_85-0218123_tei_85.v85-008.tei.xml:61090:7  || chimie_85-0218123_tei_85.v85-008.tei.xml:61091:7
+attribute; id with invalid value "Coted'Or"; archeo_OE_354.xml:131:15  || archeo_OE_356.xml:132:15  || archeo_OE_213.xml:177:15  || archeo_OE_347.xml:135:15  || archeo_OE_360.xml:132:15  || archeo_OE_358.xml:130:15
+attribute; target with invalid value "#http://fr.twitter.com/#!/jmlazard"; sciencesInfo_11-0115605_tei_DOCSI_474_0054.xml:5486:317
+attribute; from with invalid value "39 169"; ling_OE_544.xml:115:21
+attribute; dir not allowed; archeo_OE_116.xml:312949:21  || archeo_OE_116.xml:312969:21  || archeo_OE_116.xml:312979:21  || archeo_OE_116.xml:312989:21  || archeo_OE_114.xml:263107:21
+attribute; from with invalid value "95 171"; ling_OE_523.xml:129:21
+attribute; id with invalid value "2_5Furandione_2_5dihydro_"; chimie_elsevier_98-0508880_CRAS-IIc-Chim.xml:132:15
+attribute; from with invalid value "107 171"; ling_OE_658.xml:116:21
+attribute; target with invalid value "#www.facebook.com/sylvielebars#/"; sciencesInfo_09-0433007_tei_DOCSI_idPAS_D_ISBN_pu2009-03s_sa11_art11.xml:7497:546
+attribute; id with invalid value "Vald'Aoste"; ling_OE_532.xml:158:15
+attribute; id with invalid value "Coupd'Etat"; ling_OE_801.xml:117:15
+attribute; from with invalid value "149 172"; ling_OE_832.xml:116:21
+attribute; corresp with invalid value "#βGlucuronidase"; chimie_elsevier_98-0411816_CRAS-IIc-Chim.xml:141:15

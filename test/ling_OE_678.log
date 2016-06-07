@@ -1,0 +1,5 @@
+../res/ling_OE_678.xml
+../res/ling_OE_678.xml:43651:15: error: attribute ^level not allowed
+required:
+	after
+error: some documents are invalid

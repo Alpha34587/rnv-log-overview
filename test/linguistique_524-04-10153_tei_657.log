@@ -1,0 +1,5 @@
+../res/linguistique/linguistique_524-04-10153_tei_657.xml
+../res/linguistique/linguistique_524-04-10153_tei_657.xml:116:21: error: attribute ^from with invalid value "149 172"
+required:
+	data http://www.w3.org/2001/XMLSchema-datatypes^token
+error: some documents are invalid

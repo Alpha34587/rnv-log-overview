@@ -1,8 +1,8 @@
-../res/sciencesInfo_11-0059503_tei_DN_123_0023.tei.xml
-../res/sciencesInfo_11-0059503_tei_DN_123_0023.tei.xml:59410:15: error: attribute ^level not allowed
+../res/sic/sciencesInfo_11-0059503_tei_DN_123_0023.tei.xml
+../res/sic/sciencesInfo_11-0059503_tei_DN_123_0023.tei.xml:59410:15: error: attribute ^level not allowed
 required:
 	after
-../res/sciencesInfo_11-0059503_tei_DN_123_0023.tei.xml:59411:15: error: attribute ^level not allowed
+../res/sic/sciencesInfo_11-0059503_tei_DN_123_0023.tei.xml:59411:15: error: attribute ^level not allowed
 required:
 	after
 error: some documents are invalid

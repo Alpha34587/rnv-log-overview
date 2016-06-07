@@ -1,0 +1,5 @@
+../res/linguistique/linguistique_11-0115506_tei_38.xml
+../res/linguistique/linguistique_11-0115506_tei_38.xml:43651:15: error: attribute ^level not allowed
+required:
+	after
+error: some documents are invalid

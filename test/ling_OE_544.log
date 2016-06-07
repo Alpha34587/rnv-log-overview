@@ -1,5 +1,0 @@
-../res/ling_OE_544.xml
-../res/ling_OE_544.xml:115:21: error: attribute ^from with invalid value "39 169"
-required:
-	data http://www.w3.org/2001/XMLSchema-datatypes^token
-error: some documents are invalid

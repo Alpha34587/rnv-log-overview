@@ -1,5 +1,0 @@
-../res/archeo_OE_347.xml
-../res/archeo_OE_347.xml:135:15: error: attribute http://www.w3.org/XML/1998/namespace^id with invalid value "Coted'Or"
-required:
-	data http://www.w3.org/2001/XMLSchema-datatypes^ID
-error: some documents are invalid

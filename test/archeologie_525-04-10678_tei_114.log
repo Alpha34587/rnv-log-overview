@@ -1,0 +1,5 @@
+../res/archeologie/archeologie_525-04-10678_tei_114.xml
+../res/archeologie/archeologie_525-04-10678_tei_114.xml:263107:21: error: attribute ^dir not allowed
+required:
+	after
+error: some documents are invalid

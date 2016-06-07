@@ -1,5 +1,0 @@
-../res/chimie_elsevier_98-0411816_CRAS-IIc-Chim.xml
-../res/chimie_elsevier_98-0411816_CRAS-IIc-Chim.xml:141:15: error: attribute ^corresp with invalid value "#βGlucuronidase"
-required:
-	data http://www.w3.org/2001/XMLSchema-datatypes^anyURI
-error: some documents are invalid

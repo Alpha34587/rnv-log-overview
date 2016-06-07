@@ -1,0 +1,6 @@
+../res/linguistique/linguistique_09-0345265_tei_595.xml
+../res/linguistique/linguistique_09-0345265_tei_595.xml:72205:18: error: attribute http://www.w3.org/XML/1998/namespace^lang with invalid value "franç"
+required:
+	data http://www.w3.org/2001/XMLSchema-datatypes^language
+	value ^token ""
+error: some documents are invalid

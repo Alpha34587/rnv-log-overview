@@ -1,0 +1,5 @@
+../res/linguistique/linguistique_11-0106457_tei_829.xml
+../res/linguistique/linguistique_11-0106457_tei_829.xml:35527:15: error: attribute ^level not allowed
+required:
+	after
+error: some documents are invalid

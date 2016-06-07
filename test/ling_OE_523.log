@@ -1,5 +1,0 @@
-../res/ling_OE_523.xml
-../res/ling_OE_523.xml:129:21: error: attribute ^from with invalid value "95 171"
-required:
-	data http://www.w3.org/2001/XMLSchema-datatypes^token
-error: some documents are invalid

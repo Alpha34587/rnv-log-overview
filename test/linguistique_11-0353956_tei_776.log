@@ -1,5 +1,0 @@
-../res/linguistique/linguistique_11-0353956_tei_776.xml
-../res/linguistique/linguistique_11-0353956_tei_776.xml:158:15: error: attribute http://www.w3.org/XML/1998/namespace^id with invalid value "Vald'Aoste"
-required:
-	data http://www.w3.org/2001/XMLSchema-datatypes^ID
-error: some documents are invalid

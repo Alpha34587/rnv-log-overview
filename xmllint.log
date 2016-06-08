@@ -232,9 +232,9 @@ vices documentation : l’approche scandinave<ref target="#no1" xml:id="re1no1"
 ../res/sic/sciencesInfo_10-0347328_tei_DOCSI_idPAS_D_ISBN_pu2010-02s_sa09_art09.xml:18287: element note: validity error : ID no15 already defined
       <note n="15" place="foot" xml:id="no15" target="#idm44866263557104">
                                                                          ^
-../res/linguistique/linguistique_10-0210814_tei_494.xml:117: validity error : xml:id : attribute value Coupd'Etat is not an NCName
+../res/linguistique/linguistique_10-0210799_tei_801.xml:117: validity error : xml:id : attribute value Coupd'Etat is not an NCName
                <term type="controlled" xml:id="Coupd'Etat">Coup d'Etat</term>
                                                           ^
-../res/linguistique/linguistique_11-0353956_tei_776.xml:158: validity error : xml:id : attribute value Vald'Aoste is not an NCName
+../res/linguistique/linguistique_11-0353955_tei_532.xml:158: validity error : xml:id : attribute value Vald'Aoste is not an NCName
                <term type="controlled" xml:id="Vald'Aoste">Val d'Aoste</term>
                                                           ^

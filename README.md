@@ -1,5 +1,5 @@
-# rnv-log-overview
-convert several "log" rnv files into a csv file
+# xml log overview
+convert several "log" rnv & xmllint files into a csv file
 
 ##Instruction##
 1. save the output error of rnv into a file or several files (this file must be contains in a folder)
@@ -10,4 +10,5 @@ convert several "log" rnv files into a csv file
 ##Install##
 
 `gem install xlo`
+
 `xlo rnv_folder xmlint_file`

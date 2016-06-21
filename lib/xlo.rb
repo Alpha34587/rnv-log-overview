@@ -63,7 +63,7 @@ class Xlo
       xmllint_error(_xmllint_arg, error)
     end
     error.each do |entry|
-      freq = entry[1].split(" ").length.to_s
+      freq = entry[1].split("||").length.to_s
       f.write(entry.insert(1, freq).join("; ")[0..-2] +  "\n" )
     end
   end

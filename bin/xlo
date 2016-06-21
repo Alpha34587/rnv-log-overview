@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'xlo'
+rnv_arg = ARGV.shift
+xmllint_arg = ARGV.shift
+raise "missing argument(s) !" unless rnv_arg
+Xlo.main(rnv_arg,xmllint_arg)

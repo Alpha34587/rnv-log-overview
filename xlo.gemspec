@@ -10,5 +10,6 @@ Gem::Specification.new do |s|
   s.executables << 'xlo'
   s.homepage    =
     'http://rubygems.org/gems/xlo'
+    'https://github.com/Alpha34587/xlo'
   s.license       = 'apache 2'
 end

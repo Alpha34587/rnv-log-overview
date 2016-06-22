@@ -1,14 +1,20 @@
-# xml log overview
-convert several "log" rnv & xmllint files into a csv file
+# Xml Log Overview
+XLO is a rnv/xmllint wrapper who captures the error generate by this validators and convert them into a csv file.  
 
-##Instruction##
-1. save the output error of rnv into a file or several files (this file must be contains in a folder)
-2. execute main.rb the first arg is mandatory and it is the path to the folder who contains log
-3. the second argument correspond to the xmllint output error it is optional but this output error must be contains to a distinct file and folder to rnv logs
-4. the output is a .csv with the different error and the set of files with this error
+## Instruction
+  1. make all your xml file in the same folder
+  2. execute xlo : `xlo rnc-schema xml-folder`   
 
-##Install##
+## Installation
 
-`gem install xlo`
+1. `gem install xlo`
+2. `apt-get install rnv`
+3. `apt-get install xmllint`
+4. `xlo rnc-schema xml-folder`
 
-`xlo rnv_folder xmlint_file`
+## Note
+ the code contains several functions who could be use to like a ruby api
+
+## Useful link
+
+ - http://www.davidashen.net/rnv.html

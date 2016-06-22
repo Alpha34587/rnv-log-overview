@@ -1,5 +1,0 @@
-../res/sic/sciencesInfo_09-0433007_tei_DOCSI_idPAS_D_ISBN_pu2009-03s_sa11_art11.xml
-../res/sic/sciencesInfo_09-0433007_tei_DOCSI_idPAS_D_ISBN_pu2009-03s_sa11_art11.xml:7497:546: error: attribute ^target with invalid value "#www.facebook.com/sylvielebars#/"
-required:
-	data http://www.w3.org/2001/XMLSchema-datatypes^anyURI
-error: some documents are invalid

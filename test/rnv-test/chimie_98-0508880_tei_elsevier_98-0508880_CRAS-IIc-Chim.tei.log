@@ -1,5 +1,0 @@
-../res/chimie/chimie_98-0508880_tei_elsevier_98-0508880_CRAS-IIc-Chim.tei.xml
-../res/chimie/chimie_98-0508880_tei_elsevier_98-0508880_CRAS-IIc-Chim.tei.xml:132:15: error: attribute http://www.w3.org/XML/1998/namespace^id with invalid value "2_5Furandione_2_5dihydro_"
-required:
-	data http://www.w3.org/2001/XMLSchema-datatypes^ID
-error: some documents are invalid

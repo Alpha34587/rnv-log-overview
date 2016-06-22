@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Étude cinétique de la N-chloration de l&apos;acide cyanurique en phase aqueuse</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1990">1990</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Denise</forename>
+								<surname>Matte</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de photochimie appliquée (Unité associée n° 238 du Centre national de la recherche scientifique)</orgName>
+								<orgName type="institution">Université de Nancy I</orgName>
+								<address>
+									<addrLine>Boite postale 239</addrLine>
+									<postCode>54506</postCode>
+									<settlement>Vandoeuvre-les-Nancy CEDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Bernard</forename>
+								<surname>Solastiouk</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de photochimie appliquée (Unité associée n° 238 du Centre national de la recherche scientifique)</orgName>
+								<orgName type="institution">Université de Nancy I</orgName>
+								<address>
+									<addrLine>Boite postale 239</addrLine>
+									<postCode>54506</postCode>
+									<settlement>Vandoeuvre-les-Nancy CEDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">André</forename>
+								<surname>Merlin</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de photochimie appliquée (Unité associée n° 238 du Centre national de la recherche scientifique)</orgName>
+								<orgName type="institution">Université de Nancy I</orgName>
+								<address>
+									<addrLine>Boite postale 239</addrLine>
+									<postCode>54506</postCode>
+									<settlement>Vandoeuvre-les-Nancy CEDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Xavier</forename>
+								<surname>Deglise</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de photochimie appliquée (Unité associée n° 238 du Centre national de la recherche scientifique)</orgName>
+								<orgName type="institution">Université de Nancy I</orgName>
+								<address>
+									<addrLine>Boite postale 239</addrLine>
+									<postCode>54506</postCode>
+									<settlement>Vandoeuvre-les-Nancy CEDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Étude cinétique de la N-chloration de l&apos;acide cyanurique en phase aqueuse</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">68</biblScope>
+							<biblScope type="fpage">307</biblScope>
+							<date type="published" when="1990">1990</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords type="author">
+					<list>
+						<item>
+							<term>kinetics</term>
+						</item>
+						<item>
+							<term>N-chlorination</term>
+						</item>
+						<item>
+							<term>1,3,5-triazine-2,4,6-trione</term>
+						</item>
+						<item>
+							<term>aqueous medium</term>
+						</item>
+						<item>
+							<term>stopped flow</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>Nous présentons une étude des mécanismes et déterminons les constantes de vitesse des N-chlorations d&apos;acide cyanurique en milieu aqueux basique. Les énergies d&apos;activation des processus mis en cause ont été déterminées. Ces cinétiques rapides ont été étudiées sur spectrophotomètre à écoulement bloqué. Dans le domaine de pH étudié nos résultats expérimentaux sont en accord avec un modèle cinétique comprenant la contribution de deux couples de processus indiscernables.</p>
+<p><formula>H 3 Cy + CIO- produits</formula></p>
+<p><formula>H 2 Cy- + ClOH produits</formula></p>
+<p><formula>H 2 Cy- + Co- produits</formula></p>
+<p><formula>HCy 2- + ClOH produits</formula></p>
+<p>Les valeurs limites des constantes de vitesse dans le cas où, pour chaque couple, un seul des processus participe à la cinétique de chloration sont les suivantes :</p>
+<p><formula>k 2 = (5,4 x 10&quot;) exp (—35500/i?r) M -1 s -1</formula></p>
+<p><formula>k 3 = (2,0 x 10&quot;) exp (-36100/RT) M -1 s -1</formula></p>
+<p><formula>¿4 = (1,4 x 10 13) çxp (-55200/RT) M -1 s -1</formula></p>
+<p><formula>k, = 2,2 x 10 M&quot; (à 298 K)</formula></p>
+<p>À partir de ces valeurs, nous avons pu calculer les constantes de vitesse d&apos;hydrolyse des dérivés monochlorés de l&apos;acide cyanurique. Mots clés : cinétique, N-chloration, 1,3,5-triazine 2,4,6-trione, phase aqueuse, spectrophotométrie à écoulement bloqué.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>A complete kinetic study of the N-chlorination, in basic aqueous medium, of cyanuric acid by the stopflow spectrophoto-metric method is presented. Our experimental results can be interpreted by two pairs of kinetically indistinguishable mechanisms.</p>
+<p><formula>H 3 Cy + CIO- produits</formula></p>
+<p><formula>H 2 Cy- + ClOH produits</formula></p>
+<p><formula>H 2 Cy- + Co- produits</formula></p>
+<p><formula>HCy 2- + ClOH produits</formula></p>
+<p>The rate constants and their corresponding activation energies were determined in the limiting case where one of the elementary steps in each pair is involved alone in the kinetics of reaction.</p>
+<p><formula>k 2 = (5.4 x 10 11) exp (-35500/RT) M&quot; 1 s&quot; 1</formula></p>
+<p><formula>k 3 = (2.0 x 10 11) exp (—36700/i?T) M _1 s -1</formula></p>
+<p><formula>¿4 = (1.4 x 10 13) exp (-55200/RT) M _1 s -1</formula></p>
+<p><formula>k 5 = 2.2 x 10 7 M -1 s&quot; 1 (at 298 K)</formula></p>
+<p>The rate constants for hydrolysis of the monochlorinated cyanuric acid derivatives were derived from our experimental values.</p>
+			</div>
+		</front>
+		
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>Les dérivés N-chlorés de la triazine-1,3,5 trione-2,4,6 ou acide cyanurique (H 3 Cy) sont des sources sèches de chlore couramment utilisées dans les détergents et les eaux de piscines. Mises en solution, ces molécules constituent un réservoir de chlore actif pouvant être libéré par leurs hydrolyses successives :</p> 
+			
+	<p><formula>Cl ( 3-,)CyH, + H 2 0 HOC1 + Cl (2 _,,CyH ( , +1)</formula></p> 
+	
+			<p>où x est compris entre 0 et 2. Suivant les conditions de pH, la concentration en ions chlorures et le rapport [chlore] / [Cy] et compte tenu des propriétés acido-basiques de ces dérivés, on peut recenser en solution dix composés comprenant un noyau cyanurique en présence de différentes espèces du chlore libre (Cl 2 , ClOH, C1CT).</p>
+
+			<p>Les constantes d&apos;équilibre entre ces composés ont été déterminées par O&apos; <ref type="bibr">Brien et al. (1, 2)</ref>. À partir de ces valeurs, nous avons mis au point un mode de calcul appliqué à la microinformatique permettant de déterminer la composition complète de ce système dans des conditions variées (3). Ce calcul permet de vérifier qu&apos;en milieu basique, le système précédent se simplifie notablement, en particulier un excès d&apos;acide cyanurique permet de ne tenir compte que de la réaction de première chloration de celui-ci :</p>
+
+	<p><formula>Kh HClCy -j • CICy 2 &quot; K e Kl H 3 Cy ^ K* K b K c t H 2 Cy&quot; ^ • HCy 2 &quot; .4 • Cy</formula></p>
+
+			<p>Pour le chlore libre, dans ces mêmes conditions, on ne tient compte que de l&apos;équilibre entre l&apos;acide hypochloreux et les ions hypochlorites :</p>
+
+	<p><formula>ClOH K 7 CIO&quot; + H 4</formula></p>
+
+			<p>À ces pH, la composition de ce milieu ne dépend donc pas des ions chlorures en dehors d&apos;un effet de force ionique. Il n&apos;existait pas de données cinétiques ou mécanistiques sur ces réactions rapides et équilibrées. Nous nous sommes donc intéressés à l&apos;étude cinétique de la première chloration de l&apos;acide cyanurique en milieu basique.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Techniques expérimentales (réf. 4)</head>
+
+			<p>Nous avons suivi la chloration de l&apos;acide cyanurique par des solutions diluées d&apos;ions hypochlorites. Le maximum d&apos;absorption de CIO se situant à 290 nm et les dérivés monochlorés de H 3 Cy absorbant à des longueurs d&apos;onde plus faibles, nous avons pu, par spectrophotométrie à écoulement bloqué, déterminer les paramètres cinétique de cette réaction en observant la disparition de CIO&quot; à cette longueur d&apos;onde.</p> 
+			
+			<p>En opérant en large excès d&apos;acide cyanurique par rapport au chlore, nous avons pu mesurer une constante de vitesse expérimentale du pseudo-premier ordre (k obs ), pente de la droite ln (A — A») en fonction du temps (A est la densité optique de la solution à un instant donné). Dans ces conditions, le chlore est totalement consommé et la réaction s&apos;arrête à la formation du composé monochloré.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Résultats expérimentaux</head>
+
+			<p>Nous avons tout d&apos;abord vérifié que les résultats obtenus dans les conditions précédemment décrites étaient parfaitement représentés par le modèle d&apos;une cinétique du pseudo-premier ordre. La relation liant In (A — A x ) avec le temps étant linéaire, la réaction est du premier ordre par rapport à la concentration en chlore total [CJ] t . La vitesse globale de réaction s&apos;exprime donc, en présence d&apos;un excès d&apos;acide cyanurique ([Cy] t [Cl],), par:</p> 
+			
+	<p><formula>[1] v = d [C|] t di = wci],</formula></p> 
+			
+			<p>À pH constant, nous avons observé que fc obs est proportionnelle à la concentration totale d&apos;acide cyanurique ( <ref type="figure">fig. 1</ref>). La réaction est donc globalement du second ordre 1 par rapport à chacun des deux réactifs</p> 
+			
+	<p><formula>[2] o = ¿ex P [Cy] t [Cl] t</formula></p> 
+			
+			<p>où k exp la constante de vitesse globale du second ordre s&apos;exprime simplement pour nos conditions expérimentales à partir de [1] et [2]:</p>
+			
+	<p><formula>[3] ^exp ftpbs [Cy],</formula></p> 
+	
+			<p>Les variations de k exp en fonction du pH à 25°C sont représentées sur la <ref type="figure">figure 2</ref>. Nous avons aussi suivi l&apos;influence de la température sur ce paramètre à différents pH ( <ref type="figure">fig. 3</ref>). Les relations exprimant ln (fcexp) en fonction de la température pour les pH étudiés sont regroupées dans le tableau 1.</p>
+
+			</div>
+			
+			<div type="section">
+				<head>Interprétation</head>
+
+			<p>L&apos;acide cyanurique est un triacide faible que l&apos;on peut trouver en solution sous les quatre formes H 3 Cy, H 2 Cy~, HCy 2-et Cy 3-en équilibre dans des proportions qui dépendent du pH ( <ref type="figure">fig. 4</ref>). Corrélativement la concentration totale en acide cyanurique sera la somme des concentrations de ces espèces :</p> 
+			
+	<p><formula>[4] [ Cy], = [H 3 Cy]+ [H 2 Cy&quot;]+ [HCy 2-]+ [Cy 3 &quot;]</formula></p>
+		
+			<p>Compte tenu du domaine de pH des solutions utilisées (pH &gt; 8) et de la vitesse de la réaction qui exclut qu&apos;une espèce trop minoritaire intervienne dans le mécanisme, nous considérons le chlore libre sous forme d&apos;acide hypochloreux ou d&apos;ions hypochlorites qui sont les espèces majoritaires de ce milieu ( <ref type="figure">fig. 5</ref>) :</p> 
+			
+			<p><formula>[5] [ Cl], = [ClOH]+ [CIO -]</formula></p>
+
+			<p>Les concentrations de ces différentes espèces peuvent être exprimées en fonction des constantes d&apos;équilibre K 2 , K a , K b et K c , de leurs coefficients d&apos;activité (7;), du pH et de [Cy], et [Cl],. Le détail de ce calcul qui conduit aux expressions [6] [9] est présenté en annexe.</p> 
+			
+	<p><formula>[6] [H 3 Cy] = 1 [Cy],</formula></p>
+
+	<p><formula>[7] [H2 Cy-]= K..,fa3Cy [Cy] ^(H+ )7H2Cy- t</formula></p>
+		
+	<p><formula>[8] [HCy2] = ^a^b7H3Cy • [Cy]</formula></p>
+		
+	<p><formula>[9] K KJ(£ Cy [Cy]t</formula></p>
+
+			<p>Pour le chlore en posant : d = A^qoh + (H + )7cicr</p> 
+				
+	<p><formula>[10] [ ClOH] = (H ) ] c &apos;°&quot; [C] ], et</formula></p>
+	
+	<p><formula>[11] [C1CT] -^ a7 Ç&apos; OH [Cl]</formula></p> 
+	
+			<p>Les équilibres de protonation et d&apos;ionisation caractérisés par les constantes K 2 , K a , K b et K c sont rapides devant la cinétique de chloration et les relations [4]-[l 1] restent vérifiées au cours de la réaction. Compte tenu de la mise en évidence expérimentale d&apos;un ordre un par rapport à chacun des réactifs, nous pouvons envisager huit processus différents susceptibles de limiter la vitesse globale de réaction :</p> 
+				
+			<p>Le comportement de la constante de vitesse expérimentale en fonction du pH ( <ref type="figure">fig. 2</ref>) semblant indiquer la participation de plusieurs processus à la cinétique globale de la réaction, nous envisagerons tout d&apos;abord une participation (r (P )) de chacun des processus P t -P 8 .</p>
+
+	<p><formula>d [CyCl] t dr U (P,) + U (P 2 ) + U (P 3 ) + &quot;CP«) + u (p 5 ) + u (P 6 ) + y (P 7 ) + y (P 8 )</formula></p>
+
+			<p>Pour un processus bimoléculaire en solution réelle (A + B » C^ —») où C^ est le complexe activé du processus :</p> 
+			
+	<p><formula>[12] d&apos;où i&gt; (Pl ) = *?— [A] [B] 7c* v = k 0 7H 3 Cy7ci0H [H3Cy] [C10 H] 7a* 7H 3 Cy7ciO&quot; + 7C2* [H 3 Cy][C10&quot;</formula></p>
+
+			<p>À partir des relations [6]-[11] donnant les concentrations des différentes espèces et en posant v _ 7H 3 Çy7ciOH7ciQ- sâd nous obtenons l&apos;expression de la vitesse globale de réaction en fonction de [Cy] t et [Cl]t :</p>
+
+	<p><formula>D = le 0 / IrS 4 (H+ - V72 73 L yï + k° — K 2 K a + K 2 K y 7s 74 kï K 2 K a K b 76 (H ) k? H K. à K h K( 77 1 kî + K 2 K !i K b K c 78 (H + ) 2 1 (H + ) 3 J X [Cy] t [Cl],</formula></p>
+
+			<p>Cette expression permet de regrouper les processus en fonction de la dépendance de leur contribution vis à vis de l&apos;activité du proton hydraté : P,; (P 2 , P 3 ); (P 4 , P 5 ); (P 6 , P 7 ) et P 8 . Pour chacun des couples, (P 2 , P 3 ), (P 4 , P 5 ) et (P 6 , P 7 ), nous pouvons vérifier que les deux complexes activés à l&apos;intérieur de chaque couple ont même charge et même composition. Ainsi leurs coefficients d&apos;activité peuvent être considérés comme égaux ou en tout cas comme variant de façon identique avec la force ionique du milieu. Comme le pH influe de la même manière sur leurs contributions à la vitesse globale de réaction, les processus sont indiscernables à l&apos;intérieur de chaque couple et notre étude se ramène à cinq cas : P^ P 2 ou P 3 ; P 4 ou P 5 ; P 6 ou P 7 et P 8 - Nous avons déjà observé et décrit ce phénomène d&apos;indiscernabilité de processus pour la N-chloration d&apos;amines secondaires (4, 8). En notant F les facteurs caractérisant ces contributions (les facteurs F ne dépendent pas du pH et restent constants à force ionique constante) nous obtenons :</p>
+
+	<p><formula>y = (f\(H + ) + F 2 . 3 + + Fe ~ 7 (H ) (H ) + ^2 (HT X [Cy] t [Cl]t</formula></p>
+
+			<p> et en identifiant à la relation [2] une expression théorique de la constante de vitesse expérimentale :</p>
+
+			<p>Soit Y, obtenu à partir de nos points expérimentaux et des valeurs de X calculées pour les conditions correspondantes, défini par :</p>
+
+	<p><formula>y = = FI(H ) + F2-3 + &apos;4-5 Fe-i + \2 (H ) (H ) (H )</formula></p>
+
+			<p>En portant log 10 (iO en fonction du pH (<ref type="figure">fig. 6</ref>), nous pouvons déterminer les facteurs qui influencent la cinétique de réaction.</p>
+
+	<p><formula>2,00 r log io (Y) 1,00 0,00 -1,00 -2,00 -3,00 8 9 pH 10 11 12</formula></p>
+
+			<p>À pH &gt; 10, les points obtenus sont portés par une droite de pente 1, ce qui indique une participation exclusive dans ce domaine des processus 4 ou 5. Pour des pH plus faibles, l&apos;amortissement de la courbe indique que la participation des processus 2 ou 3 est prépondérante (pH &lt; 8,5). Il apparaît donc que, dans le domaine de pH étudié, les résultats expérimentaux sont correctement décrits en considérant une expression de la forme :</p>
+
+	<p><formula>[13] Y = k e sâd = F 2-3 + ^4-5 (H + ) 7H3Cy7ciOH7ciO&quot;</formula></p>
+
+			<p>Une optimisation permet de trouver les valeurs de ces paramètres à 298 K :</p>
+
+	<p><formula>F2-3 5-K 2 + 72 7? K a = 11,5 x 10 -3 s -1 k9 k* F 4 . 5 = ^jK 2 K a + -4 K a K b = 2,35 x 10&quot;&quot; Ms&quot; 1 74 7s</formula></p>
+
+			<p>Dans le cas limite où l&apos;un des processus de chaque couple devient prépondérant, nous pouvons calculer la valeur théorique maximale des constantes de vitesse à 25°C :</p>
+				
+	<p><formula>si si si SI ¿3° ^ Kl ^ 7? Ka k 0 k l 72 k l lî k4° kl K 2 K a :s&gt; —— K a K b 74 75 = 3,25 x 10 5 M _1 s -1 K 2 K a 73 -1 &quot; -1 k° = 7,27 X 10 4 M k% = 2,92 X 10 3 lvr kl 71 ¥ K 2 K a &lt;$C K a K b k l 7? Â: 5 0 = 2,16 x 10 7 M&quot; 1 s&quot; 1</formula></p>	
+				
+			<p>TABLEAU 2. Les valeurs de F 2 _3 et F4.5 sont obtenues par optimisation à partir des expressions du tableau 1 et de la relation [13]. Pour chaque température, une valeur de ces paramètres correspond à deux valeurs limites de la constante de vitesse selon le processus envisagé. Pour calculer les coefficients d&apos;activité des espèces chargées nous utilisons la loi limite de Debye et Hiickel en tenant compte de l&apos;effet de la force ionique et de la température.</p>
+
+			<p>La détermination des constantes de vitesse expérimentales obtenues pour une série de pH constants à des températures variant de 10 à 45°C (tableau 1) a permis l&apos;étude de l&apos;influence de ce facteur sur les paramètres F 2 . 3 et F 4 _ 5. Le calcul des coefficients sd et d dans cette gamme de températures a été fait en utilisant pour expression des constantes d&apos;ionisation les relations :</p> 
+				
+	<p><formula>pK 2 = (3000/7&quot;) -10,0686 + 0,02537&quot; (réf. 5) pK a = 31,08 -0,1547&quot; + (2,441 x 10&quot; 4 )7&quot; 2 (réf. 6) pK b = 35,86 -0,12157&quot; + (1,39 x 10&quot; 4 )7&quot; 2 (réf. 6) pK c = ptfc (298) (298/7&quot;) (réf. 6)</formula></p> 
+				
+			<p>Les valeurs des constantes de vitesse déduites de ce calcul sont reportées dans le tableau 2. Pour les processus P 2 , P3 et P 4 le logarithme des constantes de vitesse versus 1 /T est porté par des droites dont les pentes donnent les énergies d&apos;activation des processus.</p> 
+			
+	<p><formula>4272 ln (k 2 ) = --jr~ + 27 Et = 35,5 kJ/mol 4419 ln (k 3 ) = — + 26 Et = 36,7 kJ/mol 6640 ln (k 4 ) = — + 30,3 Et = 55,2kJ/mol</formula></p> 
+			
+			<p>k 5 apparaît constant avec la température dans la limite des erreurs expérimentales.</p> 
+			
+			<p>Le tableau 3 résume les résultats obtenus : constantes de vitesse des processus à 298 K, énergies d&apos;activation des différents processus (d ln k/dT = E*/RT 2 ) et valeurs AH ¥ et AS ¥ calculées en identifiant les expressions tirées de l&apos;expérience aux valeurs de la dérivée de la constante de vitesse exprimée par la relation k = {k b T/h)K ¥ .</p>
+			
+			</div>
+			
+			<div type="section">
+				<head>Calcul des constantes de vitesse d&apos;hydrolyse</head>
+
+			<p>Nos résultats nous permettent à partir des valeurs des constantes d&apos;équilibre (pK d = 4,07, pK e = 5,62, pK t = 6,90 (1,2)) de calculer les constantes de vitesse d&apos;hydrolyse des différentes formes de dérivés monochlorés de l&apos;acide cyanurique :</p>
+
+	<p><formula>k-2 , H 2 CyCl + HO&quot; &lt; CIO&quot; + H 3 Cy k 2 *-3 . HCyCr + H 2 0 &lt; C10H + H 2 Cy&quot; h k-4 HCyCr + HO&quot; &lt; &apos; CIO&quot; + H 2 Cy&quot; k 4 k-5 CyCl 2-+ H,O ( C10H + HCy</formula></p>
+
+			<p>où est la constante de dissociation de l&apos;eau, et K 2 la constante d&apos;ionisation de ClOH. Nous obtenons à 25°C les valeurs suivantes :</p>
+
+	<p><formula>k_ 2 = 8 x 10 7 M _1 s -1 k_ 3 = 0,17s&quot; 1 k_ 4 = 2 x 10 4 M&quot; 1 s&quot; 1 k_ 5 = 2,72 s&quot; 1</formula></p>
+
+			</div>
+			
+			<div type="section">
+				<head>Conclusions</head>
+
+			<p>Les résultats obtenus pour la première chloration de l&apos;acide cyanurique peuvent être comparés aux valeurs correspondantes des aminés aliphatiques. Nous avons aussi étudié précédemment (8) la N-chloration de la diéthylamine :</p>
+
+	<p><formula>*h , Et,NCl + H,0 f Et 2 NH + ClOH K = kr = 5,89 x 10&quot; 16 M (réf. 7) ^ClOH et/tdOH = 5,3 x ÎO&apos;M^S-1 à 25°C (8).</formula></p> 
+				
+			<p>Ce qui correspond à une constante d&apos;hydrolyse k h = 4,3 x 10&quot; 8 s -1 , soit un temps de demi réaction de 4500 h. Comparativement les temps de demi-réaction des hydrolyses des chlorocyanuriques n&apos;excèdent pas quelques secondes. Du point de vue cinétique et thermodynamique, le chlore fixé par un noyau cyanurique apparaît beaucoup plus labile qu&apos;un chlore lié à une aminé. Sachant de plus que dans l&apos;utilisation habituelle de ces produits , en présence d&apos;un excès d&apos;acide cyanurique (25-60 ppm d&apos;acide cyanurique pour 1 ppm de chlore dans une eau de piscine), la majeure partie du chlore est sous forme d&apos;acide monochlorocyanurique et est ainsi protégée de la photolyse due au rayonnement solaire (3). Nos résultats confirment que dérivés chlorocyanuriques sont une excellente source de chlore actif pour la désinfection et stabilisé vis à vis des pertes par photolyse.</p>
+			
+			</div>
+			
+			<div type="section">
+				<head>Remerciements</head>
+			
+			<p>Les auteurs remercient la société ORKEM et le C.N.R.S. pour l&apos;aide apportée à l&apos;un d&apos;entre eux (D.M.) dans la réalisation de ce travail.</p>
+
+			</div>
+
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">Thèse</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">E</forename>
+				<surname>O&apos;Brien</surname>
+			</persName>
+		</author>
+		<orgName>Harvard University</orgName>
+		<imprint>
+			<pubPlace>Cambridge, MA</pubPlace>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>	
+</biblStruct>
+
+<biblStruct xml:id="b00">	
+	<analytic>	
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">E</forename>
+				<surname>O&apos;Brien</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Morris</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">N</forename>
+				<surname>Butler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Chem. Water Supply Treat. Distrib. Symp</title>
+		<editor>Alan J. Rubin</editor> 
+		<orgName>Ann Arbor Sci</orgName>
+		<imprint>
+			<biblScope type="fpage">333</biblScope>
+			<biblScope type="lpage">358</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Solastiouk</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Deglise</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">66</biblScope>
+			<biblScope type="pp">2188</biblScope>
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Matte</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Thèse</title>
+		<imprint>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Carrel Morris</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">70</biblScope>
+			<biblScope type="issue">3798</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Solastiouk</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Thèse de l&apos;Institut National Polytechnique de Lorraine</title>
+		<pubPlace>Nancy</pubPlace>		
+		<imprint>
+			<date type="published" when="1989" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Electrolyte solutions. 2 È ed</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">A</forename>
+				<surname>Robinson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">H</forename>
+				<surname>Stokes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Matte</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Solastiouk</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Merlin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<forename type="middle">Deglise</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">67</biblScope>
+			<biblScope type="pp">786</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

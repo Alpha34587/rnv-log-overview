@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Solvatation et complexation des métaux dans les mélanges eau -fluorure d&apos;hydrogène. Sn, Cd, Pb et T1</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1990">1990</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Réjean</forename>
+								<surname>Beaudoin</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department" key="dep1">Département de chimie</orgName>
+								<orgName type="department" key="dep2">Faculté des sciences</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K2R1</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Hugues</forename>
+								<surname>Ménard</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department" key="dep1">Département de chimie</orgName>
+								<orgName type="department" key="dep2">Faculté des sciences</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1K2R1</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Solvatation et complexation des métaux dans les mélanges eau -fluorure d&apos;hydrogène. Sn, Cd, Pb et T1</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">68</biblScope>
+							<biblScope type="issue">5</biblScope>
+							<date type="published" when="1990">1990</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords type="author">
+					<list>
+						<item>
+							<term>polarography</term>
+						</item>
+						<item>
+							<term>thallium</term>
+						</item>
+						<item>
+							<term>tin</term>
+						</item>
+						<item>
+							<term>cadmium</term>
+						</item>
+						<item>
+							<term>lead</term>
+						</item>
+						<item>
+							<term>hydrogen fluoride</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>Le comportement électrochimique de l&apos;étain et du thallium dans les mélanges eau-HF a été étudié sur toute la gamme de concentration. Le thallium ne forme pas de complexes fluorés. L&apos;étain Sn2+ forme deux complexes fluorés, SnF2 et SnF+, dans les mélanges contenant moins de 60% en HF. Le complexe SnF2 est suffisamment fort pour empêcher la formation de complexes chlorés. La formation de SnF62_ et SnF5~ a aussi été démontrée pour l&apos;étain Sn4+. La force relativement grande des complexes fluorés de l&apos;étain se réflète bien sur la fonction R0 (M). Tous les métaux étudiés, Sn, Cd, Pb et Tl, sont soins solvatés dans les mélanges eau-HF que dans l&apos;eau, sauf là où la complexation par l&apos;ion fluorure est importante, c.-à-d. l&apos;étain. Aux hautes concentrations en HF, l&apos;espèce HF2~ semble devenir l&apos;expèce complexante.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>The behavior of tin and thallium has been studied in water-HF mixtures. The formation of thallium fluoride complexes was not observed. Tin Sn2+ forms two complexes, SnF2 and SnF+, in mixtures containing less than 60% in HF. SnF2 is strong enough to prevent the formation of chloride complexes. SnF62~ and SnF5~ have been determined for Sn4+ in the same solutions. The relatively high strength of the tin fluoride complexes is reflected in the R0 (M) function. In fact, all the metals studied, Sn, Cd, Pb, and Tl, are less solvated in water-HF mixtures than in water, except for the case where the fluoride complex is strong, i.e., tin. HF2~ seems to be the complexing species at high HF concentrations.</p>
+			</div>
+		</front>
+			
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>Les mélanges eau -fluorure d&apos;hydrogène ont été largement utilisé pour la solubilisation de divers matériaux et pour le décapage de semi-conducteurs. Le comportement électrochimique des ions métalliques dans ces mélanges a été étudié surtout pour des applications analytiques. Les variations des propriétés d&apos;oxydoréduction en fonction de la composition en HF méritent néanmoins d&apos;être mieux définies. Le comportement du mélange eau-HF lui-même est relativement bien défini, soit au niveau de l&apos;acidité avec les fonctions H 0 ( 1, 2) et ^o(H) (3,4), au niveau de l&apos;activité en ions fluorure libres R 0 (F) (4, 5) de même qu&apos;au niveau de l&apos;association moléculaire grâce aux étudies par spectroscopie infrarouge (6-9). La fonction ^ 0 (M) a été utilisé de façon à obtenir les variations d&apos;activité des ions métalliques en fonction de la composition du mélange eau-HF (10). Il a cependant été démontré que la solvatation de l&apos;ion F -est beaucoup plus importante dans les mélanges eau-HF que dans l&apos;eau (5), principalement dû à la formation de la paire d&apos;ions (H 3 0 + ... F -) (6-8). Il est donc évident que les ions métalliques seront moins solvaté dans les mélanges eau-HF que dans l&apos;eau. De récentes études ont montrées que le cadmium et le plomb sont complexés par l&apos;ion fluorure aux basses concentrations en HF mais que cette complexation diminue avec la concentration en HF (11, 12). Le comportement de l&apos;étain et du thallium sera discuté et des conclusions générales pourront être tirées sur la solvatation sur tout le domaine de concentration en HF.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>Le potentiel de réduction du métal a été mesuré par polarographie. Un capillaire recouvert de polyéthylène (13) résistant au HF a été utilisé comme électrode de mercure. Aux concentrations de HF inférieures à 60%, une électrode de référence au calomel a été utilisée alors qu&apos;aux hautes concentrations en HF, le système Cu/CuF 2 (14) offre une meilleure stabilité. Les mesures ont été effectuées à 25 ± 1°C pour les concentrations en HF inférieures à 60% et à 0°C pour les concentrations supérieores à 60%. Les polarogrammes ont été enregistrés à une concentration de 10~ 3 M pour l&apos;espèce ionique considérée. Pour l&apos;étude des complexes fluorés, le potentiel de réduction du système de référence indépendant du solvant (4, 10, 15) Fc + /Fc est mesuré dans la même solution que celle du métal étudié. La précision sur le potentiel de demi-vague est de ±5mV. Pour les mesures de complexes chlorés, la concentration du métal est de 10~ 3 M, auquel du KC1 est ajouté en quantité voulue. Une description complète du système de mesure de la cellule et les données expérimentales sont présentées aux références 16 et 17.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Résultats</head>
+
+			<p>&apos;étain dans les mélanges eau-HF L&apos;évolution des complexes fluorés en fonction de la concentration en HF dépend de l&apos;activité en ions fluorure libres. Un déplacement du potentiel de demi-vague (E t/1 ) mesuré par rapport au potentiel d&apos;une électrode réversible aux ions fluorure est donc indicatif du type de complexe fluoré en solution. Il faut noter ici que la réduction des complexes étudiés présentent des vagues polarographiques réversibles. Il est donc possible de calculer, à partir de l&apos;équation de Nernst, les pentes du déplacement de E, A en fonction de l&apos;activité en ions fluorure libres que l&apos;on devrait mesurer pour des complexes fluorés d&apos;ordre croissant (11, 12). Les pentes théoriques calculées en fonction de l&apos;activité en ions fluorure libres sont les suivantes : SnF + , +0,029; SnF 2 , 0; SnF 3 &quot;~, -0,029volt. La <ref type="figure">figure 1</ref>illustre l&apos;évolution du E, A de réduction de l&apos;étain et la figure 2 illustre le comportement du E^ de l&apos;oxydation de même métal en fonction de l&apos;activité en ions fluorure libres R 0 (F). Les pentes mesurées sur ces graphiques, et présentées aux tableaux 1 et 2, permettent de déterminer l&apos;ordre des complexes fluorés en solution. Les complexes déterminés pour la réduction de l&apos;étain, soit le SnF 3 ~, le SnF 2 et le SnF + , sont utilisés comme complexe de départ pour déterminer les complexes de l&apos;étain oxydés vers l&apos;état Sn</p>
+
+			<p><ref type="figure">FIG. 1</ref>. Potentiel de réduction de l&apos;étain vs. E F -en fonction de I?O(F)-(Chaque point sur les figures représente la moyenne de 5-10 mesures.) Les pentes ont été calculées par régression linéaire. </p>
+				
+				
+			<p><ref type="figure">FIG. 2</ref>. Potentiel d&apos;oxydation de l&apos;étain vs. E ¥ -en fonction de I?o(F).</p> 
+			
+			<p>L&apos;étain en présence d&apos;ions chlorure La présence d&apos;ions chlorure dans une solution eau-HF contenant de l&apos;étain (Sn 2+ ) cause un déplacement du E l/2 de réduction à partir d&apos;une concentration en HF supérieure à 30% et ce pour des concentrations en ions chlorure de l&apos;ordre d&apos;un molaire. La figure 3 montre le déplacement du potentiel de demi-vague pour quelques concentrations en HF en fonction de la concentration en ions chlorure. Le tableau 3 donne les constantes de formation successives des complexes chlorés de l&apos;étain calculées selon la théorie de DeFord et Hume (19). </p>
+				
+			<p>Le thallium dans les mélanges eau-HF L&apos;étude de la réduction du thallium dans les mélanges eau-HF nous donne une pente de E w vs. E f en fonction de R 0 (F) ( <ref type="figure">fig. 4</ref>) près de 0,059 V, ce qui indique que le thallium n&apos;est pas complexé par l&apos;ion fluorure dans les mélanges eau-HF. Aux très hautes concentrations en HF, c.&apos;à&apos;d. plus de 80%, la vague de réduction du thallium se confond avec la réduction de l&apos;hydrogène, mais la tendance semble toujours être la même au niveau de la pente.</p>
+
+			<p><ref type="figure">FIG. 3</ref>. Déplacement du potentiel de demi-vague de réduction de l&apos;étain en fonction de la concentration en KC1, à différentes concentrations en HF.</p>
+
+			<p><ref type="figure">FIG. 5</ref>. Déplacement du potentiel de demi-vague de réduction du thallium en fonction de la concentration en KCI, à différentes concentrations en HF.</p>
+
+			<p>Le thallium en présence d&apos;ions chlorure La <ref type="figure">figure 5</ref> montre le déplacement de E-,h en présence d&apos;ions chlorure à plusieurs concentrations en HF. Le déplacement de E^ est relié à la formation de complexes chlorés en solution mais la faible amplitude du déplacement montre une complexation relativement faible. Le tableau 4 donne les constantes de formation successives pour les complexes chlorés du thallium.</p> 
+			
+			<p>Le cadmium et le plomb dans les mélanges eau-HF Les vagues de réduction du cadmium et du plomb ont été mesurées à haute concentration en HF de façon à compléter les résultats déjà publiés (11, 12).</p>
+
+			</div>
+
+			<div type="section">
+				<head>Discussion</head>
+
+			<p>L&apos;étain L&apos;étain en solution aqueuse contenant l&apos;ion fluorure a été étudié par plusieurs auteurs. Schaap et al. (18) puis Bond et Taylor (20) ont déterminé les constantes de formation des complexes fluorés en milieu acide et neutre. Le pourcentage de distribution montre que le complexe SnF 3 ~ est prédominant jusqu&apos;à 10 _7 M en ions fluorure libres. Hall et Slater (21) ont calculé les relations thermodynamiques A G, A H et A .S&apos; pour la réaction <ref type="formula">[1]</ref>et ils concluent que le complexe fluoré est plus stable, en solution aqueuse, que les complexes avec le chlore et le brome.</p> 
+			
+			<p><formula>[1] Sn 2+ + 3F&quot; :SnF 3</formula></p>
+
+			<p>Donc on considère que le complexe d&apos;étain formé à faible concentration en HF sera le SnF 3 ~. Le tableau 1 montre une pente de —0,034 volt pour des concentrations en HF jusqu&apos;à 2%, ce qui confirme que le complexe en solution est le SnF 3 ~. Dans le domaine de 2 à 60% en HF, il y a formation de deux complexes fluorés différents de celui qui prédomaine dans les solutions inférieures à 2% en HF. Les pentes mesurées sur la figure 1 permettent de dire qu&apos;on a le complexe SnF 2 dans le domaine de 2 à 45% en HF et le complexe SnF + dans la région de 45 à 55% en HF. L&apos;évolution des complexes dans les mélanges eau-HF s&apos;explique bien puisque l&apos;activité en ions fluorure libres diminue lorsque la proportion de HF augmente dans la solution. Schaap et al. (18) ont proposé l&apos;équilibre suivant pour l&apos;oxydation de l&apos;étain dans les solutions aqueuses d&apos;ions fluorure : 
+				
+			<p><formula>[2] SnF 3 &quot; + 3F&quot; SnF 6 2-+ 2é</formula></p>
+				
+			<p>Leblond-Routhier (17) a démontré que la vague d&apos;oxydation due à la réaction <ref type="formula">[3]</ref> est réversible (pente de 29 mV) dans les solutions aqueuses Sn 2+ : </p>
+				
+			<p><formula>[3] : Sn + 2é de HF,</formula></p> 
+				
+			<p>quoiqu&apos;aucune vague n&apos;apparaît pour la réduction de l&apos;étain au degré d&apos;oxydation plus quatre vers plus deux. Même en voltamétrie à balayage rapide, on n&apos;observe pas la réduction de Sn(IV). On peut donc exprimer l&apos;équation de Nernst sous la forme suivante :</p>
+
+			<p><formula>[41 (ESJ.(£. &quot; ) + ^LOGI W 2-1 [SnF 3 &quot;][F-] 3</formula></p>
+
+			<p>Au potentiel de demi-vague [SnF 3 ~] = [SnF 6 2 ~] et l&apos;équation <ref type="formula">[4]</ref> devient <ref type="formula">[5]</ref>. </p>
+			
+			La pente du potentiel versus le logarithme de l&apos;activité en ions fluorure devrait donc être de —0,029 volt pour l&apos;équilibre <ref type="formula">[2]</ref>. La pente mesurée à moins de 2% en HF est de —0,034 volt, ce qui permet donc de considérer le complexe SnF 6 2 ~ en solution. L&apos;écart mesuré entre la valeur théorique et les valeurs mesurées pour les concentrations inférieures à 2% est dû à la vague d&apos;oxydation qui n&apos;est pas totalement réversible pour ce domaine de concentration par rapport aux hautes concentrations en HF où la vague d&apos;oxydation est réversible (17). En solution aqueuse, on peut considérer le complexe SnF 3 ~ pour Sn(II) et SnF 6 2 ~ pour Sn(IV) comme exprimé aux équations <ref type="formula">[1] et [2]</ref>. Les résultats obtenus pour l&apos;oxydation de Sn(II) à Sn(IV) dans les mélanges eau-HF de 2 à 55% en HF montrent la présence de deux complexes selon la concentration en HF. Si on applique le même raissonnement que dans les solutions diluées de HF et la même façon de calculer la pente, on peut établir l&apos;équilibre suivant : <ref type="formula">[9]</ref> SnF 2 + 3F&quot; ?± SnF 5 &quot; + 2é pour les mélanges de 2 à 45% en HF. La pente est de -0,030 volt, ce qui correspond au complexe SnF 5 ~. Dans les mélanges de 45 à 55% en HF, la pente est plus difficile à mesurer avec précision. On peut seulement proposer le complexe SnF 3 + . Les complexes de coordination 5 et 6 sont relativement commun pour les éléments du groupe IV. La possibilité d&apos;utiliser les orbitales d pour la complexation rend difficile la prédiction du nombre de coordination à cause de la faible différence d&apos;énergie entre les deux états (22). Un complexe chargé comme le SnF 3 + a cependant peu de chance d&apos;exister à moins d&apos;être largement stabilisé par une autre espèce en solution. Aux concentrations en HF de plus de 60%, l&apos;évolution des Ey, de réduction et d&apos;oxydation permet de conclure que l&apos;espèce complexante en solution n&apos;est plus l&apos;ion fluorure. Il est possible d&apos;évaleur les constantes de formation à partir du changement de pente du potentiel de demi-vague réversible aux ions fluorure en fonction de l&apos;activité en ions fluorure 7? 0 (F) (10, 11). Aux points d&apos;inflection à la figure 1, le logarithme des constantes de formation peut être considéré égal à 7?o(F). Le tableau 5 montre les valeurs ainsi obtenues et la figure 6 présente la distribution des divers complexes fluorés en fonction de l&apos;activité en ions fluorure dans le mélange eau-HF. Le complexe SnF 3 ~ se retrouve seulement en solution où la concentration en HF est moins de 2%. En solution aqueuse, l&apos;étain donne trois complexes chlorés. D&apos;autre part, dans les mélanges eau-HF sans chlorure, l&apos;étain donne deux complexes fluorés. Le complexe SnF 2 existe de façon majoritaire dans les mélanges jusqu&apos;à 30% en HF. En présence de KC1 à la figure 3, on constate qu&apos;il n&apos;y a pas de déplacement du potentiel de demi-vague de l&apos;étain aux concentrations inférieures à 30% en HF. On peut donc supposer que le complexe fluoré est suffisamment fort pour empêcher la formation de complexes chlorés. Dans HF 47% on observe un déplacement rapide du potentiel de demi-vague avec la concentration en KC1. L&apos;espèce fluorée en solution eau-HF est le SnF + . Il semble qu&apos;il soit possible dans ce mélange d&apos;ajouter des ligands sur l&apos;étain. L&apos;espèce en solution est probablement</p>
+
+			<p><ref type="figure">FIG. 6</ref>. Distribution des complexes fluorés de l&apos;étain en fonction de «o(F).</p>
+
+			<p>SnCIF, un complexe mixte qui n&apos;implique pas le remplacement d&apos;un ion fluorure sur le métal. Le complexe SnCl 2 n&apos;apparaît qu&apos;à très grande concentration en ions chlorure. Le tableau 3 montre que les constantes de formation des complexes chlorés de l&apos;étain augmentent avec la concentration en HF. Dans HF 56 et 65%, la diminution de la force des complexes fluorés permet la formation de complexes chlorés de degré supérieur. Le thallium Les solutions aqueuses de thallium contenant l&apos;ion fluorure ont été étudié par plusieurs auteurs. Bond (23) a étudié le thallium en présence d&apos;ions fluorure par polargraphie et par potentiométrie. Les complexes du thallium sont en général très faibles. A partir de résultats potentiométriques, il apparaît concevable que l&apos;ion perchlorate soit plus complexant pour le thallium que l&apos;ion fluorure. La constante de stabilité pour le complexe TIF est très faible, de l&apos;ordre de 0,4 ou moins. Les complexes chlorés sont relativement faibles avec et 0 2 de 1,00 et 0,36 respectivement. T1C1 2 ~ est d&apos;ailleurs observé seulement à force ionique élevée. Notre graphique du potentiel de demi-vague en fonction de l&apos;activité en ions fluorure donne une pente de —0,056 V. Cette valeur est près de la valeur théorique de —0,059 V et indique donc que le thallium n&apos;est pas complexé par l&apos;ion fluorure dans les mélanges eau-HF. En solution aqueuse contenant des ions Cl&quot;, le thallium n&apos;est que faiblement complexé par ces ions. Selon la force ionique, Bond (23) a observé soit un complexe ou deux complexes chlorés. Dans les mélanges eau-HF, la force ionique est élevée et en présence d&apos;ions Cl -on devrait donc s&apos;attendre à obtenir deux complexes chlorés comme c&apos;est le cas en solution aqueuse à force ionique élevée. Dans HF 5%, nous observons deux complexes chlorés, une diminution du courant de diffusion a été relié à la précipitation du chlorure de thallium. Le précipité a été identifié par diffraction des rayons-X. Dans HF 26 et 47%, nous observons aussi deux complexes chlorés. L&apos;évolution du courant de diffusion montre bien qu&apos;il y a précipitation du chlorure de thallium suivi d&apos;une resolubilisation à plus haute concentration en ions chlorure. Le thallium ne forme pas de complexes fluorés dans les mélanges eau-HF. Par contre, en présence des ions Cl forme des complexes chlorés faibles dans les mêmes mélanges. Il est donc raisonnable, en présence d&apos;ions Cl&quot; de supposer la présence des complexes chlorés faibles dans les mélanges eau- HF et une distribution de la même façon que dans l&apos;eau. La principale distinction entre les deux milieux, c&apos;est la force ionique élevée pour les mélanges eau-HF. Les hautes concentrations en HF L&apos;état d&apos;ionisation dans les mélanges eau-HF a été établi par voie électrochimique (3-5) et spectroscopique (6, 7, 9). Les équations suivantes résument les équilibres en solution :</p> 
+				
+			<p><formula>[10] H20 + HF &lt;=S [H30 + -F&quot;]</formula></p>
+			
+			<p><formula>[11] [H30 + -F-]&lt;=TH30 + + F -</formula></p> 
+				
+			<p>Les mesures de 7? 0 (F) montrent que l&apos;équilibre <ref type="formula">[13]</ref>est largement porté vers la gauche.</p>
+			
+			<p><formula>[13] HF + F -&lt;=T HF2&quot; </formula></p>
+			
+			<p>Des mesures spectroscopiques ont mis en évidence la présence de HF 2 _ à haute concentration en HF et la formation de polymères de HF (9). Pour les faibles concentrations en HF, nous avons établi la présence de complexes fluorés. A des concentrations en HF supérieures à 60%, l&apos;évolution du potentiel de demi-vague, tel que présenté à la <ref type="figure">figure 7</ref>, ne peut pas être expliqué en terme de complexes fluorés. L&apos;apparition de l&apos;espèce HF 2 ~ en solution peut venir expliquer le déplacement important du potentiel de réduction du Cd 2+ /Cd et de Sn 2+ /Sn. Il n&apos;y a pas de techniques électrochimiques qui permettent de mesurer l&apos;activité ou la concentration de l&apos;espèce HF 2 ~~ mais, sur une base purement qualitative, on peut estimer que la concentration en HF 2 -suit la concentration en H 3 0 + dans le domaine de 70 à 80% en HF. Si on calcule la molarité de H 3 0 + à 70% et à 80% en poids de HF, on obtient respectivement 21 et 14 molaires. La variation est de 7 moles et la variation de /? 0 (F) est de 0,9 dans ce domaine. La variation est donc comparable, log 7 = 0,85. La pente du potentiel de réduction réversible aux ions fluorure des quatre métaux étudiés est linéaire dans le domaine de 70 à 80% en HF. On peut donc considérer que la pente mesurée en fonction de /? 0 (F) (—log a F -) est comparable à celle qu&apos;on pourrait tracer en fonction de —log [HF 2 -], les deux fonctions ayant une variation parallèle. Dans la région de 70 à 80% en HF nous mesurons les pentes suivantes : thallium, +0,040 V; plomb, +0,010 V; étain, -0,010 V; cadmium, —0,027 V. Si on introduit la concentration de HF 2 ~ à la place de a ? ~ dans les équations de Nernst, il est possible de définir les complexes présents dans les mélanges eau-HF concentrés. Le thallium ne forme pas de complexes fluorés. Il est donc raisonnable que celui-ci ne forme pas de complexe avec HF 2 ~. La pente mesurée est la même que pour les solutions peu concentrées en HF. Le comportement particulier du thallium est très bien illustré à la <ref type="figure">figure 4</ref>. Il n&apos;y a pas de changement notable en passant du système eau plus ions complexants aux mélanges de solvants eau-HF plus ions complexants, contrairement aux autres métaux qui eux forment des complexes fluorés à divers degrés. Le plomb et l&apos;étain forment des complexes contenant deux ions fluorure à faible concentration en HF. Il apparaît raisonnable que ces métaux forment des complexes avec HF 2 ~ du même ordre qu&apos;avec l&apos;ion fluorure. Les pentes mesurées sont près de zéro. Si on considère les approximations faites précédemment on peut conclure à la formation de complexes selon les équilibres suivants :</p> 
+			
+			<p><formula>[14] Pb 2+ + 2HF 2 &quot; &lt;=t Pb(HF 2 ) 2</formula></p> 
+			
+			<p><formula>[15] Sn 2+ + 2HF 2 &quot; &lt;=t Sn(HF 2 ) 2</formula></p>
+
+			<p><ref type="figure">FIG. 7</ref>. Potentiel de réduction des métaux vs. E T r dans la région des hautes concentrations en HF. </p>
+
+			<p>Le cadmium forme un complexe contenant trois ions fluorure à faible concentration en HF. Comme pour le plomb et l&apos;étain, on peut considérer la formation d&apos;un complexe contenant trois ions HF 2 ~ à haute concentration en HF. La pente de -0,027 V nous permet de déduire le complexe Cd(HF 2 ) 3 ~. <ref type="bibr">[16]</ref>Cd 2+ + 3HF 2 &quot; &lt;=t Cd(HF 2 ) 3 &quot;</p>
+
+			</div>
+
+			<div type="section">
+				<head>Conclusion</head>
+
+			<p>L&apos;analyse du comportement électrochimique des ions métalliques en milieu eau-HF montre que l&apos;énergie de solvatation y est plus faible qu&apos;en solution aqueuse, c&apos;est-à-dire que le potentiel de réduction mesuré par rapport à une référence indépendante (Fc + /Fc) du solvant y est moins négatif qu&apos;en milieu aqueux. L&apos;ion thallium qui ne forme que de très faibles complexes avec l&apos;ion fluorure illustre bien ce comportement. Dans certains cas, comme pour l&apos;étain, la formation d&apos;un complexe fluoré fort compense la perte de solvatation dans le domaine des faibles concentrations en HF. Le fait qu&apos;il n&apos;y ait pas de complexes chlorés formés en présence du complexe SnF 2 démontre bien la force de ce dernier. Le déplacement important du potentiel de réduction de certain ions métalliques aux hautes concentrations en HF a été relié à la présence de l&apos;ion HF 2 ~ qui devient l&apos;espèce complexante . L&apos;ordre de ces complexes ne peut cependent qu&apos;être proposé car l&apos;activité de l&apos;espèce HF 2 ~ n&apos;est pas mesurable.</p>
+
+			</div>
+
+			<div type="section">
+				<head>Remerciements</head>
+
+ 			<p>Les auteurs sont reconnaissants des octrois de recherche du Conseil de recherches en sciences naturelles et en génie du Canada et du Ministère de l&apos;Éducation du Québec qui ont rendu ce travail possible.</p>		
+
+			</div>
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">H</forename>
+				<surname>Hyman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Kilpatrick</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">J</forename>
+				<surname>Katz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">79</biblScope>
+			<biblScope type="pp">3668</biblScope>
+			<date type="published" when="1957" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Dallinga</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Graaf</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">L</forename>
+				<surname>Markor</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970" />
+			<biblScope type="pp">1068</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">Valliant</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Tremillon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal. Lett</title>
+		<imprint>
+			<biblScope type="vol">6</biblScope>
+			<biblScope type="pp">1095</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">Ménard</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Masson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">Tremillon</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electroanal. Chem</title>
+		<imprint>
+			<biblScope type="vol">63</biblScope>
+			<biblScope type="pp">163</biblScope>
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">Vaillant</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">Tremillon</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electroanal. Chem</title>
+		<imprint>
+			<biblScope type="vol">57</biblScope>
+			<biblScope type="pp">219</biblScope>
+			<date type="published" when="1974" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">A</forename>
+				<surname>Giguère</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Phys. Lett</title>
+		<imprint>
+			<biblScope type="vol">41</biblScope>
+			<biblScope type="issue">598</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">A</forename>
+				<surname>Giguère</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Martel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Turrell</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Phys. Lett</title>
+		<imprint>
+			<biblScope type="vol">56</biblScope>
+			<biblScope type="pp">231</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">A</forename>
+				<surname>Giguère</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Turrell</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">102</biblScope>
+			<biblScope type="pp">5473</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Beaudoin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Khorami</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Ménard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">65</biblScope>
+			<biblScope type="pp">817</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Devynck</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Vaillant</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Tremillon</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Leblond-Routhiereth</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electroanal. Chem</title>
+		<imprint>
+			<biblScope type="vol">100</biblScope>
+			<biblScope type="pp">885</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Beaudoin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Ménard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">65</biblScope>
+			<biblScope type="pp">528</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Beaudoin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Ménard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">66</biblScope>
+			<biblScope type="pp">236</biblScope>
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>F. Leblond-Routhier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal. Chem</title>
+		<imprint>
+			<biblScope type="vol">50</biblScope>
+			<biblScope type="pp">687</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Burrows</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Jasinski</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope type="vol">115</biblScope>
+			<biblScope type="pp">348</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Kuta</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pure J. Appl. Chem</title>
+		<imprint>
+			<biblScope type="vol">56</biblScope>
+			<biblScope type="pp">461</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Beaudoin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Thèse de doctorat</title>
+		<imprint>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Mémoire de maîtrise</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Leblond-Routhier</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978" />
+			<pubPlace>Sherbrooke, Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">B</forename>
+				<surname>Schaap</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Davis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">H</forename>
+				<surname>Nebergall</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">76</biblScope>
+			<biblScope type="pp">5226</biblScope>
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">D</forename>
+				<surname>Deford</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">N</forename>
+				<surname>Hume</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">73</biblScope>
+			<biblScope type="pp">5321</biblScope>
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">M</forename>
+				<surname>Bond</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Taylor</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electroanal. Chem</title>
+		<imprint>
+			<biblScope type="vol">28</biblScope>
+			<biblScope type="pp">207</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">M</forename>
+				<surname>Hall</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">J</forename>
+				<surname>Slater</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AUST. J. CHEM</title>
+		<imprint>
+			<biblScope type="vol">21</biblScope>
+			<biblScope type="pp">2663</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Dans Advanced inorganic chemistry</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">A</forename>
+				<surname>Cotton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Wilkinson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972" />
+			<publisher>Interscience Publishers John Wiley and Sons</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">M</forename>
+				<surname>Bond</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem</title>
+		<imprint>
+			<biblScope type="vol">74</biblScope>
+			<biblScope type="pp">331</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

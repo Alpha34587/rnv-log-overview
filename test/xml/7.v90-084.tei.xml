@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Solvatation des électrons en excès dans les solvants polaires : corrélation entre les valeurs de e max' W m et E Amax</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1990">1990</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">J.-P</forename>
+								<surname>Jay-Gerin</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de médecine</orgName>
+								<orgName type="laboratory">Groupe du Conseil de recherches médicales du Canada en sciences des radiations et Département de médecine nucléaire et de radiobiologie</orgName>
+								<orgName type="institution">Université de Sherbrooke</orgName>
+								<address>
+									<postCode>J1H 5N4</postCode>
+									<settlement>Sherbrooke (Québec)</settlement>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">C</forename>
+								<surname>Ferradini</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie-physique</orgName>
+								<orgName type="institution">Université René Descartes</orgName>
+								<address>
+									<addrLine>45, Rue des Saints-Pères</addrLine>
+									<postCode>75270, CEDEX 06</postCode>
+									<settlement>Paris</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Solvatation des électrons en excès dans les solvants polaires : corrélation entre les valeurs de e max' W m et E Amax</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords type="author">
+					<list>
+						<item>
+							<term>solvated electrons</term>
+						</item>
+						<item>
+							<term>polar solvants</term>
+						</item>
+						<item>
+							<term>optical absorption spectra [Journal translation]</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+				<p>D'après les données de la littérature, nous montrons qu'une corrélation peut être établie entre le coefficient d'extinction molaire au maximum du spectre d'absorption optique de l'électron solvaté (eraax), la largeur de celui-ci à mi-hauteur (Wl/2) et l'énergie correspondant à ce même maximum (£Amax).</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+				<p>On the basis of data found in the literature, it is shown that a correlation exists between the molar extinction coefficient at the maximum optical absorption of the solvated electron (eraax), its width at half height (WV2), and the energy corresponding to that maximum (£Amax).</p>
+			</div>
+		</front>
+		<body>
+			<p>Les spectres d'absorption optique correspondant à des électrons en excès complètement relaxés dans un liquide polaire ont été déterminés expérimentalement pour un grand nombre de solvants, ainsi que nous l'avons déjà souligné (1). Il nous est donc apparu possible, sur la base des données disponibles actuellement, de tenter d'élargir la systématique concernant ces spectres, par exemple en essayant d'établir une corrélation entre le coefficient d'extinction molaire au maximum du spectre (e max ), la largeur à mi-hauteur de celui-ci (W V2 ) et l'énergie (£Amax) correspondant à ce même maximum. Sur le plan pratique, il serait intéressant, tout particulièrement, de pouvoir exprimer e max et W u2 en fonction de E Amax . En effet, cela permettrait d'obtenir une caractérisation a priori de la forme du spectre d'électrons solvatés dans n'importe quel solvant polaire à partir de la seule détermination expérimentale de la longueur d'onde correspondant au maximum d'absorption.</p>
+			<p>Dans le tableau 1, nous avons rassemblé les données expérimentales trouvées dans la littérature pour 43 solvants de polarités diverses à la température ambiante (2-54). Les solvants sont classés par ordre des valeurs croissantes de e max . On peut remarquer que les valeurs de e max et de W V2 varient respectivement entre 0,6 et 5 x 10 4 M _1 cm~' et entre 1,63 et 0,41 eV, alors que celles de E Amax sont comprises entre 2,33 et 0,5 eV.</p>
+			<p>Nous avons tracé dans un diagramme semi-logarithmique ( <ref type="figure">figure 1</ref>) la variation de e max en fonction de E Amax . Une corrélation linéaire décrit de façon satisfaisante les données expérimentales. La relation entre ces deux paramètres peut donc s'écrire sous la forme [1] = e°</p>
+			<p>Un ajustement utilisant la méthode des moindres carrés conduit à emax = 5,48 x 10 4 M -1 cm -1 et pour la valeur de la pente de la droite à a = 0,81 eV -1 avec un coefficient de corrélation égal à 0,914. Afin de mieux visualiser la relation ainsi établie, nous avons reporté sur la figure 2 quelques spectres typiques d'électrons solvatés, ainsi que la courbe exponentielle représentant la relation [1].</p>
+			<p>Il est intéressant de souligner ici que l'existence d'une telle corrélation entre e max et £ Amax implique une importante conséquence. En effet, si nous appelons dA' max la variation de la concentration en électrons solvatés susceptibles d'absorber un photon dont l'énergie est comprise entre EAmax et £ A m a x d^Amax lorsqu'on passe d'un solvant au suivant,</p>
+			<p><formula>[2] demax = (3dNmax = yemmdEAmax</formula></p>
+			<p>le nombre d'électrons étant proportionnel à l'élément de surface sous la courbe emax(£Amax)- Dans le cas général, on s'attendrait à ce que (3 et 7 soient fonctions de la nature du solvant et donc de ¿Amax- Il n'en est cependant rien puisque la relation [2] est identique à la relation expérimentale [ |] avec 7 = — a. Par conséquent, la variation de emax avec £Amax provient essentiellement de la modification concomitante de la forme des spectres, chaque électron solvaté contribuant de la même manière à la valeur de e max quelle que soit la nature du solvant. Ceci n'est valable que dans la mesure évidemment où la relation [1] est vérifiée. La dispersion des points expérimentaux de la figure 1 pourrait traduire la part due à l'influence de la nature du solvant.</p>
+			<p>À notre connaissance, aucun modèle théorique n'a prédit jusqu'ici une variation exponentielle de e max avec E AMAX . 11 faut dire à ce sujet que la nature des transitions optiques responsables du spectre d'absorption de l'électron solvaté reste encore à ce jour relativement mal comprise. On sait en effet qu'un désaccord persiste entre les auteurs en ce qui concerne la nature physique des états électroniques finals, la question posée restant de savoir si les transitions mises enjeu se font vers des états liés, ou bien vers un continuum d'états délocalisés (55). Puisque e max reflète une mesure de la section efficace d'interaction entre un électron solvaté et un photon d'énergie E Amax , la relation [1] obtenue dans ce travail, bien qu'approximative, pourrait apporter un indice utile à notre quête d'une meilleure compréhension de la nature du spectre d'absorption de l'électron solvaté.</p>
+			<p>Dans la figure 3 nous avons tracé la variation de e max en fonction de l/W 1/2 . Une corrélation linéaire est observée, dont l'extrapolation aux faibles valeurs de l/Wi /2 passe pratiquement par l'origine. Une telle relation peut donc s'écrire sous la forme</p>
+			<p><formula>[3] e max = T 1 ( ¥ L) + ( x</formula></p>
+			<p>Un ajustement par la méthode des moindres carrés conduit à -q = 1,71 X 10 4 M -1 cm -1 eV et p. = 0,054 X 10 4 M" 1 cm -1 avec un coefficient de corrélation égal à 0,921.</p>
+			<p>Cette corrélation linéaire entre e max et l/W 1/2 pouvait être attendue. En effet, de nombreux auteurs, et en particulier Freeman et coll. (4, 10,41, 56), ont signalé que la valeur de la force d'oscillateur (/) correspondant au spectre d'absorption de l'électron solvaté varie peu lorsqu'on passe d'un solvant à l'autre, / est défini par (57)</p>
+			<p><formula>[4] /= 3,49 X 10" 5 /Se(£)d£</formula></p>
+			<p>où e(E) est le coefficient d'extinction molaire à l'énergie E (eV). L'intégrale de la relation [4], qui représente l'aire totale sous la courbe e(E), peut être calculée avec une bonne approximation par l'équation</p>
+			<p><formula>[5] £ c e(E)dE — e max W 1/2&gt; &lt;D E Amax( eV )</formula></p>
+			<p>D'après les relations [4] et [5], on s'attend donc bien à ce que le produit e max jyi/ 2 soit peu modifié d'un solvant à l'autre, et par conséquent à ce que e max varie de façon sensiblement inversement proportionnelle avec Wi/ 2 .</p>
+			<p>On peut calculer, en utilisant les relations [3] [5] et en prenant en compte l'ensemble des solvants considérés dans cette étude, une valeur moyenne de /. Si l'on s'en tient à la détermination précédente de T| et |x, on obtient/— 0,62. Une telle valeur s'accorde bien avec les données de la littérature concernant les différents solvants.</p>
+			<p>L'existence d'une corrélation, d'une part entre e max et £ AmM , et d'autre part entre e max et Wi /2 , implique comme conséquence une corrélation entre W\ /2 et f Amax . Les relations [1] et [3] donnent en effet immédiatement</p>
+			<p><formula>[6] W V2 = 1 aexp (-a£ Amax ) -b</formula></p>
+			<p>avec a = e° ax /-n = 3,20 eV" 1 et b = |i,/"n = 0,032 eV" 1 , et où W1/2 et £ Amax sont exprimés en eV. La relation [6] est représentée <ref type="figure">figure 4</ref>. Afin de vérifier la validité de la loi Wi¡ 2 (£ A max) ainsi trouvée, nous avons également porté sur cette même figure les données expérimentales (voir tableau 1). Comme on peut le voir, l'accord obtenu est satisfaisant.</p>
+			<p>En conclusion, nous avons montré, sur la base des données de la littérature, qu'il est possible d'établir une corrélation entre le coefficient d'extinction molaire au maximum du spectre d'absorption optique de l'électron solvaté, la largeur à mihauteur de celui-ci et l'énergie correspondant à ce même maximum. Cette corrélation est intéressante sur un plan pratique, car elle permet une estimation a priori de la forme du spectre d'électrons solvatés dans un solvant polaire donné. Sur un plan plus fondamental, elle pourrait apporter un élément utile à la compréhension de la nature du spectre de l'électron solvaté.</p>
+			<div>
+				<head>Remerciements</head>
+				<p>Les auteurs tiennent à exprimer leurs remerciements au Conseil de recherches médicales du Canada et au Programme de coopération franco-québécoise en recherche médicale pour l'aide financière qu'ils leur ont apportée.</p>
+			</div>
+		</body>
+		<back>
+			<div type="references">
+				<listBibl>
+					<biblStruct xml:id="b0">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J.-P. Jay-Gerin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Ferradini</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">91</biblScope>
+								<biblScope type="pp">3275</biblScope>
+								<date type="published" when="1989"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b1">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">Okazaki</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Idriss-Ali</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">62</biblScope>
+								<biblScope type="pp">2223</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b2">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J.-P. Jay-Gerin</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">Ferradini</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">251</biblScope>
+								<date type="published" when="1989"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b3">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F.-Y</forename>
+									<surname>Jou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">57</biblScope>
+								<biblScope type="pp">591</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b4">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Arai</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C</forename>
+									<surname>Sauer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jr</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">44</biblScope>
+								<biblScope type="pp">2297</biblScope>
+								<date type="published" when="1966"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b5">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">K</forename>
+									<surname>Thomas</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">76</biblScope>
+								<biblScope type="pp">1700</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b6">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">C</forename>
+									<surname>Sauer</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jr</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+									<surname>Arai</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+									<surname>Dorfman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">42</biblScope>
+								<biblScope type="pp">708</biblScope>
+								<date type="published" when="1965"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b7">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">E</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">A</forename>
+									<surname>Kenney</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Wallace</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">313</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b8">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A.-D</forename>
+									<forename type="middle">Leu</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">61</biblScope>
+								<biblScope type="pp">1115</biblScope>
+								<date type="published" when="1983"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b9">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F.-Y</forename>
+									<surname>Jou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">81</biblScope>
+								<biblScope type="pp">909</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b10">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">R</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">A</forename>
+									<surname>Kenney</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Wallace</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">514</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b11">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">A</forename>
+									<surname>Bakh</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Khim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Vys. Energ. High Energy Chem</title>
+							<imprint>
+								<biblScope type="vol">12</biblScope>
+								<biblScope type="issue">12</biblScope>
+								<biblScope type="pp">315</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b12">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">J</forename>
+									<surname>Lopata</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">19</biblScope>
+								<biblScope type="pp">495</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b13">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">F</forename>
+									<surname>Gavlas</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Y</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+									<surname>Dorfman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">78</biblScope>
+								<biblScope type="pp">2631</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b14">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">V</forename>
+									<surname>Rudnev</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">V</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">A</forename>
+									<surname>Bakh</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Khim</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Vys. Energ. High Energy Chem</title>
+							<imprint>
+								<biblScope type="vol">6</biblScope>
+								<biblScope type="issue">6</biblScope>
+								<biblScope type="pp">473416</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+						<note>Traduction. anglaise</note>
+					</biblStruct>
+					<biblStruct xml:id="b15">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="pp">2305</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b16">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F.-Y</forename>
+									<surname>Jou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">83</biblScope>
+								<biblScope type="issue">88</biblScope>
+								<biblScope type="pp">3900</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b17">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">V</forename>
+									<surname>Vannikov</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Traduction anglaise</title>
+							<imprint>
+								<date type="published" when="1931"/>
+								<biblScope type="pp">906</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b18">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">V</forename>
+									<surname>Tsarevsky</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Radiat. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">8</biblScope>
+								<biblScope type="pp">455</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b19">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">P</forename>
+									<surname>Keene</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Res</title>
+							<imprint>
+								<biblScope type="vol">22</biblScope>
+								<biblScope type="issue">1</biblScope>
+								<date type="published" when="1964"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b20">
+						<analytic>
+							<title level="a" type="main">The hydrated electron</title>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">A</forename>
+									<surname>Anbar 39</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">J</forename>
+									<surname>Singh</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Faraday Discuss. Chem. Soc</title>
+							<imprint>
+								<publisher>Wiley</publisher>
+								<biblScope type="vol">63</biblScope>
+								<biblScope type="pp">28</biblScope>
+								<date type="published" when="1970"/>
+								<publisher>Wiley</publisher>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b21">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">V</forename>
+									<surname>Buxton</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">C</forename>
+									<forename type="middle">L</forename>
+									<surname>Greenstock</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">B</forename>
+									<surname>Ross</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem. Ref. Data</title>
+							<imprint>
+								<biblScope type="vol">17</biblScope>
+								<biblScope type="pp">513</biblScope>
+								<date type="published" when="1988"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b22">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Dye</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+									<surname>Dorfman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">52</biblScope>
+								<biblScope type="pp">6251</biblScope>
+								<date type="published" when="1970"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b23">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Dye</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">G</forename>
+									<surname>Debacker</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+									<surname>Dorfman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">76</biblScope>
+								<biblScope type="pp">839</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b24">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">T</forename>
+									<surname>Lok</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Dye</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">76</biblScope>
+								<biblScope type="pp">2975</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b25">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">A J R</forename>
+									<surname>Delaireet</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Bazouin</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">57</biblScope>
+								<biblScope type="pp">2013</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b26">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T. H. Tran-Thi</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Koulkès-Pujo</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Sutton</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">O</forename>
+									<forename type="middle">Anitoff</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">23</biblScope>
+								<biblScope type="pp">77</biblScope>
+								<date type="published" when="1984"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b27">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">J</forename>
+									<surname>Hart</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Res</title>
+							<imprint>
+								<biblScope type="vol">33</biblScope>
+								<biblScope type="pp">426</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b28">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">J</forename>
+									<surname>Lopata</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">11</biblScope>
+								<biblScope type="issue">135</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b29">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F.-Y</forename>
+									<surname>Jou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">83</biblScope>
+								<biblScope type="pp">2383</biblScope>
+								<date type="published" when="1979"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b30">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Delaire</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">Cordier</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Belloni</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">O</forename>
+									<surname>Delcourt</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">80</biblScope>
+								<biblScope type="pp">1687</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b31">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">A</forename>
+									<surname>Seddon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">C</forename>
+									<surname>Sopchyshyn</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">54</biblScope>
+								<biblScope type="pp">2807</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b32">
+						<monogr>
+							<title level="m" type="main">Doctorat ès-sciences physiques (Chimie)</title>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">Delaire</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1980"/>
+								<pubPlace>Orsay, France</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b33">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">G</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">V</forename>
+									<surname>Klassen</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Radiat. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">7</biblScope>
+								<biblScope type="pp">475</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b34">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A.-D</forename>
+									<forename type="middle">Leu</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">N</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">2342</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b35">
+						<analytic>
+							<title level="a" type="main">Dans Electrons in fluids. The nature of metal-ammonia solutions</title>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Y</forename>
+									<surname>Jou</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Éditeurs : J. Jortner et N. R. Kestner. Springer</title>
+						</monogr>
+						<note>Allemagne. de l'Ouest. 1973. p. 447</note>
+					</biblStruct>
+					<biblStruct xml:id="b36">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">R</forename>
+									<surname>Langan</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">J</forename>
+									<surname>Liu</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">A</forename>
+									<surname>Salmon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">P</forename>
+									<forename type="middle">P</forename>
+									<surname>Edwards</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">M</forename>
+									<surname>Holton</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="m">Proc. R. Soc</title>
+							<meeting>. R. Soc<address>London, A</address></meeting>
+							<imprint>
+								<date type="published" when="1989"/>
+								<biblScope type="fpage">421</biblScope>
+								<biblScope type="lpage">169</biblScope>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b37">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">V</forename>
+									<surname>Vannikov</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">I. Mal 'tsev</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">V</forename>
+									<forename type="middle">I</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">A</forename>
+									<forename type="middle">V Rudnev</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Int. J. Radiat. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">4</biblScope>
+								<biblScope type="pp">135</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b38">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J.-P</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">53</biblScope>
+								<biblScope type="pp">1263</biblScope>
+								<date type="published" when="1975"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b39">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F.-Y</forename>
+									<surname>Jou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">54</biblScope>
+								<biblScope type="pp">3693</biblScope>
+								<date type="published" when="1976"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b40">
+						<monogr>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+									<surname>Dorfman</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Y</forename>
+									<surname>Jou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Wageman</forename>
+									<surname>Ber</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Bunsen-Ges</surname>
+								</persName>
+							</author>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b41">
+						<analytic>
+	</analytic>
+						<monogr>
+							<title level="j">Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">75</biblScope>
+								<biblScope type="pp">681</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b42">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">A</forename>
+									<surname>Seddon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">C</forename>
+									<surname>Sopchyshyn</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">56</biblScope>
+								<biblScope type="pp">839</biblScope>
+								<date type="published" when="1978"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b43">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">M R R</forename>
+									<surname>Brookset</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Dewald</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">72</biblScope>
+								<biblScope type="pp">2655</biblScope>
+								<date type="published" when="1968"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b44">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">A</forename>
+									<surname>Shaede</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+									<surname>Dorfman</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">D</forename>
+									<forename type="middle">C</forename>
+									<surname>Walker</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">51</biblScope>
+								<biblScope type="pp">3905</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b45">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F.-Y</forename>
+									<surname>Jou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">1809</biblScope>
+								<date type="published" when="1982"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b46">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">A</forename>
+									<surname>Seddon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Catterall</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">55</biblScope>
+								<biblScope type="pp">2017</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b47">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">A</forename>
+									<surname>Seddon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+									<surname>Fletcher</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">C</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">R</forename>
+									<forename type="middle">Catterall</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">55</biblScope>
+								<biblScope type="pp">3356</biblScope>
+								<date type="published" when="1977"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b48">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">F</forename>
+									<forename type="middle">Y</forename>
+									<surname>Jou</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+									<surname>Dorfman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">58</biblScope>
+								<biblScope type="pp">4715</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b49">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">M</forename>
+									<forename type="middle">F</forename>
+									<surname>Fox</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">E</forename>
+									<forename type="middle">Hayon</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Chem. Phys. Lett</title>
+							<imprint>
+								<biblScope type="vol">25</biblScope>
+								<biblScope type="pp">511</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b50">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">A</forename>
+									<surname>Salmon</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">W</forename>
+									<forename type="middle">A</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">W</forename>
+									<surname>Fletcher</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Can. J. Chem</title>
+							<imprint>
+								<biblScope type="vol">52</biblScope>
+								<biblScope type="pp">3259</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b51">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<surname>Fradin</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">La</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Nature</title>
+							<imprint>
+								<biblScope type="vol">232</biblScope>
+								<biblScope type="pp">173</biblScope>
+								<date type="published" when="1971"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b52">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">L</forename>
+									<forename type="middle">M</forename>
+									<surname>Farhataziz</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="middle">R</forename>
+									<surname>Perkeyetr</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Hentz</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Chem. Phys</title>
+							<imprint>
+								<biblScope type="vol">60</biblScope>
+								<biblScope type="pp">4383</biblScope>
+								<date type="published" when="1974"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b53">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">J</forename>
+									<forename type="middle">L</forename>
+									<surname>Marignier</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">34</biblScope>
+								<biblScope type="issue">157</biblScope>
+								<date type="published" when="1989"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b54">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">T</forename>
+									<forename type="middle">R</forename>
+									<surname>Tuttle</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">Jr</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">S</forename>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">Rosenfeld</forename>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">Radiat. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">32</biblScope>
+								<biblScope type="pp">525</biblScope>
+								<date type="published" when="1988"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b55">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">K</forename>
+									<forename type="middle">N</forename>
+									<surname>Jha</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">L R</forename>
+									<surname>Bolton Etg</surname>
+								</persName>
+							</author>
+							<author>
+								<persName>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">76</biblScope>
+								<biblScope type="pp">3876</biblScope>
+								<date type="published" when="1972"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b56">
+						<monogr>
+							<title level="m" type="main">Modern molecular photochemistry</title>
+							<author>
+								<persName>
+									<forename type="first">N</forename>
+									<forename type="middle">J</forename>
+								</persName>
+							</author>
+							<imprint>
+								<date type="published" when="1978"/>
+								<pubPlace>Benjamin/ Cummings, Menlo Park, CA</pubPlace>
+							</imprint>
+						</monogr>
+					</biblStruct>
+					<biblStruct xml:id="b57">
+						<analytic>
+							<author>
+								<persName>
+									<forename type="first">G</forename>
+									<forename type="middle">R</forename>
+									<surname>Freeman</surname>
+								</persName>
+							</author>
+						</analytic>
+						<monogr>
+							<title level="j">J. Phys. Chem</title>
+							<imprint>
+								<biblScope type="vol">77</biblScope>
+								<biblScope type="issue">7</biblScope>
+								<date type="published" when="1973"/>
+							</imprint>
+						</monogr>
+					</biblStruct>
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

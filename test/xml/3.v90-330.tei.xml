@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Nouveaux modèles siliciés dérivés de la quinoléine</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1990">1990</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Micheline</forename>
+								<surname>Grignon-Dubois</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie organique et organométallique</orgName>
+								<orgName type="institution">Université de Bordeaux I</orgName>
+								<address>
+									<addrLine>351, Cours de la libération</addrLine>
+									<postCode>33405</postCode>
+									<settlement>Talence CÉDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michelle</forename>
+								<surname>Fialeix</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie organique et organométallique</orgName>
+								<orgName type="institution">Université de Bordeaux I</orgName>
+								<address>
+									<addrLine>351, Cours de la libération</addrLine>
+									<postCode>33405</postCode>
+									<settlement>Talence CÉDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Bernadette</forename>
+								<surname>Rezzonico</surname>
+							</persName>
+							<affiliation>
+								<orgName type="laboratory">Laboratoire de chimie organique et organométallique</orgName>
+								<orgName type="institution">Université de Bordeaux I</orgName>
+								<address>
+									<addrLine>351, Cours de la libération</addrLine>
+									<postCode>33405</postCode>
+									<settlement>Talence CÉDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Nouveaux modèles siliciés dérivés de la quinoléine</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Can. J. Chem</title>
+						<imprint>
+							<biblScope type="vol">68</biblScope>
+							<biblScope type="fpage">2153</biblScope>
+							<date type="published" when="1990">1990</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords type="author">
+					<list>
+						<item>
+							<term>silylation</term>
+						</item>
+						<item>
+							<term>quinoline</term>
+						</item>
+						<item>
+							<term>polysilyl-hydro-quinolines</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>La silylation de la quinoléine par le système Me 3 SiCl/Li/THF a été réexaminée. Elle nous a permis d&apos;isoler de nouveaux produits tri-, tétra-et hexasiliciés dont nous avons étudié la stéréochimie. La comparaison de nos résultats à ceux obtenus avec le naphtalène montre l&apos;influence de l&apos;atome d&apos;azote sur l&apos;orientation de la silylation. Mots clés : silylation, quinoléine, polysilyl-hydro-quinoléines.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>Silylation of quinoline with Me 3 SiCl/Li/THF reagent has been studied. We obtained new tri-, tetra-, and hexasilylated derivatives whose stereochemistry has been established using NMR data. Comparison of these results to those previously obtained from naphthalene shows the effect of nitrogen on the silylation process.</p>
+			</div>
+		</front>
+			
+		<body>
+
+			<p>La voie organosilicique est aujourd&apos;hui reconnue comme une méthode de choix pour la fonctionnalisation des substrats organiques (1). D&apos;autre part, la quinoléine constitue un squelette important en chimie thérapeutique (2). La silylation de la quinoléine constituait donc une stratégie attractive pour accéder à des synthons polysiliciés précurseurs de quinoléines fonctionnelles . Elle avait déjà donné lieu à quelques travaux. Ainsi, l&apos;utilisation de Me 3 SiHgSiMe 3 conduit à la bis-4,4&apos;(/V-triméthylsilyl dihydro-l,4-quinoléine) avec 75% de rendement (3). Par ailleurs, le réactif Me 3 SiCl/Li/Et 2 0/toluène avait permis à Nogaideli et Akhobadze (4) d&apos;isoler, à côté de ce même dérivé (rdt. 20%), la bis-triméthylsilyl-1,4 dihydro-1,4 quinoléine, 1, avec 15% de rendement. Enfin, Sulzbach et Iqbal (5) en remplaçant le mélange Et 2 0/toluène par le THF avaient pu favoriser le produit de disilylation 1; cependant, le rendement restait faible (31%) et aucune précision n&apos;était apportée sur la présence éventuelle d&apos;autres produits ou de substrat n&apos;ayant pas réagi. L&apos;intérêt de cette réaction et le caractère incomplet des résultats de la littérature nous ont conduits à la réexaminer en utilisant, comme réactif, le système Me 3 SiCl/Li/THF.</p>
+
+			<div type="section">
+				<head>Résultats et discussion</head>
+
+			<p>Nos premiers essais ont été conduits dans les conditions décrites par Sulzbach et Iqbal (5) à savoir : 3 équiv. de Li, 3 équiv. de Me 3 SiCl à 0°C. Au bout d&apos;une heure (durée utilisée par ces auteurs), on constate que le milieu contient encore du lithium et de la quinoléine qui n&apos;a pas réagi (CCM, Si0 2 ; éluant : hexane/EtOH : 80 : 20 (vol.)). Nous avons donc laissé les réactifs en contact jusqu&apos;à disparition totale du produit de départ soit 6 h. Par distillation, nous avons ainsi pu isoler, à côté de de la bis-triméthylsilyl-1,4 dihydro-1,4 quinoléine, 1 (rdt. 35%), deux produits originaux 2 (rdt. 15%) et 3 (rdt. 25%) qui sont respectivement tétra-et hexasiliciés ( <ref type="figure">fig. 1</ref>).</p>
+			
+			<p>Ces résultats nous ont conduits à examiner l&apos;influence de la quantité de réactifs sur l&apos;orientation de la réaction (tableau 1). Nous avons ainsi constaté que : (i) avec 2 équivalents, conditions théoriquement optimales pour favoriser le dérivé disilicié, celui-ci ne se forme qu&apos;avec 30% de rendement; les produits 2 et 3 sont déjà présents dans lemélange réactionnel, ce qui indique que la réaction s&apos;effectue sous contrôle cinétique; (ii) avec 4 ou 6 équivalents, les rendements en produits de di-et tétrasilylation 1 et 2 varient peu; par contre, la proportion d&apos;hexasilylation (3) augmente. Avec 12 équivalents, cette dernière devient largement prépondérante et le dérivé 3 devient le produit majeur de la réaction.</p> 
+				
+			<p>Notons que la fragilité de la liaison Si—N rend les composés 1-3 très sensibles à l&apos;air ou à l&apos;humidité. En particulier, l&apos;isolement du produit 3, qui, en outre, est stériquement encombré, nécessite de travailler en atmosphère parfaitement inerte. La <ref type="figure">figure 1</ref>rend compte de l&apos;obtention de ces composés. Elle ferait intervenir la formation initiale d&apos;un anion radical Q~ par transfert d&apos;électron du métal au substrat, mécanisme généralement admis avec les systèmes conjugués (6). Une première silylation sur l&apos;atome d&apos;azote conduit au radical résonnant Q&apos; qui, par capture d&apos;un électron permet une deuxième silylation. Elle peut intervenir sur le sommet 4, donnant naissance au dérivé 1 qui est stable dans le milieu ou sur le sommet 2. Dans ce dernier cas, le dérivé disilicié qui en résulte, très réactif, se silyle à nouveau, donnant lieu à une compétition entre l&apos;attaque de la double liaison de type styrénique et celle du noyau aromatique adjacent qui s&apos;effectue en 6-7. Le produit tétrasilicié résultant de cette dernière n&apos;a jamais été isolé; il conduit à une nouvelle réaction permettant la formation du dérivé 3. Ces résultats présentent une certaine analogie avec ceux observés par Laguerre et al. (7) à partir du naphtalène qui leur avait permis d&apos;isoler aussi un produit hexasilicié ( <ref type="figure">fig. 2</ref>). Cependant la fixation des 3 eme et 4 eme groupes silyle était univoque puisque l&apos;analogue carboné de 2 ne se formait pas et les 5 eme et 6 eme silylations s&apos;effectuaient sur des sommets différents. Ceci montre l&apos;influence de l&apos;atome d&apos;azote dans ces réactions.</p> 
+				
+			<p>Abandonné au contact de l&apos;air ou de silice, le dérivé disilicié, 1, s&apos;aromatise avec perte d&apos;un groupe silyle, conduisant à la triméthylsilyl-4 quinoléine (4, rdt. 80%) ( <ref type="figure">fig. 3</ref>) qui est identique au produit obtenu avec 36% de rendement par silylation de la bromo-4 quinoléine (8). Par action de chlorure d&apos;acétyle, on isole la /V-acétyl triméthylsilyl-4 dihydro-1,4 quinoléine (5, rdt. 82%). De même, l&apos;aromatisation de la tétrasilyl-1,2,3,4 tétrahydro- 1,2,3,4 quinoléine, 2, par l&apos;oxygène de l&apos;air conduit à la triméthylsilyl-4 quinoléine, 4, et non pas à son isomère 6, comme on aurait pu s&apos;y attendre ( <ref type="figure">fig. 3</ref>). Pour le confirmer, nous avons synthétisé ce dernier (rdt. 20%) à partir de la bromo-3 quinoléine. À partir de la tétrakis-triméthylsilyl-1,2,3,4 tétra- hydro-1,2,3,4 quinoléine, 2, nous avons également isolé le dérivé 7 par méthanolyse de la liaison N—Si (rdt. quant.); son obtention nécessite d&apos;opérer sous atmosphère parfaitement inerte faute de quoi il évolue, vers la triméthylsilyl-4 quinoléine, 4. L&apos;action du chlorure d&apos;acétyle conduit au dérivé N-acétylé, 8 (rdt. 70%) ( <ref type="figure">fig. 3</ref>). Notons que les composés 2, 7 et 8 sont originaux.</p> 
+				
+			<p>La quinoléine hexasiliciée, 3, est particulièrement fragile et évolue soit à l&apos;air, soit par chauffage prolongé, soit enfin en présence de réactif à caractère acide (silice, chlorure d&apos;acétyle) avec perte de silicium et aromatisation du cycle azoté. On isole ainsi les composés 9 et 10 avec un rendement global de 80-90% : 9/10 ~ 70 : 30 ( <ref type="figure">fig. 4</ref>). Placé en solution dans l&apos;éthanol absolu, le dérivé 3 se désilyle et conduit au composé 10 en quelques heures (rdt. 89%). Par ailleurs, l&apos;addition d&apos;éther provoque la formation d&apos;un précipité que nous avons identifié au tétrakis-triméthylsilyl-2,5,6,7 tétrahydro-5,6,7,8 quinoléine (11, rdt. 80%) ( <ref type="figure">fig. 4</ref>). Les produits 9,10 et 11 sont originaux et confirment la structure proposée pour le dérivé hexasilicié 3. Il est vraisemblable que le composé 10 se forme à partir de l&apos;intermédiaire 11 dont le groupe silyle en a de l&apos;azote doit être labile en milieu acide. Le passage du composé 3 au produit aromatique 11 en présence d&apos;éther peut s&apos;expliquer par la présence de traces d&apos;eau, d&apos;oxygène ou de péroxyde qui permettent une aromatisation douce du squelette. Les structures spatiales de tous les dérivés obtenus ont été essentiellement déterminées par RMN 1 H et 13 C (tableaux 2-4). Ainsi dans le cas de la tétrakis-triméthylsilyl-1,2,3,4 tétrahydro- 1,2,3,4 quinoléine, 2, la présence de trois signaux couplés entre eux entre 1,9 et 3,1 ppm avec des intégrations correspondant à un proton, auxquels on associe les 3 CH observés en 13 C entre 30 et 47 ppm confirment l&apos;enchaînement proposé. De plus, à partir des valeurs des constantes de couplage 3 7(&apos;H, 1 H) et en utilisant la relation établie par Laguerre et coll. 3 dans le cas de cyclanes polysiliciés, 3 J = ll,5cos 2 0— l,6cos0 + 0,6, nous sommes en mesure de proposer les stéréochimies relatives de tous nos composés ( <ref type="figure">fig. 5</ref>). Ces résultats montrent que les disilylations de type 1-2, conduisant à la fixation des siliciums sur les sommets 3 et 4 (composé 2) et 6 et 7 (composé 3), s&apos;effectuent en trans alors que l&apos;addition de type 1-4, conduisant au composé 3 (sommets 3 et 5), s&apos;effectue en cis. Les contraintes stériques jouent vraisemblablement là un rôle important.</p>
+
+			<p>SiMe TABLEAU 1. Influence de la quantité de réactif sur la silylation (Li/Me 3 SiCl) n° d</p>
+
+			</div>
+
+			<div type="section">
+				<head>Partie expérimentale</head>
+
+			<p>Réaction de silylation</p> 
+				
+			<p>Nous avons utilisé du THF distillé sur sodium et benzophénone afin d&apos;enlever les traces d&apos;eau. Le lithium est préalablement granulé par fusion dans l&apos;huile de vaseline puis lavé au THF. La réaction est conduite à la rampe à vide sous atmosphère d&apos;argon. A une suspension de 0,2 at.g de lithium finement granulé, dans 150 mL de THF et 0,26 mol de Me 3 SiCl fraîchement distillé, on ajoute goutte à goutte 0,1 mol de quinoléine de telle sorte que la température du milieu réactionnel soit maintenue entre 0 et 5°C. L&apos;avancement de la réaction est suivi par CCM (Si0 2 ; hexane/EtOH : 80 : 20). Au bout de 5 h environ, on note la disparition du produit de départ. Le THF est alors évaporé à la rampe à vide. On ajoute ensuite 120 mL de cyclohexane, solvant dans lequel LiCl précipite ce qui permet de l&apos;éliminer par filtration. Le filtrat est ensuite évaporé et redissout dans 120 mL de cyclohexane afin d&apos;éliminer les sels qui pourraient subsister. On obtient ainsi une huile jaune dont les constituants sont isolés par rectification à la rampe à vide. </p>
+				
+			<p>Acétylation</p>
+				
+			<p>Le chlorure d&apos;acétyle (0,04 mol) préalablement distillé sur magnésium est additionné à 0,02 mol de substrat N-silylé. Le mélange est agité à température ambiante pendant 6 h. Puis le solvant et l&apos;excès de chlorure d&apos;acétyle sont éliminés à l&apos;évaporateur rotatif. Le produit d&apos;acétylation est ensuite purifié sur colonne de silice. Les produits d&apos;aromatisation 4, 6 et 9-11 sont purifiés sur colonne de silice. Caractéristiques physico-chimiques des produits obtenus Les points de fusion ont été mesurés sur un appareil Mettler FP 61. Les analyses centésimales ont été effectuées au service central d&apos;analyse du CNRS (F-69390 Vernaison). Les spectres de masse (SM) ont été enregistrés sur un appareil VG micromass 16 F (70 eV) et les spectres IR sur un spectromètre Perkin-Elmer 1420; tous les dérivés siliciés isolés présentent en IR des bandes de très forte intensité à 1250 et 850 cm -1 caractéristiques des groupes SiMe 3 qui peuvent masquer le reste du spectre. Les spectres de RMN ont été enregistrés sur un appareil Bruker AC 250 functionnant à 250 MHz dans le cas du proton et 62,9 MHz pour le 13 C (solvant, CDC1 3 ; C 6 H 12 réf. int. à 1,4 ppm (&apos;H) ou 27,08 ppm ( 13 C)). Les déplacements chimiques et les constantes de couplage sont rassemblés dans les tableaux 2-4.</p> 
+				
+			<p>Bis-triméthylsilyl-1,4 dihydro-1,4 quinoléine (1): Rdt. 35%; Eb 88°C/0,06 Torr (1 Torr = 133,3 Pa) (litt. (5) Eb 100°C/0,1); IR (film NaCl, cm&quot; 1 ) : 3040, 3010, 2950,2895,2840, 1640, 1595,1480, 1440, 1275, 1250, 1190, 1105, 1090, 1040, 990, 975, 965, 850, 830, 780, 750, 730, 705, 685, 655, 610.</p> 
+			
+			<p>Tétrakis-triméthylsilyl-1,2,3,4 tétrahydro-1,2,3,4 quinoléine (2) : Rdt. 15%; Eb 125-127°C/0,01 Torr; IR (film NaCl, cm&quot;&apos;) : 3040, 3020, 2930, 2880, 1590, 1570, 1470, 1450, 1400, 1250, 850, 830, ! 740, 680, 630, 620. Anal, calculée pour C 21 H 43 NSi 4 : C 59,78, ! H 10,27, N 3,32; trouvée : C 59,81, H 10,25, N 3,27.</p> 
+			
+			<p>Hexakis-triméthylsilyl-1,2,3,5,6, 7hexahydro-1,2,3,5,6,7quino- léine (3) : Rdt. 25-70% selon la quantité de réactif utilisée (cf. tableau l);IR(filmNaCl,cm&quot;&apos;) :3040, 3020, 2940, 2880, 2840, 1480, 1280, 1250, 850, 830, 740, 680. Anal, calculée pour C 27 H 61 NSi 6 : C 57,07, H 10,82, N 2,46; trouvée : C 56,92, H 10,75, N 2,53.</p> 
+				
+			<p>Triméthylsilyl-4 quinoléine (4): Rdt. 80%; Eb 118°C/68 Torr (litt. ; (8) Eb 114/65). N-Acétyl triméthylsilyl-4 dihydro-1,4 quinoléine (5) : il est isolé par acétylation du composé 1 et est purifié par chromatographie liquide 32,20 102,71; 116,99; 121,21; 132,8; 142,1 128,05 (2); 130,02 18,91; 20,02; 33,41; 140,65; 157,87 128,73; 139 (Si0 2 ; C 6 H 12 /THF : 90 : 10); Rdt. 82%. Anal, calculée pour C 14 H 19 NOSi : C 68,52, H 7,8, N 5,71, O 6,52; trouvée : C 68,31, H 7,65, N 5,69, 0 6,58.</p>  
+				
+			<p>Triméthylsilyl-3 quinoléine (6): Rdt. 20% ; Eb 99°C/68 Torr (litt. (8) Eb 96°C/65).</p>  
+				
+			<p>Tris-triméthylsilyl-2,3,4 tétrahydro-1,2,3,4 quinoléine (7) : Rdt. 95%; IR (film NaCl, cm&quot; 1 ) : 3400, 3040, 2940, 2840, 1595, 1570, 1250, 850, 690, 650. Anal, calculée pour C 18 H 35 NSi 3 : C 61,82, H 10,09, N 4,00; trouvée : C 61,5, H 11,21, N 3,89.</p>  
+				
+			<p>N -Acétyl tris-triméthylsilyl-2,3,4 tétrahydro-1,2,3,4 quinoléine (8) : solide blanc obtenu par acétylation du composé 2 et purifié par chromatographie liquide (Si0 2 ; hexane/THF : 90 : 10; R f 0,53), Rdt. 70%; F 91°C (EtOH); IR ( KBr^ cm&quot; 1 ) : 3060,3040, 2940,2880,2840, 1650, 1600, 1570, 1490, 1370, 1250, 850, 750, 680. Anal, calculée pour C 2 oH 37 NOSÌ3 : C 61,31, H 9,52, N 3,58, O 4,08; trouvée : C 61,45, H 9,48, N 3,52, 0 4,01.</p> 
+				
+			<p>Tétrakis-triméthylsilyl-3,5,6,7 tétrahydro-5,6,7,8 quinoléine (9) : huile jaune pâle purifiée par chromatographie liquide (SiO?; C 6 H i2 / THF : 95 : 5; R s 0,42); IR (film NaCl, cm&quot; 1 ) : 3020, 2950, 2890,2840, 1640, 1360, 1310, 1250, 850, 830, 750, 680, 620; SM (m/e (%)) : 421 (5,2), 406 (11,7), 348 (73,6), 274 (11,5), 260 (59,1), 73 (100). Anal, calculée pour C 21 H 43 NSi 4 : C 59,78, H 10,27, N 3,32; trouvée : C 59,84, H 10,29, N 3,28.-triméthylsilyl-5,6,7 tétrahydro-5,6,7,8 quinoléine (10) : huile purifiée par chromatographie liquide (Si0 2 ; C 6 H) 2 /THF : 95 : 5; 0,39), Rdt. 89%; IR (film NaCl, cm&quot; 1 ) : 3040, 2940, 2920, 2880, 2840, 1630, 1430, 1250, 900, 830, 780, 740, 670; SM (m/e (%)) : 348 (6,9), 333 (13,1), 274 (76,2), 260 (13,6), 186 (48,1), 73 (100).</p> 
+				
+			<p>Anal, calculée pour C l8 H &quot; NSi 3 : C 61,82, H 10,09, N 4,00; trouvée : C 61,37, H 10,18, N 3,91. -triméthylsilyl-2,5,6,7 tétrahydro-5,6,7,8 quinoléine (11) : solide blanc, Rdt. 80%; F 208°C (EtOH); SM (m/e (%)) : 421 (7,8), 406 (10,4), 348 (75,4), 274 (12,0), 260 (57,0), 186 (50, 4), 73 (100). Anal, calculée pour C,,H43NSi 4 : C 59,78, H 10,27, N 3,32; trouvée : C 59,10, H 10,51, N 3,28.</p>
+
+			<p>Ce travail a bénéficié d&apos;une subvention des Laboratoires SARGET (Avenue J. F. Kennedy, BP 100, 33701 Mérignac Cédex).</p>
+
+			</div>
+			
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Silicon in organic synthesis</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">W</forename>
+				<surname>Colvin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">P</forename>
+				<surname>Dunogues</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">L&apos;actualité chimique</title>
+		<imprint>
+			<publisher>Springer Verlag</publisher>
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Chimie des médicaments. Tome I. Technique et Documentation</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Schorderet</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Des concepts fondamentaux aux applications thérapeutiques</title>		
+		<imprint>
+			<date type="published" when="1974" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">P</forename>
+				<surname>Becker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">P</forename>
+				<surname>Newmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Organomet. Chem</title>
+		<imprint>
+			<biblScope type="vol">37</biblScope>
+			<biblScope type="pp">57</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">I</forename>
+				<surname>Nogaideli</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">Ch</forename>
+				<surname>Akhobadze</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Acad. Se. Georgian SSR</title>
+		<imprint>
+			<biblScope type="vol">87</biblScope>
+			<biblScope type="issue">3</biblScope>
+			<biblScope type="pp">621</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">A</forename>
+				<surname>Sulzbach</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">F</forename>
+				<surname>Iqbal</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">U.S. Patent</title>
+		<idno>3,781,291</idno>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Calas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Dunogues</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Organomet. Chem. Library</title>
+		<imprint>
+			<biblScope type="vol">2</biblScope>
+			<biblScope type="pp">277</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Laguerre</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Dunogues</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Calas</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="vol">22</biblScope>
+			<biblScope type="issue">13</biblScope>
+			<biblScope type="pp">1227</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Fisher</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">W</forename>
+				<surname>Morgan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Eaborn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Organomet. Chem</title>
+		<imprint>
+			<biblScope type="vol">136</biblScope>
+			<biblScope type="pp">323</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

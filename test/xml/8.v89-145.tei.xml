@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Cryptowolinol et cryptowolidine, nouveaux alcaloïdes de type dibenzopyrrocoline</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1989">1989</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Michel</forename>
+								<surname>Leboeuf</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de pharmacie</orgName>
+								<orgName type="laboratory">Laboratoire de pharmacognosie</orgName>
+									<address>
+										<addrLine>Unité associée n° 496 du Centre national de la recherche scientifique</addrLine>
+										<postCode>92296</postCode>
+										<settlement>Châtenay-Malabry CEDEX</settlement>
+										<country>France</country>
+									</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">André</forename>
+								<surname>Cavé</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de pharmacie</orgName>
+								<orgName type="laboratory">Laboratoire de pharmacognosie</orgName>
+								<address>
+										<addrLine>Unité associée n° 496 du Centre national de la recherche scientifique</addrLine>
+										<postCode>92296</postCode>
+										<settlement>Châtenay-Malabry CEDEX</settlement>
+										<country>France</country>
+									</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Anissa</forename>
+								<surname>Ranaivo</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de pharmacie</orgName>
+								<orgName type="laboratory">Laboratoire de pharmacognosie</orgName>
+								<address>
+										<addrLine>Unité associée n° 496 du Centre national de la recherche scientifique</addrLine>
+										<postCode>92296</postCode>
+										<settlement>Châtenay-Malabry CEDEX</settlement>
+										<country>France</country>
+									</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Henri</forename>
+								<surname>Moskowitz</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté de pharmacie</orgName>
+								<orgName type="laboratory">Laboratoire de chimie organique</orgName>
+								<address>
+									<addrLine>Unité associée n° 496 du Centre national de la recherche scientifique</addrLine>
+									<postCode>92296</postCode>
+									<settlement>Châtenay-Malabry CEDEX</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Cryptowolinol et cryptowolidine, nouveaux alcaloïdes de type dibenzopyrrocoline</title>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords type="author">
+					<list>
+						<item>
+							<term>Cryptocarya</term>
+						</item>
+						<item>
+							<term>Lauraceae</term>
+						</item>
+						<item>
+							<term>dibenzopyrrocoline alkaloids</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>Au cours de l&apos;étude de deux Lauracées néocalédoniennes, Cryptocarya phyllostemon et Cryptocarya oubatchensis, quatre alcaloïdes quaternaires à squelette dibenzopyrrocoline ont été isolés. Deux d&apos;entre eux ont été identifiés à la cryptowoline et à la cryptaustoline, les deux seuls produits naturels de ce type structural connus jusqu&apos;alors. Les deux autres, nommés cryptowolinol et cryptowolidine, sont nouveaux; leur structure a été déterminée et la synthèse de la cryptowolidine a été réalisée. La structure du cryptowolinol est originale par la présence inhabituelle d&apos;un hydroxyle alcoolique sur le carbone benzylique, et sa possible origine biogénétique est discutée.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>Four quaternary dibenzopyrrocoline alkaloids were isolated from the Neocaledonian Lauraceae Cryptocarya phyllostemon and C. oubatchensis. Two of them were identified as cryptowoline and cryptaustoline, the only natural representatives of this structural type known up to now. The other two are new products and have been named cryptowolinol and cryptowolidine; their structures were elucidated, and synthesis of cryptowolidine was perfomed. An original feature of cryptowolinol is the unusual presence of an alcoholic hydroxy 1 on the benzylic carbon; its putative biogenetic origin is discussed.</p>
+			</div>
+		</front>	
+			
+		<body>
+
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>Parmi les très nombreux alcaloïdes isoquinoléiques ou biogénétiquement apparentés actuellement connus, deux seulement , la cryptowoline et la cryptaustoline, possèdent un squelette de type dibenzopyrrocoline ou indolo [2,l-a]isoquinoléine (1). Depuis leur découverte il y a plus de 35 ans dans une Lauracée australienne, Cryptocarya bowiei (Hook.) Druce (2, 3), leur présence n&apos;a jamais été de nouveau signalée dans une quelconque espèce végétale. Au cours d&apos;un travail d&apos;ensemble portant sur le contenu alcaloïdique d&apos;une dizaine d&apos;espèces de Cryptocarya originaires d&apos;Australie, des Nouvelles-Hébrides et de Nouvelle-Calédonie, l&apos;étude de deux de ces dernières, C. phyllostemon Kost. et C. oubatchensis Schlechter, a permis d&apos;isoler quatre alcaloïdes quaternaires à noyau dibenzopyrrocoline. Deux d&apos;entre eux, présents respectivement dans C. phyllostemon et dans C. oubatchensis, ont été identifiés à la cryptowoline et à la cryptaustoline . Les deux autres, qui sont nouveaux, ont été nommés cryptowolinol et cryptowolidine; ils ont été isolés, le premier à partir des deux espèces étudiées, le second seulement à partir de C. phyllostemon. L&apos;extraction de ces alcaloïdes quaternaires a été réalisée de façon classique. La détermination structurale de ces différents produits, ainsi que la synthèse de l&apos;un d&apos;entre eux, la cryptowolidine , font l&apos;objet du présent mémoire.</p> 
+			
+			</div>
+			
+			<div type="section">
+				<head>Résultats et discussion</head>
+			
+			<p>L&apos;alcaloïde quaternaire 1, de formule brute C 19 H2o0 4 N + , a été isolé sous forme de chlorure. Son appartenance au groupe des dibenzopyrrocolines est déduite de l&apos;examen de son spectre de masse. Le pic moléculaire, à /w/z 326, n&apos;a qu&apos;une faible intensité en ionisation chimique et est totalement absent enimpact électronique; mais, sur ce dernier, toutes les fragmentations classiques des dibenzopyrrocolines quaternaires sont observées (4) et elles indiquent que l&apos;alcaloïde 1 est substitué en 9 et 10 par un méthylènedioxyle et que le cycle A porte un méthoxyle et un hydroxyle phénolique dont les positions exactes, en 2 et en 3, restent à déterminer. La localisation des substitutions oxygénées sur le noyau est confirmée par comparaison du dérivé O-méthylé 2, obtenu par action du diazométhane sur 1, avec un échantillon de O-méthyl cryptowoline . Le spectre de RMN &apos;H de 1 (Tableau 1) est en accord avec les données précédentes, mais il ne permet pas de placer avec certitude les substituants en 2 et 3. Une étude des effets nucléaires Overhauser (ENO) observés sur le spectre de 1, enregistré dans CD 3 OD à 500 MHz, a conduit sans ambiguïté à attribuer à cet alcaloïde la structure de la cryptowoline dans laquelle l&apos;hydroxyle est en 2 et le méthoxyle en 3. Enfin, les spectres de RMN 13 C des dibenzopyrrocolines quaternaires n&apos;ayant pas encore été décrits, celui du chlorure de cryptowoline a été enregistré; les attributions ont été faites (Tableau 2) par comparaison aux données publiées d&apos;une part pour d&apos;autres alcaloïdes isoquinoléiques (5, 6), d&apos;autre part pour une dibenzopyrrocoline tertiaire synthétique tétraméthoxylée en 2, 3, 9 et 10(7).</p> 
+			
+			<p>La cryptowoline isolée ici de C. phyllostemon possède la même configuration 13-5 que celle précédemment extraite de C. bowiei (pouvoir rotatoire négatif, même effet Cotton négatif à 242 nm sur le spectre de dichroïsme circulaire); quant à la configuration de l&apos;atome d&apos;azote quaternaire, elle a été établie récemment comme étant 1-R (8). Lors de la préparation de la O-méthyl cryptowoline 2, il a été constaté que la réaction de méthylation de la cryptowoline 1 par le diazométhane en solution éthérée était particulièrement laborieuse et nécessitait, pour être complète, un temps de contact supérieur à 1 semaine. Nous avons également tenté de méthyler la cryptowoline par action de l&apos;iodure de méthyle dans la potasse méthanolique, selon une technique déjà utilisée dans le cas d&apos;autres alcaloïdes quaternaires phénoliques (9). Cependant, il n&apos;a pas été obtenu dans ces conditions le dérivé 2 espéré, mais le produit vinylique 3 formé par O-méthylation et élimination spontanée de Hofmann. Sa structure a été déduite de son spectre de RMN &apos;H qui présente en particulier les signaux caractéristiques du N-méthyle tertiaire (singulet à 2,55 ppm) et de la chaîne vinylique (trois doublets dédoublés à 5,23, 5,56 et 6,86 ppm, avec des couplages respectivement gern et cis, gem et trans, cis et trans).</p> 
+			
+			<p>La dibenzopyrrocoline quaternaire 4, C 2 oH 2 40 4 N + , acomme la précédente été isolée sous forme de chlorure. Elle a été facilement identifiée à la cryptaustoline par examen de ses spectres de masse et de RMN &apos;H (Tableau 1) et comparaison à ceux de la cryptowoline 1 dont elle ne diffère que par la présence en 9,10 de deux méthoxyles au lieu du groupe méthylènedioxy. Le placement de l&apos;hydroxyle phénolique en 2 et du méthoxyle en 3 résulte de la similitude des déplacements chimiques des protons aromatiques en 1 et 4 observés pour ces deux alcaloïdes.</p> 
+				
+			<p>TABLEAU 1. Résonance magnétique nucléaire (8 pm, J Hz) de &apos;H de la cryptowoline 1, de la cryptaustoline 4, du cryptowolinol 5 et de la cryptowolidine 7</p>	
+				
+			<p>Les deux autres dibenzopyrrocolines quaternaires isolées au cours de ce travail sont nouvelles. La première, nommée cryptowolinol , 5, CI9H 2 O0 5 N + , cristallise sous forme de chlorure. Son spectre UV est comparable à celui des alcaloïdes précédents. Un déplacement bathochrome observé en milieu alcalin révèle la présence d&apos;une fonction phénolique, ce qui est confirmé par l&apos;existence d&apos;un singulet de trois protons à 2,28 ppm sur le spectre de RMN &apos;H du dérivé acétylé 6; mais on observe également sur ce spectre la présence d&apos;un autre singulet de trois protons, à 1,75 ppm, attribuable à un O-acétyle alcoolique . Sur le spectre de masse du cryptowolinol en ionisation chimique, le pic moléculaire n&apos;a qu&apos;une faible intensité (2%) et se trouve à m/z 342, soit à 16 u.m.a. de plus que pour la cryptowoline 1, ce qui confirme la présence d&apos;une fonction alcool supplémentaire. Les fragmentations observées sur le spectre de masse de 5 en impact électronique sont en accord avec celles des dibenzopyrrocolines portant un méthylènedioxyle en 9,10 ainsi qu&apos;un méthoxyle et un hydroxyle phénolique sur le cycle A (4).</p> 
+			
+			<p>Le cryptowolinol est donc une dibenzopyrrocoline quaternaire du même type que la cryptowoline et portant une fonction alcool secondaire. Pour des raisons biogénétiques, cet hydroxyle alcoolique ne peut être qu&apos;en position 5 ou 12; c&apos;est l&apos;interprétation du spectre de RMN &apos;H, enregistré à 500 MHz dans CD 3 OD (Tableau 1), qui a permis de trancher en faveur de cette seconde hypothèse. En effet, ce spectre comporte, outre les signaux provenant du N-méthyle quaternaire, du méthoxyle, du méthylènedioxyle et des quatre protons aromatiques, deux doublets de un proton chacun, à 5,16 et 5,41 ppm, J = 6 Hz, qui ne peuvent être attribués respectivement qu&apos;au proton en 13 et à celui en 12, ce dernier étant géminé à la fonction alcool secondaire.</p> 
+			
+			<p>A ce stade, deux structures planes isomères peuvent être proposées pour le cryptowolinol, selon la position de l&apos;hydroxyle phénolique et du méthoxyle en 2 et 3 sur le cycle A. L&apos;étude des effets nucléaires Overhauser a permis d&apos;attribuer au cryptowolinol la structure 5. L&apos;irradiation du doublet à 5,16 ppm (H en 13) provoque une augmentation d&apos;intensité d&apos;une part du singulet à 3,50 ppm (N-méthyle quaternaire), d&apos;autre part du singulet à 6,83 ppm qui est de ce fait attribué au proton aromatique en 1. L&apos;irradiation du doublet à 5,41 ppm (H en 12) entraîne un accroissement de l&apos;intensité du singulet précédent, mais aussi du singulet à 7,11 ppm qui correspond donc au proton aromatique en 11. D&apos;autre part, en irradiant le troisième singulet de proton aromatique situé à 7,41 ppm, on observe un effet sur le signal à 3,50 ppm du N-méthyle, ce qui permet de placer en 8 ce proton; il s&apos;agit du proton aromatique le plus déblindé, ce qui est logique car il subit l&apos;influence du N-méthyle quaternaire. Le dernier singulet d&apos;un proton, à 6,91 ppm, est donc celui du proton en 4; ceci est confirmé par le fait qu&apos;en l&apos;irradiant on augmente l&apos;intensité du multiplet à 3,10 ppm du CH 2 -5; cette même irradiation augmente également l&apos;intensité du singulet à 3,89 ppm du méthoxyle qui, par conséquent, se trouve en position 3.</p> 
+			
+			<p>Le spectre de RMN 13 C du cryptowolinol a été enregistré et les attributions ont été faites (Tableau 2) par comparaison à celles de la cryptowoline 1. La présence de l&apos;hydroxyle alcoolique se traduit par un fort déblindage (35 ppm) du C-12 qui résonne ici à 72,4 ppm, et les carbones lia et 13, situés en ortho, sont faiblement déblindés. Les autres valeurs sont très voisines de celles observées pour la cryptowoline. Le cryptowolinol 5 est donc une hydroxy-12 cryptowoline dont il reste à établir la configuration absolue. Sa courbe de DC est tout à fait semblable à celle de la cryptowoline et en particulier elle présente, comme elle, un effet Cotton négatif à 244 nm. Ces deux alcaloïdes ont donc la même configuration au niveau du C-13. La stéréochimie en 12 peut être déduite de la valeur ( 7 = 6 Hz) de la constante de couplage observée en RMN &apos;H pour les doublets des protons en 12 et en 13, qui indique un couplage de type axial-équatorial. L&apos;examen du modèle Dreiding du cryptowolinol montre qu&apos;une telle situation est observée lorsque l&apos;hydroxyle en 12 est en dessous du plan moyen, du même côté que le proton en 13 ; dans ces conditions, le proton en 12 occupe une position pseudo-équatoriale au dessus du plan moyen de la molécule. La configuration absolue proposée pour le cryptowolinol 5 est donc 12-S, 13-/?.</p> 
+			
+			<p>La dernière dibenzopyrrocoline quaternaire isolée, sous forme de chlorure, au cours de ce travail est également nouvelle et a été nommée cryptowolidine. De formule brute C 19 H 2 o0 4 N + , cet alcaloïde 7 est un isomère de la cryptowoline 1 et l&apos;examen de ses données spectrales révèle la très grande parenté des deux produits. En particulier, son spectre de masse est, aux intensités des pics près, pratiquement identique à celui de la cryptowoline, indiquant ainsi que le cycle D porte un méthylènedioxyle en 9,10 et le cycle A un hydroxyle phénolique et un méthoxyle. Il est donc logique de penser que dans la cryptowolidine le phénol est en 3 et le méthoxyle en 2; cette hypothèse a été confirmée par une étude ENO réalisée dans CD3OD à 500 MHz. L&apos;irradiation du triplet à 5,32 ppm (H en 13) entraîne une augmentation de l&apos;intensité du singulet du proton aromatique résonnant à 6,91 ppm; il s&apos;agit donc du proton en 1. Ce même singulet est également affecté par irradiation du signal à 3,88 ppm du méthoxyle, qui se trouve donc bien en position 2. Les autres signaux du spectre de RMN peuvent alors être attribués sans difficulté (Tableau 1), en particulier celui du proton aromatique en 4 à 6,72 ppm. On constate ainsi qu&apos;en passant de la cryptowoline 1 à la cryptowolidine 7, le proton en 1 est déblindé de 6,76 à 6,91 ppm, tandis que celui en 4 est blindé de6,86à6,72 ppm; ces déplacements sont tout à fait logiques compte-tenu de la structure de ces deux alcaloïdes.</p> 
+			
+			<p>Ne disposant que d&apos;une très faible quantité de cryptowolidine , nous avons réalisé la synthèse de cet alcaloïde, pour confirmer la structure proposée et pouvoir envisager son triage pharmacologique. Plusieurs méthodes de synthèse du noyau dibenzopyrrocoline ont été décrites (1); parmi elles, nous avons choisi la cyclisation d&apos;une benzyltétrahydroisoquinoléine halogénée convenablement substituée, en la dibenzopyrrocoline correspondante, par l&apos;intermédiaire d&apos;un benzyne obtenu par réaction de l&apos;amidure de sodium dans l&apos;ammoniac liquide (10, 11). Les étapes de la synthèse de la cryptowolidine sont représentées sur le schéma 1. Les matières premières utilisées sont la benzyloxy-3 méthoxy-4 (3-phényléthylamine 8 et le chlorure de l&apos;acide chloro-2 homopipéronylique 9; ces deux produits ont été préparés de façon classique, le premier (12, 13) en trois étapes à partir de l&apos;isovanilline, le second (14, 15) en six étapes à partir du pipéronal. La condensation des deux dérivés 8 et 9 conduit à l&apos;amide 10. Une cyclisation de Bischler-Napieralski, réalisée sur cet amide par action de l&apos;oxychlorure de phosphore dans le benzène à reflux, fournit la (chloro-2 &apos; pipérony 1)-1 benzyloxy-6 méthoxy-7 dihydro-3,4 isoquinoléine 11, dont la réduction par le borohydrure de sodium livre la benzyltétrahydroisoquinoléine correspondante 12. La première de ces trois étapes se fait avec un rendement de l&apos;ordre de 70% et les deux autres avec un rendement supérieur à 90%. Traitée par l&apos;amidure de sodium dans l&apos;ammoniac liquide selon la technique décrite par Kametani et Ogasawara (10), la benzyltétrahydroisoquinoléine chlorée 12 subit une cyclisation conduisant à la dibenzopyrrocoline tertiaire 13 qui, très instable comme cela a été déjà observé pour un produit du même type, n&apos;est obtenue pure qu&apos;avec un faible rendement (29%). La N-méthylation de l&apos;aminé tertiaire 7 : Cryptowolidine la cryptowolidine. 13 est réalisée par action de l&apos;iodure de méthyle à température ambiante. Enfin, la libération de la fonction phénolique de l&apos;ammonium quaternaire 14 par débenzylation est effectuée par chauffage au bain-marie de sa solution dans un mélange méthanol -acide chlorhydrique. Chacune de ces deux dernières étapes se fait avec un rendement de 75% et on obtient ainsi le chlorure de cryptowolidine racémique, correspondant au produit naturel 7 par son/? f en CCM, ses spectres IR, UV, de masse et de RMN &apos;H.</p> 
+			
+			<p>Ainsi, au cours de ce travail portant sur deux espèces néocalédoniennes de Cryptocary a, les deux seuls alcaloïdes à squelette dibenzopyrrocoline jusqu&apos;alors connus, la cryptowoline et la cryptaustoline, ont été trouvés pour la seconde fois et deux autres dibenzopyrrocolines quaternaires non encore décrites , le cryptowolinol et la cryptowolidine, ont été isolées. C&apos;est le cryptowolinol 5 qui, par la présence inhabituelle d&apos;un hydroxyle alcoolique sur le carbone benzylique C-12, présente le plus d&apos;originalité. D&apos;un point de vue biogénétique, il est couramment admis, bien que non encore expérimentalement prouvé, que le squelette dibenzopyrrocoline a pour précurseur une benzyltétrahydroisoquinoléine telle que la laudanosoline qui, après oxydation du cycle benzylique, subirait une cyclisation intramoléculaire entre l&apos;atome d&apos;azote et le carbone-2&apos;; cette hypothèse biogénétique a d&apos;ailleurs été mise à profit pour réaliser des synthèses biomimétiques des dibenzopyrrocolines par couplage oxydatif enzymatique de la laudanosoline (16). Dans le cas du cryptowolinol, on peut s&apos;interroger sur son mode de formation in vivo et plus précisément sur le moment de l&apos;hydroxylation en 12 du squelette. Deux hypothèses peuvent être envisagées : ou bien l&apos;hydroxylation est tardive et ne se produit qu&apos;après formation du noyau dibenzopyrrocoline; ou bien cette hydroxylation est précoce et elle concerne alors une ¿V-benzyltétrahydroisoquinoléine qui, après hydroxylation de son carbone benzylique C-a, subit la cyclisation en dibenzopyrrocoline . Ces considérations biogénétiques incitent à rapprocher la structure du cryptowolinol 5 de celle de la phyllocryptonine 15, également présente dans la même espèce Cryptocarya phyllostemon (17); la phyllocryptonine est la première benzyltétrahydroisoquinoléine quaternaire naturelle hydroxylée sur son carbone-a. Il est possible, par conséquent, qu&apos;un analogue proche de la phyllocryptonine puisse conduire in vivo au cryptowolinol.</p> 
+				
+				</div>
+
+				<div type="section">
+					<head>Partie expérimentale</head>
+				
+				<p>Points de fusion déterminés un tube capillaire à l&apos;aide d&apos;un appareil Tottoli. Pouvoirs rotatoires mesurés à l&apos;aide d&apos;un polarimètre Schmidt-Haensch, type Polatronic I, à la longueur d&apos;onde de la raie D du sodium. Spectres enregistrés sur les appareils suivants : IR, Perkin- Elmer type 257; UV, Unicam SP 1800; DC, Auto-dichrograph Mark V; SM, VG Micromass 70; RMN &apos;H, Vanan T 60 à 60 MHz ou Bruker à 500MHz; RMN 13 C, Varían CFT 20 à 25,2 MHz.</p> 
+				
+				<p>Matériel végétal L&apos;échantillon de Cryptocarya phyllostemon étudié est constitué d&apos;écorces de tiges récoltées en Nouvelle-Calédonie sur les pentes du Mont Dzumac en Novembre 1977; des échantillons d&apos;herbier sont conservés sous la référence PC NC 219 à l&apos;Herbarium de l&apos;ORSTOM à Nouméa. L&apos;échantillon de Cryptocarya oubatchensis consiste en feuilles et écorces de tronc récoltées en Nouvelle Calédonie, à Haute-Tchamba, en juillet 1979; l&apos;échantillon d&apos;herbier (référence Sévenet-Pusset 1901) est déposé au Muséum National d&apos;Histoire Naturelle de Paris.</p> 
+					
+					<p>Extraction et isolement des alcaloïdes Les écorces de tiges broyées (600 g) de Cryptocarya phyllostemon, après un dégraissage par l&apos;éther de pétrole en appareil de Soxhlet, sont épuisées dans un lixiviateur par de l&apos;éthanol à 80%. L&apos;extrait, concentré , est repris par une solution aqueuse d&apos;acide citrique à 2%. La phase aqueuse, alcalinisée par NH 4 OH, est extraite par CHC1 3 . L&apos;évaporation de la phase organique fournit un résidu constitué d&apos;alcaloïdes non quaternaires. La phase aqueuse précédente, qui présente encore une réaction de Mayer positive, est acidifiée à pH 1 par HC1 concentré et les bases quaternaires sont précipitées par addition de réactif de Mayer concentré. Les iodomercuratés ainsi obtenus (84 g) représentent une teneur en bases quaternaires de 4,5%. Une partie (12 g) de ces iodomercurates est solubilisée dans 10 mL d&apos;un mélange Me 2 CO- Me0H-H 2 0 (6:2:1, v/v), et est transformée en chlorures par passage sur une colonne de résine Amberlite IRA 400 en phase Cl&quot;; 5,1 g de chlorures sont ainsi obtenus. Ils sont dissous dans un mélange CHC1 3 - MeOH-NH 4 OH (70:30:8, v/v) et chromatographiés, en utilisant le même système de solvants, sur une colonne de 200 g de Kieselgel 60 H (Merck 7736). On isole ainsi successivement, après purification par cristallisation ou par chromatographie préparative sur couche mince de gel de silice, cinq bases quaternaires parmi lesquelles la cryptowoline 1 (0,32 g, rdt 0,30% exprimé par rapport au poids de plante sèche), le cryptowolinol 5 (0,81 g, rdt 0,75%) et la crytowolidine 7 (0,09 g, rdt 0,07%). L&apos;isolement et la structure des autres alcaloïdes seront décrits ailleurs (18). Les alcaloïdes quaternaires de Cryptocarya oubatchensis ont été isolés par une méthodologie identique. La teneur en bases quaternaires est de 2,71% dans les écorces de tiges et de 0,77% dans les feuilles. Deux bases quaternaires ont été isolées à partir des écorces de tiges, la crystaustoline 4 (0,07 g, rdt 0,02%) et le cryptowolinol 5 (5,1 g, rdt 1,52%), et une seule à partir des feuilles, le cryptowolinol 5 ( 1,22 g, rdt 0,30%).</p> 
+			
+			<p>(-)-Cryptowoline, 1 C 19 H 20 O4N + = 326,36. Obtenue cristallisée sous forme de chlorure; F 188-190°C (CHCI3); [ot] D —200 (EtOH, c = 1); UV, \ max (EtOH) : 210 (log e 4,59), 222 (log E 4,03) (épaule), 292 (log e 3,83); EtOH + NaOH: 212, 240 (épaule), 298; DC (MeOH) : Àe 212 -5,9, Àe 225 -1,82, Ae242 -3,6, AE 270 0, Ae282 +0,2, Ae2900, Ae 3 oo &quot;0,4, Ae340 0; SM (ic, NH 3 ), m/z (%) : 326 (M + , 9); SM (ie), m/z (%) : 311 (41), 310 (60), 309 (100), 294 (75), 280 (8), 278 (3), 266 (28), 250 (3); RMN &apos;H : voir tableau 1 ; RMN 13 C : voir tableau 2.</p> 
+				
+			<p>O-Méthyl cryptowoline, 2 Cryptowoline 1 (50 mg), en solution dans 12,5 mL de méthanol, est traitée par 12,5 mL de diazométhane en solution éthérée. Après 1 mois de contact, le solvant est évaporé à sec. O-Méthyl cryptowoline 2 (25 mg) est obtenue parfaitement pure après CCM préparative sur silice 60F 254 (CHCl 3 -MeOH 90:10 v/v, vapeurs d&apos;ammoniac). Le produit obtenu est identique à un témoin de O-méthyl cryptowoline synthétique . C20H22O4N ; RMN &apos;H, CDC1 3 , 60 MHz, 8 : 3,66 (3H, N + -Me), 3.87 et 3,90 (2 x 3H, OMe-2 et OMe-3), 6,10 (2H, OCH 2 0-9,10), 6,76et6,81 (2 x 1H,H-1 etH-4), 6,88 (1H, H-ll), 7,47 (1H, H-8).</p> 
+			
+			<p>O-Méthyl cryptowoline méthine, 3 Cryptowoline 1 (26,5 mg) est dissoute dans 1 mL de potasse méthanolique 0,5 N, puis additionnée de 1 mL de CH 3 I. Le mélange est chauffé à reflux pendant 1 h. Après évaporation à sec du solvant, le résidu est extrait par CHCI3. Les solutions chloroformiques évaporées laissent un résidu (14,5 mg) du dérivé vinylique 3 identifié par son spectre de RMN; RMN &apos;H, CDC1 3 60 MHz, 8 : 2,55 (s, 3H, N-CH 3 ), 3.88 et 3,91 (2s, 2 x 3H, OMe-2 et OMe-3), 5,23 (dd,J gem = 2Hz,J cis = 11 Hz, 1H, CH-CH 2 ), 5,56 (dd, J gem = 2 Hz, J, rans = 18 Hz, 1H, CH-C# 2 ), 5,86 (s, 2H, OCH 2 0-9,10), 6,86 (dd, J cis = 11 Hz, J, rans = 18 Hz, 1H, Ctf=CH 2 ), 6,21, 6,61, 7,01, 7,31 (4s, 4 x 1H, H aromatiques).</p> 
+			
+			<p>(-)-Cryptaustoline, 4 C 20 H 24 O4N + = 342,40. Obtenue à l&apos;état amorphe sous forme de chlorure; [a] D -150 (EtOH, c = 0,45); UV, K max (EtOH) : 216 (log e 4,72), 222 (log e 4,21) (épaule), 288 (log e 4,03); EtOH + NaOH : 222, 244 (épaule), 296; SM (ic, NH 3 ), m/z (%) : 342 (M + , 4), 328 (77), 327 (100); SM (ie), m/z (%) : 328 (17), 327 (81), 326 (42), 325 (100), 313 (20), 312 (10), 311 (15), 310 (17), 296 (13), 294 (5), 282 (4), 266 (4); RMN &apos;H : voir tableau 1.</p> 
+			
+			<p>(—)-Cryptowolinol, 5 Ci9H 20 O 5 N + = 342,36. Obtenu cristallisé de l&apos;acétone sous forme de chlorure; F 218-220°C; [a] D -152 (EtOH, c = 1); UV, \ max (EtOH) : 211 (log e 4,60), 224 (log e 3,91) (épaule), 230 (log e 3,90), 293 (log e 3,89); EtOH + NaOH : 223,243 (épaule), 298; DC (MeOH) : Ae 215 -5,6, Ae 230 -2,1, Ae 244 -5,2, Ae 281 0, Ae 299 -0,5, Ae 342 0; SM (ic, NH 3 ), m/z (%) : 342 (M + , 2), 310 (100), 309 (74); SM (ie), m/z (%) : 341 (6), 327 (1), 325 (2), 324 (9), 323 (38), 321 (16), 310 (21), 309 (100), 308 (16), 295 (15), 294 (73), 280 (10), 266 (30), 250 (6); RMN &apos;H : voir tableau 1 ; RMN 13 C : voir tableau 2.</p> 
+			
+			<p>0,0-Diacétyl cryptowolinol, 6 Préparé à partir de 5 (Ac 2 0/Pyr); IR, v max (KBr) : 1760 cm&quot; 1 ; RMN &apos;H, CD3OD, 60 MHz, 8 : 1,75 (s, 3H, OAc-12), 2,28 (s, 3H, OAc-2), 3,68 (s, 3H, N + -Me), 3,88 (s, 3H, OMe-3), 5,68 (d, J = 6 Hz, 1H, H-13), 6,16 (s, 2H, OCH 2 0-9,10), 6,66 (d ,J = 6Hz, 1H, H-12), 7,06 (s, 2H, 2 protons aromatiques), 7,11 et 7,53 (2s, 2 x 1H, 2 protons aromatiques).</p> 
+				
+			<p>(-)-Cryptowolidine, 7 Ci 9 H 20 O 4 N + = 326,36. Obtenue à l&apos;état amorphe sous forme de chlorure; [a] D négatif (EtOH); UV, \ max (EtOH) : 212 (log e 4,48), 225 (log e 4,04) (épaule), 290 (log e 3,86); EtOH + NaOH : 219, 240 (épaule), 298; SM (ic, NH 3 ), m/z (%) : 326 (M + , 6), 312 (100), 311 (14); SM (ie), m/z (%): 326 (M + , 1), 311 (45), 310 (63), 309 (100), 294 (2), 266 (2); RMN &apos;H : voir tableau 1.</p>
+					
+			<p>Synthèse de la cryptowolidine, 7 N-(Benzyloxy-3 méthoxy-4 phényléthyl)-chloro-2&apos; homopipéronylamide , 10 L&apos;acide chloro-2 homopipéronylique (5g; 0,022 mol), 5 mL de C 6 H 6 anhydre et 6,4 mL de SOCl 2 sont chauffés à reflux pendant 2 h. Le benzène et l&apos;excès de SOCl 2 sont évaporés sous pression réduite. Le résidu, constitué par le chlorure d&apos;acide 9, est dissous dans 5 mL d&apos;éther anhydre et ajouté goutte à goutte sous agitation à une solution de 18 g (0,07 mol) de benzyloxy-3 méthoxy-4 (3-phényléthylamine 8 dans 650 mL d&apos;éther. Il se forme un précipité blanc qui est recueilli et lavé par de l&apos;éther. On l&apos;agite ensuite pendant 15 min dans de l&apos;eau chaude (50°C) qui dissout le chlorure d&apos;amine. L&apos;amide 10 est alors recueilli par filtration, lavé à l&apos;eau et séché. On obtient 7,6 g de produit brut qui est purifié par chromatographie sur colonne (silice 60 H, élution par CHCl 3 -MeOH 98 : 2 v/v) et cristallisation dans CHC1 3 . On isole ainsi 7,1 g de l&apos;amide 10 pur en fins cristaux blancs (rendement 68%). C 25 H 24 0 5 NC1; F 178-179°C; RMN &apos;H, CDC1 3 , 60 MHz, 8 : 3,48 (s, 2H, CH 2 -CO), 3,83 (s, 3H, OMe), 5,06 (s, 2H, OC# 2 -c|)), 5,91 (s, 2H, 0CH 2 0), 6,63-6,76 et 7,30-7,40 (2 massifs de m, 2 x 5H, 10H aromatiques).</p> 
+			
+			<p>(Chloro-2&apos; méthylènedioxy-4&apos;,5&apos; benzyl)-! benzyloxy-6 méthoxy-7 dihydro-3,4 isoquinoléine, 11 Un mélange de 4,2 g (9,6 mmol) de l&apos;amide 10, 25 mL de C 6 H 6 et 8,5 mL de POCl 3 est porté à reflux pendant 1 h 30. La solution devient brun clair. En refroidissant, un solide jaune pâle précipite. Filtré, lavé par CgH 6 , ce produit est dissous dans une solution hydro-méthanolique chaude. La solution est alcalinisée par NaOH 10%. Par refroidissement , l&apos;imine 11 cristallise et l&apos;on isole 3,97 g de produit pur en CCM (rendement 99%). C 25 H 22 0 4 NC1; F 147-148°C; RMN &apos;H, CDC1 3 , 60 MHz, 8 : 2,62 (t, J = 7,5 Hz, 2H, CH 2 -4), 3,70 (t, J = 7,5 Hz, 2H, CH 2 -3), 3,83 (s, 3H, OMe-7), 4,10 (s large, 2H, CH 2 -a), 5,16 (s, 2H, OC# 2 -c|)), 5,90 (s, 2H, 0CH 2 0-4&apos;,5&apos;), 6,71 et 6,80 (2s, 2 x IH, H-5 et H-8), 6,86 (s, IH, H-6&apos;), 7,01 (s, IH, H-3&apos;), 7,40 (s large, 5H,).</p>
+
+			<p>(Chloro-2&apos; méthylènedioxy-4&apos;,5&apos; benzyl)-l benzyloxy-6 méthoxy-7 tétrahydro-1,2,3,4 isoquinoléine, 12 L&apos;imine 11 étant peu soluble dans le méthanol, sa réduction est effectuée dans un mélange de MeOH et de CHC1 3 . On dissout 3,66 g de 11 (8,4 mmol) dans 450 mL du mélange CHCl 3 -MeOH 3 : 7 v/v. On ajoute 850 mg de NaBH 4 (22,5 mmol) petit à petit en agitant à température ambiante pendant 30 min, puis le mélange est chauffé à reflux pendant 30 min. Après refroidissement, le milieu réactionnel est alcalinisé par NH 4 OH 10% (pH = 9). Le solvant est évaporé et le résidu est extrait par CHC1 3 . L&apos;extrait chloroformique, lavé, séché sur Na 2 S0 4 et évaporé à sec, abandonne un résidu pur en CCM de 3,34 g de l&apos;amine 12 (rendement 91%). C 25 H 24 0 4 NC1; RMN &apos;H, CDC1 3 , 60 MHz, 8 : 2,56-3,46 (m, 6H, CH,-3, CH 2 -4 et CH 2 -a), 3,78 (s, 3H, OMe-7), 5,06(s, 2H, OC// 2 -4&gt;), 5&quot;,75 (s, 2H, 0CH 2 0-4&apos;,5&apos;), 6,60et6,68 (2s, 2 x IH, H-5 et H-8), 6,70 (s, IH, H-6&apos;), 6,80 (s, IH, H-3&apos;), 7,28-7,36 (m, 5H, OCH 2 C6# 5 ).</p>
+			 
+				<p>Méthoxy-2 benzyloxy-3 méthylènedioxy-9,10 tétrahydro-5,6,7,13 dibenzo [b,g]pyrrocoline, 13 Une solution d&apos;amidure de sodium dans l&apos;ammoniac liquide anhydre est préparée à partir de 7 g de Na, 250 mL de NH 3 liquide et une pointe de spatule de nitrate de fer. À cette solution de NaNH 2 est ajoutée sous agitation vigoureuse une solution de 3,2 g de l&apos;amine chlorée 12 (7,3 mmol) dans 25 mL de THF anhydre. L&apos;agitation est maintenue 3 h. NH 4 C1 (16 g) est alors ajouté par petites fractions et on laisse l&apos;ammoniac s&apos;évaporer pendant la nuit. Le résidu est repris par 70 mL d&apos;eau glacée et on extrait par CHC1 3 . La solution chloroformique, lavée à l&apos;eau, séchée sur K 2 C0 3 et évaporée, livre 3,16 g du produit cyclisé 13, impur en CCM. Connaissant l&apos;instabilité de ce type de produit (19), sa purification est réalisée par une simple filtration rapide sur colonne (silice 60 H, élution par CHC1 3 ). On obtient ainsi 835 mg de la dibenzopyrrocoline 13 pure (rendement 29%). C 25 H 23 0 4 N; RMN &apos;H, CDC1 3 , 60 MHz, 8 : 2,98-3,70 (m, 6H, CH 2 -5, CH 2 -6 et CH r 12), 3,83 (s, 3H, OCH 3 -2), 5,01 (s, 2H, OOT 2 -c|)), 5,76 (s, 2H, 0CH 2 0- 9,10), 6,23,6,48,6,56, 6,63 (4s,4 x IH, H-4, H-l, H-l 1, H-8), 7,33 (s large, 5H, OCH^^).</p> 
+				
+				<p>Méthoxy-2 benzyloxy-3 méthyl-7 méthylènedioxy-9,10 tétrahydro- 5,6,7,13 dibenzo [b,g]pyrrocoline, 14 En raison de l&apos;instabilité de l&apos;aminé 13, celle-ci est méthylée aussitôt après sa purification. On dissout 320 mg (0,8 mmol) de 13 dans MeOH additionné de C 6 H 6 pour améliorer la solubilité. A cette solution est ajouté 5 mL de CH 3 I et le mélange bien bouché est laissé à température ambiante pendant 1 nuit. Le solvant est alors évaporé, abandonnant un résidu de 420 mg de 14 impur. Après chromatographie sur colonne (silice 60 H, élution par CHCl 3 -MeOH 95 :5 v/v), on isole 365 mg de l&apos;iodure de dibenzopyrrocolinium 14 (rendement 75%). C 26 H 26 04N + ,r; SM (ie), m/z (%) : 401 (M + -142, 61), 400 (15), 310 (16), 309 (7), 308 (15), 279 (10), 278 (17). Anal. calc. % : C 57,45, H 4,79, N 2,58; tr.% : C 57,32, H 4,60, N 2,45. Méthoxy-2 hydroxy-3 méthyl-7 méthylènedioxy-9,10 tétrahydro- 5,6,7,13 dibenzo[b,g]pyrrocoline, 7: (±)-cryptowolidine On dissout 150 mg de 14 dans un mélange de 5 mL de MeOH et de 3 mL de HCl et la solution est chauffée au bain-marie pendant 10 min. Le résidu (115 mg) obtenu par évaporation à sec est purifié par chromatographie sur colonne (silice 60 H, élution par CHCl 3 -MeOH 85:15 v/v); 75 mg de chlorure de cryptowolidine racémique pur 7 est obtenu (rendement 75%). Ce produit est identique au produit naturel (co- CCM, SM, RMN &apos;H, IR, UV).</p>
+
+		</div>
+
+		<div type="section">
+			<head>Remerciements</head>
+			
+			<p>Les auteurs expriment leur gratitude aux Docteurs T. Sévenet et J. Pusset (CNRS, Noumea) et P. Cabalion (Centre ORSTOM, Noumea) pour la récolte du matériel végétal. Ils remercient les Professeurs W. C. Taylor (Université de Sydney) et T. Kameta- ni (Université de Tohoku) pour l&apos;envoi d&apos;échantillons de O- méthylcryptowoline et de cryptowoline, ainsi que les Docteurs D. Davoust (Université P. et M. Curie, Paris), J. Mahuteau (Faculté de Pharmacie de Châtenay-Malabry) et T. Bécue (S.A.M.M., Faculté de Pharmacie de Châtenay-Malabry) pour l&apos;enregistrement des spectres de RMN et de masse.</p>
+			
+		</div>	
+
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Dibenzopyrrocoline alkaloids</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Elliott</surname>
+			</persName>
+		</author>
+		<editor>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Brossi</surname>
+			</persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1987" />
+			<publisher>Academic Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Ewing</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">K</forename>
+				<surname>Hugues</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Ritchie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">C</forename>
+				<surname>Taylor</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature (London)</title>
+		<imprint>
+			<biblScope type="vol">169</biblScope>
+			<biblScope type="pp">618</biblScope>
+			<date type="published" when="1952" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Ewing</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">K</forename>
+				<surname>Hugues</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Ritchie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">C</forename>
+				<surname>Taylor</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">6</biblScope>
+			<biblScope type="pp">78</biblScope>
+			<date type="published" when="1953" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Ogasawara</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Pharm. Bull</title>
+		<imprint>
+			<biblScope type="vol">16</biblScope>
+			<biblScope type="pp">1498</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Carbon-13 NMR shift assignments of amines and alkaloids</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979" />
+			<publisher>Plenum Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">J</forename>
+				<surname>Marsaioli</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">A</forename>
+				<surname>Ruvéda</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">M</forename>
+				<surname>Reis</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phyto-chemistry</title>
+		<imprint>
+			<biblScope type="vol">17</biblScope>
+			<biblScope type="pp">1655</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">P</forename>
+				<surname>Mak</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Brossi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heterocycles</title>
+		<imprint>
+			<biblScope type="vol">12</biblScope>
+			<biblScope type="pp">1413</biblScope>
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Takano</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Satoh</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Ogasawara</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heterocy-cles</title>
+		<imprint>
+			<biblScope type="vol">26</biblScope>
+			<biblScope type="pp">1487</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Sanchez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Comin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="pp">1139</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Kametani</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Ogasawara</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="pp">2208</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Benington</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">D</forename>
+				<surname>Morin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">1050</biblScope>
+			<date type="published" when="1967" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">Sugasawa</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">3163</biblScope>
+			<date type="published" when="1931" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<surname>Fou-Tian</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Dou-Bian</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pharm. Soc. Jpn</title>
+		<imprint>
+			<biblScope type="vol">58</biblScope>
+			<biblScope type="pp">783</biblScope>
+			<date type="published" when="1938" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Weil</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Beilstein</title>	
+		<imprint>
+			<date type="published" when="1910" />
+			<biblScope type="pp">2605</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">S</forename>
+				<surname>Wheeler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="pp">1780</biblScope>
+			<date type="published" when="1938" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">Brossi</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">Ramel</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">O</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">Teitel</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Pharm. Bull</title>
+		<imprint>
+			<biblScope type="vol">21</biblScope>
+			<biblScope type="pp">1839</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">R C</forename>
+				<surname>Bick</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">Sinchai</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">Sévenet</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">Ranaivo</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Planta Med</title>
+		<imprint>
+			<biblScope type="vol">39</biblScope>
+			<biblScope type="pp">205</biblScope>
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">Cavé</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">Leboeuf</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">Moskowitz</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">Ranaivo</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">R C</forename>
+				<surname>Bick</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">Sinchai</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">Nieto</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">Cabalion</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. J. Chem. Soumis</title>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Kametani</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Ujiie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Takahashi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle"></forename>
+				<surname>Nakano</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Fukumoto</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Pharm. Bull</title>
+		<imprint>
+			<biblScope type="vol">21</biblScope>
+			<biblScope type="pp">766</biblScope>
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

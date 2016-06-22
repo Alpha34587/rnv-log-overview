@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Nouvelle voie de synthèse d&apos;isoindolones et d&apos;isoquinoléines par condensation d&apos;iminophosphoranes avec l&apos;orf/io-phtalaldéhyde : réactions, mécanismes et étude structurale</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Canadian Journal of Chemistry</publisher>
+				<date type="published" when="1990">1990</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">Thierry</forename>
+								<surname>Aubert</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des sciences Gabriel</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse et d&apos;électrosynthèse organométallique associé au Centre national de la recherche scientifique</orgName>
+								<address>
+									<addrLine>Unité associée 33), 6, Boulevard Gabriel</addrLine>
+									<postCode>21100</postCode>
+									<settlement>Dijon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michel</forename>
+								<surname>Farnier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des sciences Gabriel</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse et d&apos;électrosynthèse organométallique associé au Centre national de la recherche scientifique</orgName>
+								<address>
+									<addrLine>Unité associée 33), 6, Boulevard Gabriel</addrLine>
+									<postCode>21100</postCode>
+									<settlement>Dijon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Roger</forename>
+								<surname>Guilard</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des sciences Gabriel</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse et d&apos;électrosynthèse organométallique associé au Centre national de la recherche scientifique</orgName>
+								<address>
+									<addrLine>Unité associée 33), 6, Boulevard Gabriel</addrLine>
+									<postCode>21100</postCode>
+									<settlement>Dijon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Thierry</forename>
+								<surname>Aubert</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des sciences Gabriel</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse et d&apos;électrosynthèse organométallique associé au Centre national de la recherche scientifique</orgName>
+								<address>
+									<addrLine>Unité associée 33), 6, Boulevard Gabriel</addrLine>
+									<postCode>21100</postCode>
+									<settlement>Dijon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Michel</forename>
+								<surname>Farnier</surname>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des sciences Gabriel</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse et d&apos;électrosynthèse organométallique associé au Centre national de la recherche scientifique</orgName>
+								<address>
+									<addrLine>Unité associée 33), 6, Boulevard Gabriel</addrLine>
+									<postCode>21100</postCode>
+									<settlement>Dijon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Roger</forename>
+							</persName>
+							<affiliation>
+								<orgName type="department">Faculté des sciences Gabriel</orgName>
+								<orgName type="laboratory">Laboratoire de synthèse et d&apos;électrosynthèse organométallique associé au Centre national de la recherche scientifique</orgName>
+								<address>
+									<addrLine>Unité associée 33), 6, Boulevard Gabriel</addrLine>
+									<postCode>21100</postCode>
+									<settlement>Dijon</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Nouvelle voie de synthèse d&apos;isoindolones et d&apos;isoquinoléines par condensation d&apos;iminophosphoranes avec l&apos;orf/io-phtalaldéhyde : réactions, mécanismes et étude structurale</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="1990">1990</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<textClass>
+				<keywords type="author">
+					<list>
+						<item>
+							<term>isoindolones</term>
+						</item>
+						<item>
+							<term>isoquinolines</term>
+						</item>
+						<item>
+							<term>iminophosphoranes</term>
+						</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+			<div type="abstract" xml:lang="fr">
+<p>Des isoindoline-ones-1 ^-substituées et des isoquinoléines 3-acylées ont été synthétisées en une étape par condensation de l&apos;oriAo-phtalaldéhyde sur divers iminophosphoranes. Trois types de schémas réactionnels sont proposés, en fonction de la nature de l&apos;iminophosphorane et des conditions opératoires. Tous les composés obtenus ont été pleinement caractérisés, en particulier par spectroscopic de résonance magnétique nucléaire mono- et bi-dimensionnelle.</p>
+			</div>
+			<div type="abstract" xml:lang="en">
+<p>The condensation of various iminophosphoranes with o-phthalaldehyde led directly to N-substituted isoindoline-l-ones and 3-acylisoquinolines. Three different mechanisms, depending on the nature of the iminophosphorane and reaction conditions, are proposed. All the compounds have been fully characterized, particularly by one- and two-dimensional nuclear magnetic resonance spectroscopy.</p>
+			</div>
+		</front>	
+		<body>
+			
+			<div type="section">
+				<head>Introduction</head>
+
+			<p>Les iminophosphoranes, obtenus généralement par action d&apos;un azide sur un composé trisubstitué du phosphore selon la réaction de Staudinger (pour une revue, voir réf. 1 ), sont connus pour réagir avec la plupart des composés monocarbonylés selon la réaction d&apos;aza-Wittig 1 (2-6). En revanche, la réactivité d&apos;iminophosphoranes vis-à-vis de composés dicarbonylés n&apos;a jusqu&apos;alors pas été explorée systématiquement. Ainsi, mis à part quelques réactions de condensation où l&apos;une des deux fonctions du dérivé dicarbonylé n&apos;a qu&apos;un rôle secondaire et reste inchangée après réaction (7,8), seules sont décrites dans la littérature dés condensations de composés dicarbonylés avec des bis-iminophosphoranes (9, 10). Ce type de réaction ne fait donc pas apparaître une réactivité nouvelle puisque chacune des fonctions iminophosphoranes réagit selon le schéma 1. En revanche, Garcia et al. (11) a signalé récemment la condensation de monoiminophosphoranes avec l&apos;anhydride phtalique qui conduit directement à des phtalimides. Ceci permettait d&apos;envisager une réaction de cyclisation analogue au départ d&apos;autres composés dicarbonylés. Dans le cadre des travaux réalisés au laboratoire sur l&apos;intérêt des iminophosphoranes en synthèse hétérocyclique (12, 13), nous avons donc entrepris l&apos;étude de la réactivité de synthons porteurs d&apos;une seule fonction iminophosphorane vis à vis de divers composés dicarbonylés. Dans une communication préliminaire (14), nous avons décrit les résultats obtenus lors de la condensation sur 1 &apos;ori/io-phtalaldéhyde (OPTA) d&apos;iminophosphoranes comportant un groupe méthylène en a d&apos;une fonction cétone. Afin de proposer un schéma réactionnel général en fonction de la nature du synthon mis en jeu et des conditions opératoires, l&apos;OPTA a été opposé à une série beaucoup plus large d&apos;iminophosphoranes et nous reportons dans ce mémoire l&apos;ensemble de nos résultats.</p> 
+				
+			</div>
+				
+			<div type="section">
+				<head>Résultats et discussion</head>	
+				
+			<p>Comme la réaction de Staudinger (1) est quantitative, nous avons réalisé toutes les condensations au départ des azides en générant in situ les iminophosphoranes correspondants. Outre la rapidité de la méthode, ce procédé présente l&apos;avantage de ne pas avoir à isoler les iminophosphoranes, composés souvent sensibles aux traces d&apos;humidité ou susceptibles de réactions d&apos;autocondensation (15). Ainsi l&apos;addition à température ambiante d&apos;une solution d&apos;iminophosphorane dans le dichlorométhane à une solution d&apos;OPTA dans le même solvant conduit, avec les rendements indiqués dans le tableau 1, à un mélange des isoindolones 1 et 2 ou uniquement aux isoquinoléines 3 selon la nature de l&apos;iminophosphorane (schéma 1). Dans le premier cas, les isoindolones 1 sont obtenues majoritairement quand l&apos;OPTA et l&apos;iminophosphorane sont utilisés dans les proportions stoechiométriques. Les proportions peuvent être inversées en opérant avec un excès d&apos;OPTA. À titre d&apos;exemple, en utilisant 1,5 moles d&apos;OPTA par mole d&apos;iminophosphorane Ph-NPPh 3 , nous avons isolé les isoindolones la et 2a avec des rendements respectifs de 10 et 44%. Contrairement à nos prévisions, en opérant avec un plus large excès d&apos;OPTA (2 équiv.), le rendement en 2a est sensiblement le même. De plus, il est alors difficile d&apos;isoler l&apos;isoindolone 1 a en raison de la présence d&apos;OPTA qui n&apos;a pas réagi car ces deux composés sont de polarité voisine. D&apos;autre part, lorsqu&apos;on inverse l&apos;addition de réactifs (OPTA en défaut), le rendement en isoindolone 2a diminue (10%) comme attendu, mais le rendement en la reste voisin de 20%. Par ailleurs, sauf dans le cas où deux équivalents d&apos;OPTA sont mis en jeu, ce réactif est consommé entièrement lors de la formation des isoindolones. Le bilan (isoindolone 1 + isoindolone 2) fait donc apparaître une perte de masse de 35-70% selon les cas. Cette donnée expérimentale résulte pour l&apos;essentiel de la grande polarité des iminophosphoranes et des dérivés qui peuvent éventuellement se former lors de la réaction. En effet, l&apos;iminophosphorane inaltéré ou les intermédiaires iminiques ne peuvent pas être séparés de l&apos;oxyde de triphénylphosphine lui-même très polaire.</p> 
+			
+			<p>Le mécanisme que nous proposons pour expliquer la formation des isoindolones 1 est représenté sur le schéma 2. Après élimination d&apos;oxyde de triphénylphosphine, une attaque nucléophile de l&apos;atome d&apos;azote sur la deuxième fonction aldéhyde suivie d&apos;une migration d&apos;un ion hydrure conduit aux isoindolones 1. Il faut souligner que des migrations d&apos;ions hydrure sur des carbones de type iminique ont déjà été proposées par plusieurs auteurs (16, 17) et en particulier quelques exemples de migration 1-3 ont été signalés pour des systèmes cycliques à cinq chaînons (17-19). De plus, l&apos;hypothèse d&apos;une intervention d&apos;un intermédiaire iminique est fortement supportée par l&apos;obtention, au départ des iminophosphoranes cétoniques RCOCH 2 NPPh 3 , de systèmes cycliques présentant le motif iminique.</p> 
+			
+			<p>La formation des isoindolones 2 implique de plus la condensation d&apos;une deuxième molécule d&apos;OPTA qui s&apos;effectue probablement sur l&apos;intermédiaire (C) (schéma 2) selon un mécanisme que nous n&apos;avons pas élucidé. En effet, il est peu probable que cette condensation intervienne au niveau des intermédiaires (A) ou (B) car l&apos;élimination d&apos;oxyde de triphénylphosphine et la formation de la liaison C—N par attaque nucléophile de l&apos;atome d&apos;azote sont a priori des réactions plus rapides. Enfin, et de manière inattendue, nous n&apos;avons pas observé la formation de l&apos;isoindolone la par chauffage à reflux prolongé de l&apos;isoindolone la et de l&apos;OPTA en excès (2 équiv.) dans le dichlorométhane . Dans le cas de la formation des isoquinoléïnes 3, en raison de l&apos;équilibre céto-énolique représenté sur le schéma 3, la cyclisation conduit à un système hydroxylé à six chaînons qui subit ensuite une réaction de déshydratation. Nous avons mis en évidence l&apos;intervention d&apos;un dérivé hydroxylé comme entité intermédiaire en opérant au départ d&apos;un iminophosphorane porteur d&apos;un seul hydrogène méthylénique (schéma 4). Nous avons alors obtenu majoritairement l&apos;isoquinoléine 4, l&apos;étape finale du mécanisme décrit dans le schéma 3 étant bloquée. Conjointement au dérivé 4, nous avons également isolé une faible proportion de l&apos;isoindolone 1 g. Dans ce cas, il y a donc compétition entre les deux centres nucléophiles, l&apos;atome de carbone a-énolique et l&apos;atome d&apos;azote iminique. Celle-ci résulte vraisemblablement de la présence du groupe méthyle qui induit une diminution de la mobilité de l&apos;atome d&apos;hydrogène méthylénique et défavorise donc la forme énolique.</p>
+
+			<p>Ajoutons que la condensation sur l&apos;OPTA de l&apos;iminophosphorane Et0 2 CCH 2 NPPh 3 a conduit uniquement aux isoindolones le et le bien que cet iminophosphorane présente également un groupe méthylène en a d&apos;une fonction carbonyle. Ce résultat est en bon accord avec le mécanisme proposé pour les iminophosphoranes cétoniques (schéma 3). En effet, les équilibres céto-énoliques n&apos;interviennent que rarement dans le cas des fonctions ester et la cyclisation en isoquinoléines n&apos;est donc pas favorisée pour l&apos;iminophosphorane Et0 2 CCH 2 NPPh 3 . Grigg et al. (20) a cependant montré récemment que des imines comportant une fonction ester en a de l&apos;atome d&apos;azote sont en équilibre avec une forme dipolaire grâce à l&apos;existence d&apos;une liaison hydrogène intramoléculaire selon le schéma 5. Or, après la condensation de l&apos;iminophosphorane Et0 2 CCH 2 NPPh 3 sur l&apos;une des fonctions aldéhydes de l&apos;OPTA, un équilibre de ce type était envisageable. La présence d&apos;un carbanion en a de l&apos;atome d&apos;azote suggérait alors la possibilité d&apos;orientation de la cyclisation vers la formation d&apos;une isoquinoléine. Pour vérifier cette hypothèse, nous avons opéré à basse température (-20°C) de manière à favoriser la forme pour laquelle interviendrait une liaison hydrogène : nous avons alors isolé l&apos;isoquinoléine 3e (3, R = OEt) attendue mais le produit de cyclisation majoritaire reste cependant l&apos;isoindolone le.</p> 
+			
+			<p>En résumé, le schéma 6 représente les trois types de mécanisme que nous avons proposés pour expliquer la cyclisation en isoindolones et en isoquinoléines, en fonction de la nature de l&apos;iminophosphorane et des conditions opératoires. Nous pensons que la condensation d&apos;iminophosphoranes sur des composés dicarbonylés est une nouvelle voie de synthèse très prometteuse d&apos;hétérocycles azotés puisque, comme nous l&apos;avons montré en utilisant l&apos;OPTA, la cyclisation peut s&apos;effectuer en une seule étape à partir d&apos;azides organiques très aisément accessibles. Ainsi, à l&apos;exception des isoindolones de type 1, notre méthode se révèle supérieure, quant aux rendements, à celles décrites dans la littérature. En effet, dans le cas des isoindolones de type 2 qui n&apos;ont été signalées antérieurement que par DoMinh et al. (21), l&apos;isoindolone 2a a été obtenue par cet auteur avec un rendement de 39% en produit brut alors que dans les mêmes conditions de stoechiométrie, nous avons isolé la même isoindolone avec un rendement de 44% après recristallisation. Enfin, les quatre synthèses d&apos;isoquinoléines acylées en position 3 reportées dans la littérature comportent de nombreuses étapes et la préparation préalable d&apos;isoquinoléines substituées en position 3 par un reste de type halogène (22, 23), méthyle (24) ou carboxylate d&apos;éthyle (25). Enfin les multiples possibilités synthétiques au départ des cétones rendent notre méthode particulièrement intéressante pour accéder à la famille des isoquinoléines substituées en position 3, composés qui ont été étudiés en tant qu&apos;inhibiteurs d&apos;enzymes (26), intermédiaires de synthèse (27), ou modèles biologiques (25). Ajoutons également que certains métabolites fongiques appartiennent à cette classe d&apos;hétérocycles (28).</p> 
+				
+			<p>Étude structurale Les isoindolones 1 a,b, 2a et isoquinoléines 3a,d,e, décrites dans la littérature, ont été identifiées en comparant leurs caractéristiques physicochimiques à celles déjà reportées ou à celles des composés de la même série (voir partie expérimentale ). La structure des nouvelles isoindolones 1 c-g, 2 b-e et isoquinoléines 3b,c a été établie en particulier par analyse des spectres de rmn protonique dont les caractéristiques sont rassemblées dans les tableaux 2, 3 et 4. Il faut noter que l&apos;isoindolone le a déjà été signalée, mais seulement sous forme de mélange et donc sans précision sur ses caractéristiques (voir partie expérimentale).</p> 
+			
+			<p>L&apos;attribution des signaux singulets correspondants aux méthylènes intra-et extracycliques des isoindolones le-/ a été effectuée sans ambiguïté par enregistrement des spectres COS Y LR (Long Range) pour le, le et 1/et par comparaison avec le pour ld. A titre d&apos;exemple, le spectre COSY LR de l&apos;isoindolone le présente deux taches de corrélation entre le singulet le plus déblindé et les signaux des protons thiophéniques H 3 &apos; ( 4 J) et H 4 &apos; ( 5 J) respectivement, ce qui permet d&apos;attribuer ce singulet au méthylène extracyclique. De même, le singulet le plus blindé présente deux taches de corrélation avec deux des multiplets correspondant aux protons H 4 -H 6 . Concernant la série des isoindolones 2, seul le composé 2a (R = Ph) a été décrit par DoMinh et al. (21). Celui-ci n&apos;a cependant fourni aucune preuve formelle pour confirmer la structure proposée et en particulier éliminer une structure de type isoquinoléine. Les deux structures (I) et (II) (schéma 7) étaient en effet envisageables d&apos;après les données spectroscopiques et nous avons cherché à confirmer, par voie chimique, la structure des composés 2 obtenus. Pour cela, nous avons réalisé successivement, au départ du dérivé 2a (schéma 8), une réaction de déshydratation dans l&apos;acide acétique et une réaction d&apos;ozonolyse dans le dichlorométhane du dérivé 5 obtenu. Nous avons ainsi isolé le phtalimide 6, identifié par comparaison avec un échantillon de référence, ce qui permet de proposer une structure de type isoindolone pour le produit de déshydratation 5. A l&apos;exception du singulet à 5,59 ppm correspondant au méthylène en position 3&apos;, les signaux du spectre de rmn protonique unidimensionnel du dérivé 5 se situent de manière inattendue entre 6 et 8,4 ppm. Nous avons donc confirmé la structure proposée par l&apos;enregistrement du spectre COSY de ce composé (figures 1 et 2). En supposant que le signal le plus déblindé correspond au proton H 7 , comme c&apos;est le cas dans toute la série des isoindolones 1 et 2, on peut attribuer aisément les trois signaux qui sont corrélés à H 7 aux protons du cycle A. Par suite, le deuxième système de quatre signaux corrélés correspond au cycle B. Enfin, le dernier système de trois signaux corrélés est attribué au cycle C ( <ref type="figure">figure 2</ref>). Ainsi, bien que le mécanisme de la réaction de déshydratation conduisant au produit 5 soit encore mal compris, l&apos;obtention d&apos;une isoindolone permet sans ambiguïté d&apos;écarter l&apos;hypothèse d&apos;une structure de type isoquinoléine (II) pour les composés 2.</p>
+
+			<p>L&apos;examen des spectres de rmn protonique des isoindolones 2, dont les caractéristiques sont rassemblées dans le tableau 4, montre qu&apos;il se forme toujours un mélange de deux diastéréoisomères dont les proportions relatives dépendent de la nature du reste lié à l&apos;atome d&apos;azote. La comparaison des déplacements chimiques des protons de l&apos;isoindolone 2a reportés par DoMinh et al. (21) et nous-mêmes tend à indiquer qu&apos;il s&apos;agit du même diastéréoisomère (majoritaire). Toutefois, nous proposons une attribution différente de celle de cet auteur pour les signaux situés à 5,78 et 6,11 ppm. En effet, le signal à 6,11 ppm apparaît sous forme de doublet, inchangé après deutériation, et ne peut donc être attribué qu&apos;au proton H 3 et non Hj-, Le signal à 5,78 ppm est quant à lui attribuable à H r et non à H 3 ., puisqu&apos;il apparaît sous forme de pseudo-triplet par couplage avec H 3 et H 3 &apos; avec des valeurs de constante de couplage voisines. Enfin, les signaux des protons Hi et H 4 des isoquinoléines 3 résonnent sous forme de multiplets en raison de la présence de couplages 4 J et 5 J de l&apos;ordre de 0,8-1 Hz. Leur attribution a été réalisée par comparaison des valeurs des glissements chimiques avec les valeurs données dans la littérature pour des isoquinoléines non substituées en position 1,3 et 4 (29) ou pour des thiénopyridines (30, 31), dont l&apos;attribution des signaux du cycle azoté est non ambiguë.</p> 
+			
+			</div>
+				
+			<div type="section">
+				<head>Partie expérimentale</head>
+				
+			<p>Les points de fusion ont été déterminés sur un banc de Kofler et ne sont pas corrigés. Les spectres ir ont été enregistrés sur un spectrophotomètre Perkin Elmer 580 B à partir de dispersions à 1% dans l&apos;iodure de césium ou le bromure de potassium. Les spectres de masse ont été obtenus sur appareil Finnigan 3300 (70 eV, 0,4 mA). Les spectres de rmn ont été relevés à 400 MHz sur un appareil Bruker WM 400 du CEREMA («Centre de Résonance Magnétique» de l&apos;Université de Bourgogne). Les valeurs de 8 sont exprimées en ppm, le tétraméthylsilane étant pris comme référence (s : singulet, d : doublet, dd : double doublet, t : triplet, q : quadruplet, m : multiplet). Les analyses ont été effectuées par le Laboratoire central de microanalyses du C.N.R.S.</p> 
+				
+			<p>Matériel de départ Les azides ont été préparés par les méthodes citées en référence : PhN 3 (32), Ph-et Th-CH 2 N 3 (33), RCOCH 2 N 3 (R = Me ou EtO) (34), PhCOCHRN 3 (R = H ou Me) (35), ThCOCH 2 N 3 (36).</p> 
+				
+			<p>Méthode générale de synthèse des isoindolones 1 et 2 À une solution d&apos;azide (0,01 mol) dans le dichlorométhane anhydre (ou le benzène dans le cas de l&apos;azidoacétate d&apos;éthyle) (10 mL), est ajoutée à température ambiante et goutte à goutte une solution de triphénylphosphine (2,62 g, 0,01 mol) dans 20 mL du même solvant. À la fin de l&apos;addition, l&apos;agitation est maintenue 2-4 h à température ambiante. Cette solution est ensuite ajoutée goutte à goutte à une solution d &apos; ortho -phtalaldéhyde dans le dichlorométhane anhydre (50 mL). Après 2-4 h d&apos;agitation à température ambiante, évaporation du solvant, élution du résidu sur gel de silice par le mélange dichlorométhane-acétone (30 : 1) et recristallisation, on isole les isoindolones 1 et 2.</p>  
+				
+			<p>Phényl-2 isoindoline one-J (la) : Rdt 22% (0,46 g); F = 164°C (dichlorométhane-hexane) (litt. (37) F = 162-163°C). Phénylméthyl-2 isoindoline one-1 (1b) : Rdt 45% (1,00 g); F = 90-92°C (éther éthylique -hexane) (litt. (38) F = 90-91°C). (Thiényl-2 méthyl)-2 isoindoline one-1 (le): Rdt 35% (0,80 g); F = 92-94°C (éther éthylique); ir v max (Csl) : 1674 (CO), 1468,1301,733, 710 cm&quot; 1 ; sm m/z : 229 (M + , 100), 228 (51), 196 (19), 146 (10), 145 (15), 132 (18), 119 (82), 97 (78), 91 (47). Anal. calc. pour C 13 H, ,NOS : C 68,10, H 4,84, N 6,11, S 13,98; tr. : C 67,91, H 4,83, N 6,11, S 13,67.</p> 
+			
+			<p>(Thiényl-3 méthyl)-2 isoindoline one-1 (ld): Rdt 40% (0,92 g); F = 65-66°C (éther éthylique -hexane); ir v max (KBr) : 1685 (CO), 1454, 1297, 743 cm&quot; 1 ; sm m/z : 229 (M + , 88), 228 (21), 196 (9), 146 (11), 145 (10), 132 (36), 119 (51), 97 (100), 91 (43). Anal. calc. pour C 13 H &quot; NOS : C 68,10, H 4,84, N 6,11, S 13,98; tr. : C 68,25, H 4,94, N 6,13, S 14,17.</p> 
+			
+			<p>Ethoxycarbonylméthyl-2 isoindoline one-1 (le) : Rdt 16% (0,35 g); (ce composé a été signalé (39) mais n &apos; a j amais été isolé à l&apos;état de pureté analytique); F = 78-80°C (éther éthylique -hexane); ir v max (KBr) : 1738 (C0 2 Et), 1681(CON), 1207, 740 cm&quot; 1 ; sm m/z:219(M + , 15), 146 (100), 145 (57), 132 (6), 118 (9), 91 (28). Anal. calc. pour C 12 H 13 N0 3 : C 65,74, H 5,98, N 6,39; tr. : C 65,57, H 5,83, N 6,39.</p> 
+			
+			<p>Cyanométhyl-2 isoindoline one-1 (If) : Rdt 31% (0,53 g); F = 119-120°C (éther éthylique -heptane); ir v max (Csl) : 2244 (CN), 1698(CO) cm -1 ; sm m/z : 172 (M + , 100), 171 (42), 143 (41), 118 (29), 104 (29), 89 (24), 77 (24). Anal. calc. pour C 10 H 8 N 2 O : C 69,76, H 4,68, N 16,27; tr. : C 69,84, H 4,71, N 16,29.</p> 
+			
+			<p>Hydroxy-3 dihydro-1,3 isobenzofurannyl-1 )-3 phényl-2 isoindoline one-1 (2a) : Rdt 17% (0,58 g); F = 200-201°C (litt. (21) F = 196-198°C). À noter que lorsqu&apos;on opère avec 1,5 moles d&apos;ori/îo-phtalaldéhyde par mole de PhNPPh 3 , les rendements respectifs en isoindolones la et 2a sont de 10 et 44%.</p> 
+			
+			<p>(Hydroxy-3 dihydro-1,3 isobenzofurannyl-1 )-3 phénylméthyl-2 isoindoline one-1 (2b): Rdt 5% (0,18 g); F = 204°C (dichlorométhane); ir v max (KBr) : 3312 (OH), 1665 (CO), 1414, 1000 cm&quot; 1 ; sm m/z : 358 (0,2), 357 (M + , 0,1), 340 (0,1), 223 (100), 132 (28), 91 (73). Anal. calc. pour C 23 H 19 N0 3 : C 77,29, H 5,36, N 3,92; tr. : C 76,76, H 5,41, N 3,92.</p> 
+			
+			<p>(Hydroxy-3 dihydro-1,3 isobenzofurannyl-1)-3 (thiényl-2 méthyl)-2 isoindoline one-1 (2c) : Rdt 4% (0,15 g); F = 202°C (dichlorométhanehexane ); ir v max (KBr) : 3346 (OH), 1674 (CO), 1427, 1040, 693 cm&quot; 1 ; sm m/z : 345 ([M -18]+ , 0,2), 229 (55), 145 (60), 135 (19), 132 (12), 97 (100). Anal. calc. pourC 21 H 17 N0 3 S : C 69,40, H 4,72, N 3,85, S 8,82; tr. : C 69,50, H 4,75, N 3,77, S 8,88.</p> 
+			
+			<p>(Hydroxy-3 dihydro-1,3 isobenzofurannyl-1 )-3 (thiényl-3 méthyl)-2 isoindoline one-1 (2d): Rdt 5% (0,18 g); F = 214°C (dichlorométhanehexane ); ir v m &quot; (KBr) : 3352 (OH), 1668 (CO), 1434 cm&quot; 1 ; sm m/z : 363 (M + , 0,2), 345 (0,2), 229 (100), 145 (7), 132 (20), 97 (38). Anal, calc. pour C 21 H 17 N0 3 S : C 69,40, H 4,72, N 3,85, S 8,82; tr. : C 70,00, H 4,66, N 3,81, S 8,59.</p> 
+			
+			<p>(Hydroxy-3 dihydro-1,3 isobenzofurannyl-1 )-3 éthoxycarbonyl- méthyl-2 isoindoline one-1 (2e) : Rdt 17% (0,60 g); F = 174-175°C (dichlorométhane-hexane); ir v max (KBr) : 3379 (OH), 2925 (CO), 1732 (C0 2 Et), 1688 (CON), 1215 cm&quot; 1 ; sm m/z : 353 (M + , 4), 336 (20), 335 (11), 308 (65), 280 (100), 262 (46), 248 (20), 232 (51). Anal. calc. pour C 20 H 19 NO 5 : C 67,98, H 5,41, N 3,96; tr. : C 67,98, H 5,19, N 3,92.</p> 
+			
+			<p>Méthode générale de synthèse des isoquinoléines 3 A une solution d&apos;azidocétone (2,5 mmol) dans 50 mL de dichlorométhane anhydre est ajoutée à 0°C et goutte à goutte une solution de triphénylphosphine (0,66 g, 2,5 mmol) dans le même solvant. La solution est maintenue à 0°C jusqu&apos;à disparition des produits de départ (suivie en chromatographie sur couches minces) puis ajoutée à la même température, à une solution d&apos;or/Ao-phtalaldéhyde (0,34g, 2,5 mmol) dans 20 mL de dichlorométhane anhydre. À la fin de l&apos;addition, la solution est maintenue 30 min à 0°C et on laisse ensuite remonter la température lentement jusqu&apos;à l&apos;ambiante. Après évaporation du solvant, élution du résidu sur gel de silice par le mélange dichlorométhane-acétone (40 : 1) et recristallisation on isole les isoquinoléines 3.</p> 
+			
+			<p>Phényl isoquinolyl-3 cétone (3c) : Rdt 30% (0,17 g); F = 82°C (éther éthylique -hexane) (litt. (22) F = 79-81°C). Thiényl-2 isoquinolyl-3 cétone (3b) : Rdt 35% (0,21 g); F = 124°C (éther éthylique -hexane); ir v max (KBr) : 1641 (CO), 1614, 1498, 1404cm&quot; 1 ; sm m/z : 239 (M + , 25), 211 (100), 128 (16), 128 (16), 111 (67). Anal. calc. pour C 14 H 9 NOS : C 70,27, H 3,79, N 5,85, S 13,40; tr. : C 70,49, H 3,69, N 5,81, S 13,43. Thiényl-3 isoquinolyl-3 cétone (3c) : Rdt 30% (0,18 g); F = 89-90°C (éther éthylique -hexane); ir v max (KBr) : 1661 (CO), 1618, 1508, 1391cm&quot; 1 ; sm m/z : 239 (M + , 56), 211 (60), 210 (53), 128 (23), 111 (100). Anal. calc. pour C I4 H 9 NOS : C 70,27, H 3,79, N 5,85, S 13,40; tr. : C 69,95, H 3,74, N 5,88, S 13,30. Méthyl isoquinolyl-3 cétone (3d) : Rdt 30% (0,13 g); F = 90-92°C (éther éthylique -hexane) (litt. (40) F = 92-92,8°C).</p>
+
+			<p>Condensation de l&apos;iminophosphorane dérivé de l&apos;azide PhCOCH(Me)N 3 suri&apos;OPTA Le mode opératoire décrit pour la synthèse des isoquinoléines 3 conduit, après chromatographie sur gel de silice par le mélange dichlorométhane-acétone (40 : 1), à l&apos;isoindolone 1 g et à l&apos;isoquinoléine 4. (Méthyl-1 phénacyl)-2 isoindoline one-1 (1 g) : Rdt 10% (0,53 g); F = 80-82°C (éther éthylique -hexane); ir v max (KBr) : 1690 (CO extracyclique), 1678 (CO intracyclique), 1220, 740 cm&quot; 1 ; sm m/z : 265 (M + , 1), 174 (7), 160 (100), 132 (8), 119 (4), 105 (5), 91 (14), 77 (10). Anal. calc. pour C 17 H 15 N0 2 : C 76,96, H 5,70, N 5,28; tr. : C 76,83, H 5,71, N 5,06. Benzoyl-3 hydroxy-4 méthyl-3 dihydro-3,4 isoquinoléine (4) : Rdt 30% (1,59 g); F = 137-138°C (éther éthylique -hexane); ir v mM (KBr) : 3132 (OH), 1680 (CO), 1672 (CN) cnr l ;rmn [ H (DMSO-d 6 ) 8 : 1,12 (3H, s, CH 3 ), 4,79 (1H, d, J = 5,23 Hz, singulet après deutériation, C//OH), 5,74 (1H, d, J = 5,23 Hz, s&apos;échange avec D 2 0, OH), 7,43-7,61 (7H, m, ArH), 7,86 (2H, m, H 2 -et H 6 .), 8,49 (1H, s, Hj) ppm; sm m/z : 265 (M + , 3), 248 (27), 143 (60), 118 (38), 105 (100), 77 (51). Anal. calc. pour C 17 H 15 N0 2 : C 76,96, H 5,70, N 5,28; tr. ; C 76,74, H 5,56, N 5,10.</p>
+
+			<p>Condensation à basse température de l&apos;iminophosphorane dérivé de l&apos;azidoacétate d&apos;éthyle sur l&apos;OPTA A une solution de l&apos;azidoacétate d&apos;éthyle (2,58 g, 20 mmol) dans le dichlorométhane anhydre (25 mL) est ajoutée à température ambiante et goutte à goutte une solution de triphénylphosphine (5,24 g, 20 mmol) dans 60 mL du même solvant. A la fin de l&apos;addition, l&apos;agitation est maintenue 4 h à température ambiante puis la solution est refroidie à —20°C et ajoutée, à cette température et goutte à goutte, à une solution d&apos;ori/io-phtalaldéhyde dans le dichlorométhane anhydre (200 mL). A la fin de l&apos;addition, on laisse la température revenir très progressivement à l&apos;ambiante puis on maintient l&apos;agitation à cette température pendant 3 h. Après évaporation du solvant et élution du résidu sur gel de silice par le mélange dichlorométhane-acétone (50 : 1), on isole l&apos;isoindolone le et l&apos;isoquinoléine 3e. Ethoxycarbonyl-2 isoindoline one-1 (le) : Rdt 30% (1,31 g). Ethoxycarbonyl-3 isoquinoléine (3e) : Rdt 6% (0,24 g); identifiée par spectroscopie rmn (voir tableau 4). (Dihydro-1,3 isobenzofurannylidène-1 )-3 phényl-2 isoindoline one-1 (5) Une solution de l&apos;isoindolone (2a) (0,86 g, 2,5 mmol) dans 100 mLd&apos;acide acétique est chauffée à reflux pendant 10 min. La solution est diluée à l&apos;eau et extraite au dichlorométhane. Les phases organiques sont lavées par une solution de bicarbonate de sodium, puis à l&apos;eau jusqu&apos;à neutralité. Après séchage des phases organiques sur sulfate de magnésium, évaporation du solvant et élution du résidu sur gel de silice par le mélange dichlorométhane-acétone (25 : 1), on isole 0,28 g d&apos;isoindolone 5; Rdt 35%; F = 230°C (acétone-eau); ir v max (KBr) : 1688 (CO), 1628, 1334, 1144cm -1 ; rmn &apos;H (CDC1 3 ) 8 : 5,59 (2H, s, (CH 2 ) 3 0, 6,04 (1H, m, H r ), 6,84 (1H, m, H 6 0, 7,20 (1H, m, H 5 0, 7,27-7,32 (2H, m, H 4 -et H 4 »), 7,39-7,46 (3H, m, H 3 », H 5 » et H 5 ), 7,50 (2H, m, H r et H 6 »), 7,65 (1H, m, H 6 ), 7,96 (1H, m, H 4 ), 8,37 (1H, m, H 7 ); sm m/z : 325 (M + , 100), 296 (57), 268 (54), 165 (19). Anal. calc. pour C 22 H 15 N0 2 : C 81,22, H 4,64, N 4,31; tr. : C 81,11, H 4,66, N 4,17.</p>
+
+			<p>Une solution de l&apos;isoindolone 5 (32,5 mg, 0,1 mmol) dans le dichlorométhane (40 mL) est soumise au passage d&apos;un courant d&apos;ozone (0 3 + 0 2 ) à température ambiante pendant 1 h. L&apos;excès d&apos;ozone est éliminé par un courant d&apos;azote puis on ajoute au milieu réactionnel 1 mL d&apos;une solution d&apos;hydrogénosulfite de sodium (d = 1,32). La phase organique est lavée à l&apos;eau puis séchée sur sulfate de magnésium. Après évaporation du solvant, on isole 19 mg de phtalimide 6; Rdt 87%; F = 208°C (dichlorométhane); identifiée par comparaison avec un échantillon de référence.</p>
+
+			</div>
+		</body>
+		<back>
+			<div type="references">
+
+		<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron</title>
+		<imprint>
+			<biblScope type="vol">37</biblScope>
+			<biblScope type="pp">437</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">C</forename>
+				<forename type="middle">K</forename>
+				<surname>Wong</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">W</forename>
+				<surname>Johnson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">37</biblScope>
+			<biblScope type="pp">1850</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">M</forename>
+				<forename type="middle">B</forename>
+				<surname>Hickey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">R</forename>
+				<surname>Mackenzie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">J</forename>
+				<surname>Moody</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">W</forename>
+				<surname>Rees</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Perkin Trans. 1</title>
+		<imprint>
+			<biblScope type="pp">921</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Zbiral</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Bauer</surname>
+			</persName>
+		</author>
+	</analytic>	
+	<monogr>
+		<title level="j">Phosphorus</title>
+		<imprint>
+			<biblScope type="vol">2</biblScope>
+			<biblScope type="pp">35</biblScope>
+			<date type="published" when="1972" />
+		</imprint>
+	</monogr>	
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Kennedy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">J</forename>
+				<surname>Moody</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">W</forename>
+				<surname>Rees</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">J</forename>
+				<surname>Vaquero</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Perkin Trans. 1</title>
+		<imprint>
+			<biblScope type="pp">1395</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Askner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Froyen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Chem. Scand</title>
+		<imprint>
+			<biblScope type="vol">23</biblScope>
+			<biblScope type="pp">2697</biblScope>
+			<date type="published" when="1969" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Kloek</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">L</forename>
+				<surname>Leschinsky</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">43</biblScope>
+			<biblScope type="pp">1460</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">E</forename>
+				<surname>Jung</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Shishido</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Light</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Davis</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="vol">22</biblScope>
+			<biblScope type="pp">4607</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Appel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Volz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Ber</title>
+		<imprint>
+			<biblScope type="vol">108</biblScope>
+			<biblScope type="issue">623</biblScope>
+			<date type="published" when="1975" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Appel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Siegmund</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Z. Anorg. Allg. Chem</title>
+		<imprint>
+			<biblScope type="vol">363</biblScope>
+			<biblScope type="pp">183</biblScope>
+			<date type="published" when="1968" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Garcia</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Vilarrasa</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Bordas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Banaszek</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetra-Hedron Lett</title>
+		<imprint>
+			<date type="published" when="1986" />
+			<biblScope type="pp">639</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Tabyaoui</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Aubert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Farnier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">Guilard</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Synth. Commun</title>
+		<imprint>
+			<biblScope type="vol">18</biblScope>
+			<biblScope type="pp">1475</biblScope>
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Aubert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Tabyaoui</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Farnier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Guilard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Synthe-sis</title>
+		<imprint>
+			<biblScope type="pp">742</biblScope>
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Aubert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Farnier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Hanquet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Guilard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Synth. Commun</title>
+		<imprint>
+			<biblScope type="vol">17</biblScope>
+			<biblScope type="pp">1831</biblScope>
+			<date type="published" when="1987" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Zbiral</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Bauer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Stroh</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Monatsh. Chem</title>
+		<imprint>
+			<biblScope type="vol">102</biblScope>
+			<biblScope type="pp">168</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">W</forename>
+				<surname>Lochead</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">R</forename>
+				<surname>Proctor</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">P L</forename>
+				<surname>Caton</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Perkin Trans. 1</title>
+		<imprint>
+			<biblScope type="pp">2477</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Yamamoto</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Tabo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Gotoh</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetrahedron Lett</title>
+		<imprint>
+			<biblScope type="pp">2295</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Benachenhou</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Mesli</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>El Borai</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Guilard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Heterocycl. Chem</title>
+		<imprint>
+			<biblScope type="vol">25</biblScope>
+			<biblScope type="pp">1531</biblScope>
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Grigg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">Q N</forename>
+				<surname>Gunaratne</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Sridharan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Chem. Commun</title>
+		<imprint>
+			<biblScope type="pp">1183</biblScope>
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Grigg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">Q N</forename>
+				<surname>Gunaratne</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Kemp</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Perkin Trans. 1</title>
+		<imprint>
+			<biblScope type="pp">41</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Grigg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Soc. Chim. Belg</title>
+		<imprint>
+			<biblScope type="vol">93</biblScope>
+			<biblScope type="issue">593</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Dominh</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">L</forename>
+				<surname>Johnson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">E</forename>
+				<surname>Jones</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">P</forename>
+				<surname>Senise</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">42</biblScope>
+			<biblScope type="pp">4217</biblScope>
+			<date type="published" when="1977" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Yamamoto</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Yanagi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Pharm. Bull</title>
+		<imprint>
+			<biblScope type="vol">30</biblScope>
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Sakamoto</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Kondo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Shiraiwa</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Yamanaka</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Synthesis</title>
+		<imprint>
+			<biblScope type="pp">245</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">R</forename>
+				<surname>Crowne</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">G</forename>
+				<surname>Breckenridge</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">32</biblScope>
+			<biblScope type="pp">641</biblScope>
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">R</forename>
+				<surname>Clemo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">P</forename>
+				<surname>Popli</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="pp">1406</biblScope>
+			<date type="published" when="1951" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Klutchko</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">J</forename>
+				<surname>Blankley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">W</forename>
+				<surname>Fleming</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Hinkley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">E</forename>
+				<surname>Werner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Nordin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Holmes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">L</forename>
+				<surname>Hoefle</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">M</forename>
+				<surname>Cohen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">D</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">R</forename>
+				<surname>Kaplan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Chem</title>
+		<imprint>
+			<biblScope type="vol">29</biblScope>
+			<biblScope type="pp">1953</biblScope>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">A</forename>
+				<surname>Swan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="pp">2038</biblScope>
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">R</forename>
+				<surname>Birchall</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">N</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">B</forename>
+				<surname>Whalley</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc. Chem. Commun</title>
+		<imprint>
+			<biblScope type="pp">474</biblScope>
+			<date type="published" when="1966" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Boger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">E</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">D</forename>
+				<surname>Kelley</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetra-hedron</title>
+		<imprint>
+			<biblScope type="vol">37</biblScope>
+			<biblScope type="pp">3977</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Farnier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Soth</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Fournari</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">54</biblScope>
+			<biblScope type="pp">1066</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Farnier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Soth</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Fournari</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Chem</title>
+		<imprint>
+			<biblScope type="vol">54</biblScope>
+			<biblScope type="pp">1074</biblScope>
+			<date type="published" when="1976" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">O</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">F H</forename>
+				<surname>Allen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Org. Synth. Collect</title>
+		<imprint>
+			<biblScope type="vol">3</biblScope>
+			<biblScope type="pp">710</biblScope>
+			<date type="published" when="1955" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">Fr</forename>
+				<surname>Moulin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Helv. Chim. Acta</title>
+		<imprint>
+			<biblScope type="vol">35</biblScope>
+			<biblScope type="pp">167</biblScope>
+			<date type="published" when="1952" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Forster</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">E</forename>
+				<surname>Fierz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Chem. Soc</title>
+		<imprint>
+			<biblScope type="vol">93</biblScope>
+			<biblScope type="pp">72</biblScope>
+			<date type="published" when="1908" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Knittel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Weidmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Monatsh. Chem</title>
+		<imprint>
+			<biblScope type="vol">101</biblScope>
+			<biblScope type="issue">157</biblScope>
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Kumar</surname>				
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Swaminathan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J. Chem. Sect. B</title>
+		<imprint>
+			<biblScope type="vol">20</biblScope>
+			<biblScope type="pp">271</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">E</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">R</forename>
+				<surname>Hauser</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">36</biblScope>
+			<biblScope type="pp">1607</biblScope>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Mori</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Ban</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Org. Chem</title>
+		<imprint>
+			<biblScope type="vol">43</biblScope>
+			<biblScope type="pp">1684</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">S J P</forename>
+				<surname>Newet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Yevich</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Heterocycl. Chem</title>
+		<imprint>
+			<biblScope type="vol">21</biblScope>
+			<biblScope type="pp">1355</biblScope>
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Kigasawa</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Huragi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Ishimaru</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Shirayama</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Heterocycl. Chem</title>
+		<imprint>
+			<biblScope type="vol">15</biblScope>
+			<biblScope type="issue">369</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+		</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

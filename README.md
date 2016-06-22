@@ -18,3 +18,4 @@ XLO is a rnv/xmllint wrapper who captures the error generate by this validators 
 ## Useful link
 
  - http://www.davidashen.net/rnv.html
+ - http://rubygems.org/gems/xlo

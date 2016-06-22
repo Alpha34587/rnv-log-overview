@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'xlo'
-  s.version     = '0.0.1.0'
+  s.version     = '0.0.1.1'
   s.date        = '2016-06-22'
   s.summary     = "Xml Log Overview"
   s.description = "An aggregator of xml log for rnv and xmllint error"

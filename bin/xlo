@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
-
-require '../lib/xlo'
+require 'xlo'
 rnv_arg = ARGV.shift
 folder_arg = ARGV.shift
 raise "missing argument(s) !" unless rnv_arg

@@ -6,7 +6,7 @@ class Xlo
   def initialize(_file)
     @rnv = []
     @xmllint = []
-    @csv = _file
+    @csv = File.new(_file,"w+")
     @csv << "type; error; freq; files \n"
     @error = {}
   end
@@ -53,19 +53,19 @@ class Xlo
       stdout = Open3.capture3("xmllint #{file}")
       stdout = stdout[1].split("\n")
       stdout.each do |line|
-        if (!line.include?("                 ^"))
-          @xmllint << line.chomp
-        end
+          @xmllint << line
       end
     end
   end
 
   def xmllint_aggregate
-    @xmllint = @xmllint.values_at(* list.each_index.select {|i| i.even?})
 
+    @xmllint.delete_if {|el| el.include?("^")}
+    @xmllint.map { |e| e.chomp  }
+    @xmllint = @xmllint.values_at(* @xmllint.each_index.select {|i| i.even?})
     @xmllint.each do |el|
       split_el = el.split(" ")
-      type = el[/element|attribute/]
+      type = el[/element|attribute|parser error/]
       key = type + ";" + el.split(":")[-1]
       filename =  File.basename(split_el[0])[0..-2]
       if (@error.has_key?(key))
@@ -77,12 +77,12 @@ class Xlo
   end
 
   def csv_writer
-    @error.each do |dict|
-      dict.each do |entry|
-        freq = entry[1].split("||").length.to_s
-        f.write(entry.insert(1, freq).join("; ")[0..-2] +  "\n" )
+    @error.each do |entry|
+        line =  entry.dup
+        p line
+        freq = entry[1].split("||").length
+        @csv.write(line.insert(1, freq.to_s).join("; ")[0..-2] +  "\n" )
       end
-    end
   end
 
   def self.main(_rnv_arg,_folder_arg)

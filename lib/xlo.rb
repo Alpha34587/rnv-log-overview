@@ -23,7 +23,7 @@ class Xlo
 
   def rnv_aggregate
     @rnv.each do |el|
-      if (line.include?("error") && !line.include?("are invalid"))
+      if (el.include?("error") && !el.include?("are invalid"))
 
         type = el.split("error")[1].split(" ")[1]
 
@@ -79,9 +79,9 @@ class Xlo
   def csv_writer
     @error.each do |entry|
         line =  entry.dup
-        p line
+        line[-1] = line[-1].split("||")[0..50].join
         freq = entry[1].split("||").length
-        @csv.write(line.insert(1, freq.to_s).join("; ")[0..-2] +  "\n" )
+        @csv.write(line.insert(1, freq.to_s).join(";")[0..-2] +  "\n" )
       end
   end
 
@@ -90,7 +90,7 @@ class Xlo
     xlo = Xlo.new(File.new("error.csv",  "w+"))
 
     xlo.rnv_wrapper(_rnv_arg, _folder_arg)
-    xlo.aggregate_rnv
+    xlo.rnv_aggregate
 
     xlo.xmllint_wrapper(_folder_arg)
     xlo.xmllint_aggregate

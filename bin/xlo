@@ -1,6 +1,14 @@
 #!/usr/bin/env ruby
 require 'xlo'
-rnv_arg = ARGV.shift
-folder_arg = ARGV.shift
-raise "missing argument(s) !" unless rnv_arg
-Xlo.main(rnv_arg,folder_arg)
+require 'thor'
+
+class MyCLI < Thor
+  desc "start","start xlo"
+  method_option :schema, :aliases => "-s", :desc => "Specify the path of the rnc schema"
+  method_option :input, :aliases => "-i", :desc => "Specify the path of the folder who contains xml files"
+  def start
+      Xlo.main(options[:schema],options[:input])
+  end
+end
+
+cli = MyCLI.start(ARGV)

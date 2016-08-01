@@ -88,22 +88,25 @@ class Xlo
     end
   end
 
-  def self.main(_rnv_arg,_folder_arg)
-    pool_size =  Facter.value('processors')['count']
-    xlo = Xlo.new(File.new("error.csv",  "w+"))
+  def run(_rnv_arg, _folder_arg, _pool_size = 1)
     jobs = Queue.new
     Dir[_folder_arg + "/" + "*.xml"].each {|f| jobs.push f}
 
-    workers = (pool_size).times.map do
+    workers = (_pool_size).times.map do
       Thread.new do
         while jobs.size != 0
           file = jobs.pop
-          xlo.rnv_aggregate(xlo.rnv_wrapper(_rnv_arg,file))
-          xlo.xmllint_aggregate(xlo.xmllint_wrapper(file))
+          rnv_aggregate(rnv_wrapper(_rnv_arg,file))
+          xmllint_aggregate(xmllint_wrapper(file))
         end
       end
     end
     workers.map(&:join)
+  end
+
+  def self.main(_rnv_arg,_folder_arg)
+    xlo = Xlo.new(File.new("error.csv",  "w+"))
+    xlo.run(_rnv_arg, _folder_arg, Facter.value('processors')['count'])
     xlo.csv_writer
   end
 end

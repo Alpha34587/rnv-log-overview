@@ -5,10 +5,10 @@
 			<titleStmt>
 				<title level="a" type="main">Étude chimique et cinétique de l'oxydation homogène en phase gazeuse d'alcanes légers. II. Propane et mécanisme généralisé</title>
 			</titleStmt>
-			<publicationStmt>
+			<publicationStt>
 				<publisher>Canadian Journal of Chemistry</publisher>
 				<date type="published" when="1991">1991</date>
-			</publicationStmt>
+			</publicationStt>
 			<sourceDesc>
 				<biblStruct>
 					<analytic>
@@ -21,7 +21,7 @@
 						<author>
 							<persName>
 								<forename type="first">F</forename>
-								<surname>Baronnet</surname>
+								<surnae>Baronnet</surnae>
 							</persName>
 						</author>
 						<author>

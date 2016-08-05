@@ -4,22 +4,21 @@ require 'facter'
 class Xlo
   attr_accessor :rnv, :xmllint, :csv
 
-  def initialize()
+  def initialize(*args)
     @rnv = []
     @xmllint = []
-    @csv = File.new(_file,"w+")
-    @csv << "type; error; freq; files \n"
+
+    if args.size == 1
+      @csv = File.new(args[0],"w+")
+      @csv << "type; error; freq; files \n"
+    end
+
     @error = {}
     @mutex = Mutex.new
   end
 
-  def initialize(_file)
-    @rnv = []
-    @xmllint = []
-    @csv = File.new(_file,"w+")
-    @csv << "type; error; freq; files \n"
-    @error = {}
-    @mutex = Mutex.new
+  def get_error
+    return @error
   end
 
   def rnv_wrapper (_rnc, _file)

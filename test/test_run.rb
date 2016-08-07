@@ -7,8 +7,8 @@ class TestRun < Test::Unit::TestCase
   def setup
     @xlo_only = Xlo.new
     @xlo_multi = Xlo.new
-    @xlo_only.run("resources/schema/tei-all.rnc","resources/xml",1)
-    @xlo_multi.run("resources/schema/tei-all.rnc","resources/xml",4)
+    @xlo_only.run("resources/schema/tei-all.rnc","resources/xml", 1)
+    @xlo_multi.run("resources/schema/tei-all.rnc","resources/xml", 4)
   end
 
   def test_keys
@@ -20,6 +20,6 @@ class TestRun < Test::Unit::TestCase
     list_multi = []
     @xlo_only.get_error.values.each { |x|  list_only << x.split(/\|\|/).each { |el| el.strip! } }
     @xlo_multi.get_error.values.each { |x|  list_multi << x.split(/\|\|/).each { |el| el.strip! } }
-      assert_equal(list_only.flatten.sort, list_multi.flatten.sort, 'Assertion was false.')
+    assert_equal(list_only.flatten.sort, list_multi.flatten.sort, 'Assertion was false.')
   end
 end

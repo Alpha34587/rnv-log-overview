@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   s.requirements << 'rnv, xmllint'
   s.extra_rdoc_files = ['README.md']
   s.add_runtime_dependency 'thor', '0.19.1'
+  s.add_runtime_dependency 'facter', '2.4.6'
   s.executables << 'xlo'
   s.homepage    =
     'http://rubygems.org/gems/xlo'

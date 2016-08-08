@@ -1,5 +1,5 @@
 require 'test/unit'
-require '../lib/xlo'
+require 'xlo'
 
 class TestRun < Test::Unit::TestCase
   attr_accessor :xlo_only, :xlo_multi
@@ -7,8 +7,8 @@ class TestRun < Test::Unit::TestCase
   def setup
     @xlo_only = Xlo.new
     @xlo_multi = Xlo.new
-    @xlo_only.run("resources/schema/tei-all.rnc","resources/xml", 1)
-    @xlo_multi.run("resources/schema/tei-all.rnc","resources/xml", 4)
+    @xlo_only.run("test/resources/schema/tei-all.rnc","resources/xml", 1)
+    @xlo_multi.run("test/resources/schema/tei-all.rnc","resources/xml", 4)
   end
 
   def test_keys

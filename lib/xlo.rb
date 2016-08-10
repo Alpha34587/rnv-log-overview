@@ -1,5 +1,4 @@
 require 'open3'
-require 'facter'
 
 class Xlo
   attr_accessor :rnv, :xmllint, :csv
@@ -113,6 +112,7 @@ class Xlo
   end
 
   def self.main(_rnv_arg,_folder_arg)
+    require 'facter'
     xlo = Xlo.new("error.csv")
     xlo.run(_rnv_arg, _folder_arg, Facter.value('processors')['count'])
     xlo.csv_writer

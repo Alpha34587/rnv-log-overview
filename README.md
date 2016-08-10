@@ -10,7 +10,7 @@ XLO is a rnv/xmllint wrapper who captures the error generate by this validators 
 1. `gem install xlo`
 2. `apt-get install rnv`
 3. `apt-get install xmllint`
-4. `xlo rnc-schema xml-folder`
+4. `xlo start rnc-schema xml-folder`
 
 ## Note
  the code contains several functions who could be use to like a ruby api

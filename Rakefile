@@ -8,5 +8,3 @@ end
 
 desc "Run tests"
 task :default => :test
-
-#TODO : rakefile must works, travis yaml, auto generate gemspec

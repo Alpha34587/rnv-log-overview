@@ -10,7 +10,7 @@ class TestRun < Test::Unit::TestCase
     @xlo_only.run("test/resources/schema/tei-all.rnc","resources/xml", 1)
     @xlo_multi.run("test/resources/schema/tei-all.rnc","resources/xml", 4)
   end
-
+  
   def test_keys
     assert_equal(@xlo_only.get_error.keys.sort,@xlo_multi.get_error.keys.sort, 'Assertion was false.')
   end

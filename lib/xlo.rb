@@ -1,3 +1,4 @@
+require 'os'
 require 'open3'
 
 class Xlo
@@ -112,9 +113,8 @@ class Xlo
   end
 
   def self.main(_rnv_arg,_folder_arg)
-    require 'facter'
     xlo = Xlo.new("error.csv")
-    xlo.run(_rnv_arg, _folder_arg, Facter.value('processors')['count'])
+    xlo.run(_rnv_arg, _folder_arg, OS.cpu_count)
     xlo.csv_writer
   end
 end

@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'xlo'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.date        = '2016-07-12'
   s.summary     = "Xml Log Overview"
   s.description = "An aggregator of xml log for rnv and xmllint error"
@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '~> 2.1'
   s.requirements << 'rnv, xmllint'
   s.extra_rdoc_files = ['README.md']
-  s.add_runtime_dependency 'facter', '2.4.6'
+  s.add_runtime_dependency 'os', '0.9.6'
   s.add_runtime_dependency 'thor', '0.19.1'
   s.executables << 'xlo'
   s.homepage    =
